@@ -1,0 +1,109 @@
+{
+  "project": "The Lion and the Mouse (शेर और नन्हा चूहा)",
+  "slug": "the-lion-and-the-mouse",
+  "video_duration_seconds": 180.43,
+  "video_duration_formatted": "03:00",
+  "packaging": {
+    "primary_title": "Why 1 Tiny Mouse Saved The Jungle King",
+    "primary_title_score": "100/100 (Validated by title.py)",
+    "bilingual_title": "शेर और नन्हा चूहा | Why 1 Tiny Mouse Saved The King",
+    "ab_titles": [
+      "Why 1 Tiny Mouse Saved The Jungle King",
+      "The Day The Mighty Lion Needed 1 Tiny Mouse",
+      "शेर और नन्हा चूहा: कभी किसी को छोटा मत समझो"
+    ],
+    "thumbnail": {
+      "file": "thumbnail_1280x720.jpg",
+      "text_overlay": "NEVER UNDERESTIMATE",
+      "visual_description": "Cinematic 3D Pixar-style golden lion trapped in heavy hunter ropes, looking down with humble gratitude at a tiny brave brown mouse gnawing the knot, warm golden sunbeams breaking through the dark canopy.",
+      "color_palette": [
+        "#FFB800",
+        "#FF4444",
+        "#1A1A24"
+      ]
+    }
+  },
+  "chapters": [
+    {
+      "timestamp": "00:00",
+      "title_en": "The Sleeping King",
+      "title_hi": "बरगद के नीचे सोता शेर"
+    },
+    {
+      "timestamp": "00:17",
+      "title_en": "The Playful Intruder",
+      "title_hi": "चीकू चूहे का आगमन"
+    },
+    {
+      "timestamp": "00:35",
+      "title_en": "The King's Wrath",
+      "title_hi": "शेर का भयानक क्रोध"
+    },
+    {
+      "timestamp": "00:52",
+      "title_en": "A Tiny Plea for Mercy",
+      "title_hi": "चीकू की करुण पुकार"
+    },
+    {
+      "timestamp": "01:18",
+      "title_en": "Laughter and Freedom",
+      "title_hi": "शेर का अट्टहास और दया"
+    },
+    {
+      "timestamp": "01:46",
+      "title_en": "Caught in the Hunter's Net",
+      "title_hi": "शिकारी का मजबूत जाल"
+    },
+    {
+      "timestamp": "02:10",
+      "title_en": "A Debt Repaid",
+      "title_hi": "चूहे का साहसिक बचाव"
+    },
+    {
+      "timestamp": "02:32",
+      "title_en": "Unlikely Best Friends",
+      "title_hi": "सच्ची मित्रता की जीत"
+    }
+  ],
+  "description": {
+    "text": "In the heart of an ancient forest, the mighty King Lion ruled supreme over all creatures. But when a playful tiny mouse named Chiku awakens the sleeping beast, a single act of unexpected mercy changes the forest forever.\n\nWhen hunters capture the great lion in heavy ropes, the entire jungle trembles in fear—except for one tiny creature who remembers his promise.\n\nMoral of the Story:\nNo act of kindness, no matter how small, is ever wasted. Never underestimate anyone based on their size.\n\nTimestamps:\n00:00 The Sleeping King\n00:17 The Playful Intruder\n00:35 The King's Wrath\n00:52 A Tiny Plea for Mercy\n01:18 Laughter and Freedom\n01:46 Caught in the Hunter's Net\n02:10 A Debt Repaid\n02:32 Unlikely Best Friends\n\nDual Audio Available:\n- Track 1: Hindi (कथावाचक / Swara & Madhur Neural)\n- Track 2: English (Storybook Narrator / Christopher Neural)\n\n#MoralStories #TheLionAndTheMouse #Panchatantra #HindiKahaniya #BedtimeStories #Animation #Fables"
+  },
+  "tags": [
+    "the lion and the mouse",
+    "lion and mouse story",
+    "sher aur chuha",
+    "sher aur chuha ki kahani",
+    "moral stories in hindi",
+    "panchatantra stories",
+    "aesop fables in hindi",
+    "bedtime stories for kids",
+    "3d animated stories",
+    "kids moral stories",
+    "panchatantra animated",
+    "kindness moral story",
+    "never underestimate anyone",
+    "hindi kahaniya"
+  ],
+  "category_id": "27",
+  "category_name": "Education / Kids Entertainment",
+  "made_for_kids": true,
+  "default_language": "hi",
+  "audio_tracks": [
+    {
+      "language": "hi",
+      "file": "voiceover.mp3",
+      "codec": "mp3",
+      "loudness": "-14.0 LUFS"
+    },
+    {
+      "language": "en",
+      "file": "voiceover_english.mp3",
+      "codec": "mp3",
+      "loudness": "-14.0 LUFS"
+    }
+  ],
+  "subtitles": {
+    "srt": "subtitles.srt",
+    "vtt": "subtitles.vtt"
+  }
+}

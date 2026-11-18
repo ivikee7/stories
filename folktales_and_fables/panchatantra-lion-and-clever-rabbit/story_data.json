@@ -1,0 +1,62 @@
+{
+  "title": "भासुरक शेर और चतुर खरगोश की अमर कथा",
+  "slug": "panchatantra-lion-and-clever-rabbit",
+  "characters": {
+    "hi_narrator": {
+      "display_name": "कथावाचक",
+      "voice": "hi-IN-MadhurNeural",
+      "pitch": "-2Hz",
+      "rate": "-3%",
+      "language": "hi-IN",
+      "subtitle_color": "&H00FFFFFF",
+      "hex_color": "#FFFFFF"
+    },
+    "hi_lion": {
+      "display_name": "भासुरक शेर",
+      "voice": "hi-IN-MadhurNeural",
+      "pitch": "-5Hz",
+      "rate": "-4%",
+      "language": "hi-IN",
+      "subtitle_color": "&H000055FF",
+      "hex_color": "#FF5500"
+    },
+    "hi_rabbit": {
+      "display_name": "चतुर खरगोश",
+      "voice": "hi-IN-SwaraNeural",
+      "pitch": "+4Hz",
+      "rate": "+5%",
+      "language": "hi-IN",
+      "subtitle_color": "&H0000FFFF",
+      "hex_color": "#FFFF00"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01_jungle_terror",
+      "title": "शेर का आतंक",
+      "prompt": "Deep dense jungle in ancient India, massive fierce lion roaring on a rocky cliff under dramatic sunset",
+      "dialogue": [
+        {
+          "speaker": "hi_narrator",
+          "text": "प्राचीन काल की बात है, एक घने जंगल में भासुरक नाम का एक अत्यंत बलशाली और अहंकारी शेर रहता था।"
+        },
+        {
+          "speaker": "hi_lion",
+          "text": "अरे नन्हे जीव! तू इतना छोटा है और इतनी देर से आया है? क्या तुझे मेरी भूख का अंदाजा नहीं है?"
+        },
+        {
+          "speaker": "hi_rabbit",
+          "text": "महाराज! क्षमा करें। रास्ते में मुझे एक दूसरा शेर मिल गया था, जो खुद को इस जंगल का असली राजा बता रहा था!"
+        },
+        {
+          "speaker": "hi_lion",
+          "text": "क्या? मेरे अलावा दूसरा राजा? चल, मुझे तुरंत उसके पास ले चल! आज ही उसका वध करूंगा!"
+        },
+        {
+          "speaker": "hi_narrator",
+          "text": "चतुर खरगोश शेर को एक गहरे कुएं के पास ले गया, जहाँ बुद्धि ने अहंकार को हमेशा के लिए परास्त कर दिया।"
+        }
+      ]
+    }
+  ]
+}

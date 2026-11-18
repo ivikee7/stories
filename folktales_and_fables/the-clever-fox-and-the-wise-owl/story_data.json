@@ -1,0 +1,51 @@
+{
+  "title": "The Clever Fox and the Ancient Owl",
+  "slug": "clever-fox-and-wise-owl",
+  "characters": {
+    "narrator": {
+      "display_name": "Forest Storyteller",
+      "voice": "en-US-ChristopherNeural",
+      "pitch": "-1Hz",
+      "rate": "-3%",
+      "subtitle_color": "&H00FFFFFF",
+      "hex_color": "#FFFFFF"
+    },
+    "clever_fox": {
+      "display_name": "Rusty the Fox",
+      "voice": "en-US-AriaNeural",
+      "pitch": "+2Hz",
+      "rate": "+5%",
+      "subtitle_color": "&H000080FF",
+      "hex_color": "#FF8000"
+    },
+    "wise_owl": {
+      "display_name": "Elder Owl",
+      "voice": "en-GB-RyanNeural",
+      "pitch": "-4Hz",
+      "rate": "-6%",
+      "subtitle_color": "&H00E0E0E0",
+      "hex_color": "#E0E0E0"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01_encounter",
+      "title": "Encounter at Midnight",
+      "prompt": "Deep magical woodland under glowing silver moonlight, ancient twisted oak tree with glowing moss, cinematic 3D style",
+      "dialogue": [
+        {
+          "speaker": "narrator",
+          "text": "Deep in the Whispering Woods, where moonlight never touched the forest floor, Rusty the fox encountered the guardian of the grove."
+        },
+        {
+          "speaker": "clever_fox",
+          "text": "Elder Owl! They say your knowledge spans a thousand winters. Tell me, how can a fox outsmart the winter frost?"
+        },
+        {
+          "speaker": "wise_owl",
+          "text": "Cleverness will only carry you so far, young fox. You cannot outrun the frost, but you can learn where the mountain shields the wind."
+        }
+      ]
+    }
+  ]
+}
