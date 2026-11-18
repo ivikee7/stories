@@ -1,0 +1,80 @@
+{
+  "slug": "the-blue-jackal",
+  "title_en": "The Blue Jackal",
+  "title_hi": "नीला सियार - ढोंग का पर्दाफाश",
+  "sub_hook": "झूठा रूप और ढोंग ज़्यादा दिन नहीं छिपता!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "jackal": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+1Hz"
+    },
+    "lion": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-4Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_hungry_jackal_village_raid",
+      "title": "A Hungry Scavenger / भूख और शहर का रुख",
+      "prompt": "Cinematic 3D animation, Pixar style, a scrawny, clever golden jackal named Chandarava prowling through narrow cobbled medieval Indian town alleys at dusk, looking for food scraps, barking stray dogs in the shadows, 16:9 widescreen 4k.",
+      "hi": "चंदरवा नाम का एक भूखा सियार भोजन की तलाश में जंगल छोड़कर एक पास के शहर में घुस गया। वह बहुत कमजोर और भूखा था। गलियों में भटकते हुए शहर के आवारा कुत्तों के झुंड ने उसे देख लिया और जोर-जोर से भौंकते हुए उसके पीछे पड़ गए।",
+      "en": "Deeply famished and desperate for food, a scrawny jackal named Chandarava crept out of the forest and sneaked into the narrow cobblestone alleys of a human township. Suddenly, a ferocious pack of street hounds spotted him and gave chase."
+    },
+    {
+      "id": "02_the_indigo_vat_accident",
+      "title": "The Indigo Vat / नीले रंग के हौज में छलांग",
+      "prompt": "Dynamic action 3D shot, jackal leaping desperately into an open wooden courtyard of a dyer's workshop, splashing headfirst into a massive ceramic vat brimming with deep indigo blue dye, blue splashes splashing everywhere.",
+      "hi": "कुत्तों से अपनी जान बचाने के लिए सियार बेतहाशा भागा। रास्ते में एक धोबी के आँगन में कपड़ों को रंगने के लिए नीले रंग से भरा एक बड़ा हौज रखा था। बिना कुछ सोचे-समझे सियार ने सीधे उस नीले हौज में छलांग लगा दी!",
+      "en": "Running for his very life, the frantic jackal dashed into the courtyard of a textile dyer. Seeing a massive earthen vat brimming with deep indigo dye, he leaped blindly inside, submerging completely beneath the dark blue liquid."
+    },
+    {
+      "id": "03_the_blue_transformation",
+      "title": "The Blue Transformation / जादुई नीला अवतार",
+      "prompt": "Vibrant close-up 3D animation, the jackal climbing out of the indigo tub under the morning sun, his entire coat of fur transformed into a mystical, radiant electric sapphire blue, sparkling water drops, wide shocked eyes.",
+      "hi": "कुत्ते वहाँ से चले गए। जब सियार हौज से बाहर निकला और धूप में सूखा, तो उसने पानी में अपनी परछाई देखी। वह सिर से पूँछ तक गहरे चमकीले नीले रंग का हो चुका था! उसने पहले कभी ऐसा विचित्र जीव नहीं देखा था।",
+      "en": "When the barking dogs finally dispersed, the drenched jackal crawled out and dried his fur in the morning sun. Peering into a puddle, he gasped: his entire fur coat had transformed into an electrifying, radiant sapphire blue!"
+    },
+    {
+      "id": "04_terror_in_the_jungle",
+      "title": "Terror in the Jungle / जंगल में खलबली",
+      "prompt": "Dramatic 3D wide shot, lush jungle clearing, animals including deer, monkeys, tigers, and elephants backing away in awe and terror as the mystical glowing blue creature struts forward calmly on a high mossy rock.",
+      "hi": "जब चंदरवा जंगल में लौटा, तो शेर, चीता, हाथी, बंदर सब उसे देखकर डर के मारे थर-थर कांपने लगे। उन्होंने सोचा कि यह आसमान से उतरा कोई अलौकिक, शक्तिशाली प्राणी है जो जंगल के सभी जानवरों को नष्ट करने आया है।",
+      "en": "Returning to the forest, the strange blue beast created total panic. Lions, tigers, leopards, and elephants backed away in sheer awe and dread, whispering that a celestial divine monster had descended to conquer the wild."
+    },
+    {
+      "id": "05_the_false_king_coronation",
+      "title": "The False King's Decree / भगवान का भेजा हुआ राजा",
+      "prompt": "Cinematic 3D animation, the blue jackal seated proudly atop a carved stone boulder like an emperor, a mighty lion and fierce tiger bowing low before him offering a feast of fresh fruits and roasted meats.",
+      "hi": "जानवरों का डर देखकर सियार ने चालाकी दिखाई: 'डरो मत! भगवान ब्रह्मा ने मुझे स्वयं अपने हाथों से बनाकर भेजा है ताकि मैं तुम्हारा राजा बनकर जंगल की रक्षा करूँ!' मूर्ख शेर और बाघ ने सिर झुका लिया और उसे जंगल का महाराज घोषित कर दिया।",
+      "en": "Seizing the psychological advantage, Chandarava puffed out his chest: 'Fear not! Lord Brahma Himself forged me with His hands and appointed me Supreme Sovereign of this forest!' The mighty predators bowed low, declaring him their Emperor."
+    },
+    {
+      "id": "06_banishing_the_pack",
+      "title": "Banishing the Jackal Pack / सियारों का निष्कासन",
+      "prompt": "Dramatic 3D medium shot, the blue jackal sitting royally, angrily waving his paw to banish a pack of ordinary grey jackals from the royal court, fearing they would recognize his scent and voice.",
+      "hi": "राजा बनते ही सियार ने शेर को अपना सेनापति और चीते को दरबारी बनाया। लेकिन अपने भेद खुलने के डर से उसने जंगल के सारे साधारण सियारों को दरबार से धक्के मारकर बाहर निकलवा दिया ताकि कोई उसकी आवाज़ न पहचान सके।",
+      "en": "As king, he appointed the lion as general and the tiger as guardian. But terrified that his true kin would sniff out his deception, he ruthlessly banished every ordinary jackal from the royal boundaries."
+    },
+    {
+      "id": "07_the_moonlight_howl",
+      "title": "The Moonlight Howl / पूर्णिमा की रात और भेद खुला",
+      "prompt": "Dynamic nighttime 3D action shot, full moon glowing through jungle canopy, in the distant valley a pack of jackals howling 'Aaoo-aaoo!', the blue jackal unable to resist instincts, tilting head back and howling loudly in court.",
+      "hi": "एक पूर्णिमा की रात, जंगल के कोने से सियारों के एक झुंड ने 'हुआँ-हुआँ' की सामूहिक आवाज़ लगाई। जन्मजात आदत के कारण नीला सियार अपने आप को रोक न सका। अपनी राजसी गरिमा भूलकर उसने भी गर्दन ऊपर उठाई और जोर-जोर से सियार की तरह रोने लगा!",
+      "en": "One fateful full moon night, from a distant valley drifted the collective chorus of howling jackals. Instinct proved irresistible. Overcome by primal biology, the blue king tilted his muzzle to the heavens and let out a loud, pathetic jackal howl!"
+    },
+    {
+      "id": "08_unmasking_and_lesson",
+      "title": "The Fall of Pretence / ढोंग का अंत और सीख",
+      "prompt": "Dramatic 3D resolution shot, the furious lion and tiger lunging with bared claws at the shivering blue jackal as the rain begins to wash off the blue dye, justice in the animal kingdom, profound moral finale.",
+      "hi": "शेर और चीते ने तुरंत पहचान लिया: 'अरे! यह कोई भगवान का दूत नहीं, यह तो एक मामूली सियार है जिसने हमें मूर्ख बनाया!' गुस्साए जानवरों ने उस पर हमला कर दिया और ढोंगी सियार का अंत हो गया। सीख: कोई कितना भी रूप बदल ले या ढोंग कर ले, उसकी असलियत और संस्कार कभी न कभी बाहर आ ही जाते हैं।",
+      "en": "The lion roared in outrage: 'A jackal! A wretched scavanger made fools of the kings of the jungle!' The furious beasts tore into the imposter, ending his fraudulent reign forever. Moral: No disguise can alter true nature; false pretense may rule for a season, but truth unmasks all impostors in the end."
+    }
+  ]
+}

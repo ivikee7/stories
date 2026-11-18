@@ -1,0 +1,90 @@
+{
+  "slug": "the-four-friends",
+  "title_en": "The Four Friends: Unity in Danger",
+  "title_hi": "चार सच्चे मित्र: एकता में बल",
+  "sub_hook": "सच्ची मित्रता और एकता से हर संकट टल जाता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "deer": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+1Hz"
+    },
+    "crow": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+3Hz"
+    },
+    "mouse": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+5Hz"
+    },
+    "turtle": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-2Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_four_friends_lake",
+      "title": "A Gathering of Friends / झील किनारे चार मित्र",
+      "prompt": "Cinematic 3D animation, pristine sparkling jungle lake, a graceful golden spotted deer, an intelligent black crow, a wise green tortoise, and a tiny energetic field mouse chatting peacefully together under a giant banyan tree, 16:9 widescreen 4k.",
+      "hi": "एक घने और शांत जंगल में एक विशाल झील के किनारे चार मित्र रहते थे—चित्रांग नाम का एक सुंदर हिरण, लघुपतनक नाम का एक चतुर कौआ, मंथरक नाम का एक धीर कछुआ और हिरण्यक नाम का एक नन्हा समझदार चूहा। चारों रोज़ शाम को मिलकर सुख-दुख बाँटते थे।",
+      "en": "In the depths of an ancient forest beside a secluded lake lived four loyal friends: Chitrang the graceful spotted deer, Laghupatanaka the swift crow, Mantharaka the wise turtle, and Hiranyaka the quick-witted mouse. Their loyalty was the jewel of the woods."
+    },
+    {
+      "id": "02_deer_missing",
+      "title": "The Missing Deer / शाम की बेचैनी",
+      "prompt": "Atmospheric 3D sunset scene, long orange shadows across the water, the crow, tortoise, and mouse looking worriedly into the dark forest thicket, the deer has not returned.",
+      "hi": "एक शाम सूरज ढल गया, लेकिन हिरण अपनी रोज़ की जगह पर नहीं पहुँचा। तीनों मित्रों को चिंता सताने लगी कि कहीं उनका मित्र किसी शिकारी या खूँखार जानवर के चंगुल में तो नहीं फँस गया। कौआ तुरंत आसमान में उड़कर तलाश करने लगा।",
+      "en": "One evening as the sun sank below the canopy, the deer failed to arrive. Sensing imminent danger, the three companions grew frantic. Spreading his glossy wings, the crow soared high above the treetops to scout the wilderness."
+    },
+    {
+      "id": "03_deer_trapped_net",
+      "title": "Trapped in the Hunter's Net / शिकारी के जाल में हिरण",
+      "prompt": "Dynamic low-angle 3D shot, twilight forest, the majestic deer trapped firmly inside thick woven hemp hunter ropes tied between saplings, struggling in distress as the crow perches on a branch above.",
+      "hi": "घने जंगल में कुछ दूर जाकर कौए ने देखा कि हिरण एक क्रूर शिकारी के मजबूत रस्सियों के जाल में फँसा हुआ है। कौआ उसके पास उतरा और बोला: 'मित्र चित्रांग, घबराओ मत! हम सब मिलकर तुम्हें आज ही आज़ाद कराएँगे!'",
+      "en": "Deep in a bamboo thicket, the crow discovered the deer hopelessly ensnared in a hunter's heavy hemp net. Perching on a branch, the crow called out: 'Courage, dear friend! Do not despair—our brotherhood will break your chains!'"
+    },
+    {
+      "id": "04_the_rescue_operation",
+      "title": "The Daring Rescue / चूहे की धारदार मदद",
+      "prompt": "Dynamic 3D action scene, the crow flying carrying the tiny field mouse on his back, landing near the trapped deer, the mouse rapidly gnawing through the thick fiber ropes with sharp teeth.",
+      "hi": "कौआ तुरंत वापस उड़ा और चूहे को अपनी पीठ पर बिठाकर हवा के रास्ते जाल तक ले आया। नन्हे चूहे ने अपने तेज़ और पैने दाँतों से जाल की मोटी रस्सियों को तेज़ी से काटना शुरू किया। कुछ ही मिनटों में हिरण आज़ाद हो गया!",
+      "en": "Flying back to the lake, the crow carried the brave mouse on his back across the canopy. Reaching the trapped deer, the mouse deployed his needle-sharp teeth, rapidly slicing through the thick cords until the deer leaped free!"
+    },
+    {
+      "id": "05_turtle_captured",
+      "title": "The Turtle's Peril / कछुए का पकड़ा जाना",
+      "prompt": "Dramatic 3D medium shot, the heavy hunter in animal skins arriving with a bow and spear, finding his cut empty net, but spotting the slow tortoise crawling on the path and tying him in a leather pouch.",
+      "hi": "तभी चिंतावश धीमे-धीमे चलता हुआ कछुआ भी वहाँ पहुँच गया। उसी पल भारी कदमों के साथ शिकारी आ पहुँचा! हिरण झाड़ियों में भाग गया, कौआ पेड़ पर उड़ गया और चूहा बिल में छिप गया, लेकिन धीमा कछुआ पकड़ा गया। शिकारी ने उसे झोले में बाँध लिया।",
+      "en": "Just then, the slow turtle arrived out of concern. At that exact moment, the grim hunter returned! The swift deer bolted, the crow took flight, and the mouse darted into a burrow. But the plodding turtle was trapped; the hunter bagged him in a leather sack."
+    },
+    {
+      "id": "06_the_fake_corpse_strategy",
+      "title": "The Master Feint / हिरण का नाटक",
+      "prompt": "Clever dramatic 3D shot, the deer lying seemingly lifeless on the forest path near the riverbank, the crow pretending to peck at its eyes, while the hunter drops the bag with the turtle and runs excitedly toward the 'dead' deer.",
+      "hi": "अपने मित्र कछुए को बचाने के लिए चारों ने एक अभूतपूर्व रणनीति बनाई। कुछ दूर आगे हिरण रास्ते में ऐसे लेट गया जैसे वह मर चुका हो, और कौआ उसकी आँखों पर चोंच मारने का नाटक करने लगा। शिकारी हिरण को देखकर कछुए का झोला छोड़कर हिरण की ओर दौड़ा।",
+      "en": "To liberate their fourth brother, the three hatched a brilliant ruse. Further down the path, the deer threw himself upon the grass, pretending to be dead, while the crow pecked at his eyes. Thrilled by this free prize, the hunter dropped his bag and charged."
+    },
+    {
+      "id": "07_gnawing_the_bag",
+      "title": "The Turtle Freed / झोले की मुक्ति",
+      "prompt": "Fast-paced 3D close-up, while the hunter is distracted in the background, the tiny mouse darting out and chewing through the leather straps of the bag, freeing the turtle who slips into deep river water.",
+      "hi": "जैसे ही शिकारी हिरण की ओर बढ़ा, चूहा फुर्ती से झोले पर लपका और उसने झोले की डोरी काट दी। कछुआ तुरंत पास के गहरे पानी में सरक गया। उधर जब शिकारी हिरण के करीब पहुँचा, तो हिरण हवा की रफ्तार से उठकर भाग निकला!",
+      "en": "The second the hunter turned his back, the mouse darted from the grass and shredded the sack's cord. The turtle splashed safely into the deep river. And just as the hunter reached out his hand, the 'dead' deer sprang up and vanished into the trees!"
+    },
+    {
+      "id": "08_celebration_of_brotherhood",
+      "title": "The Victory of Brotherhood / सच्चे मित्रों की विजय",
+      "prompt": "Golden sunrise over the peaceful forest lake, the four friends reunited safely together on the lush green bank smiling warmly, birds singing, profound cinematic celebration.",
+      "hi": "शिकारी खाली हाथ सिर पकड़कर जंगल से चला गया। चारों मित्र दोबारा अपनी झील किनारे सुरक्षित और खुशी से मिले। सीख: जब अलग-अलग गुणों वाले सच्चे मित्र एक साथ मिलकर काम करते हैं, तो वे दुनिया के सबसे बड़े संकट और सबसे शक्तिशाली शत्रु को भी मात दे सकते हैं।",
+      "en": "Empty-handed and utterly confounded, the defeated hunter stumbled home. Safe once more beside their beloved lake, the four brothers celebrated their triumph. Moral: True friendship and harmonious cooperation can overcome the gravest peril and outwit the strongest foe."
+    }
+  ]
+}
