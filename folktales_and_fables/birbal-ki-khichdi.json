@@ -1,0 +1,85 @@
+{
+  "slug": "birbal-ki-khichdi",
+  "title_en": "Birbal's Khichdi: The Warmth of Hope",
+  "title_hi": "बीरबल की खिचड़ी - उम्मीद की लौ",
+  "sub_hook": "सच्चे न्याय के लिए बुद्धि का सही प्रयोग!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "akbar": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-4Hz"
+    },
+    "birbal": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+1Hz"
+    },
+    "poor_man": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural",
+      "pitch": "-1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_freezing_winter_palace",
+      "title": "The Freezing Winter Challenge / कड़ाके की ठंड और शाही शर्त",
+      "prompt": "Cinematic 3D animation, grand Mughal palace marble terrace with ornate arches overlooking the freezing Yamuna river at midnight, Emperor Akbar in fur-trimmed royal robe wrapped warmly, standing with witty advisor Birbal, 16:9 widescreen 4k.",
+      "hi": "मुगल शहंशाह अकबर के शासनकाल में दिल्ली में कड़ाके की ठंड पड़ रही थी। यमुना नदी का पानी बर्फ जैसा ठंडा हो चुका था। अकबर ने महल की छत से नदी को देखकर कहा: 'बीरबल, क्या कोई इंसान इस बर्फीले पानी में पूरी रात खड़ा रह सकता है? जो ऐसा करेगा, उसे मैं एक हज़ार सोने की मोहरें दूँगा!'",
+      "en": "During the reign of Emperor Akbar, an unforgiving winter froze the capital. Watching the icy Yamuna River from his palace ramparts, wrapped in thick silks and furs, Akbar mused: 'Birbal, can any man survive standing chest-deep in this freezing water all night? Whoever achieves this shall receive a thousand gold coins!'"
+    },
+    {
+      "id": "02_the_poor_washerman_stands",
+      "title": "A Father's Agony / गरीब धोबी की परीक्षा",
+      "prompt": "Dramatic 3D night scene, moonlight casting silver light over dark icy swirling river water, a poor gaunt washerman in thin cloth standing neck-deep in the freezing river shivering violently, gazing at a distant palace terrace lamp.",
+      "hi": "दीनू नाम का एक गरीब धोबी अपने भूखे बच्चों के लिए जान जोखिम में डालने को तैयार हो गया। वह पूरी रात बर्फीले पानी में गले तक खड़ा रहा। उसके दाँत बज रहे थे और शरीर जम रहा था, लेकिन दूर महल की बुर्ज पर जलते एक छोटे से दीपक को देखकर उसने पूरी रात हिम्मत बाँधे रखी।",
+      "en": "Driven by the desperate plight of his starving children, an impoverished washerman named Deenu took the impossible challenge. Standing in the freezing torrent all night, his teeth chattering and lips blue, he kept his eyes locked upon a distant lantern glowing upon the palace ramparts for warmth of spirit."
+    },
+    {
+      "id": "03_denial_of_reward",
+      "title": "The Emperor's Refusal / सम्राट का अन्यायपूर्ण इनकार",
+      "prompt": "Opulent Mughal court Durbar in 3D, Emperor Akbar seated on the Peacock Throne, the shivering poor man bowing humbly, Akbar sternly rejecting the reward claiming the lamp warmed him.",
+      "hi": "सुबह जब दीनू दरबार में इनाम लेने पहुँचा, तो अकबर ने पूछा: 'तुम इतनी ठंड में पूरी रात कैसे जीवित रहे?' दीनू ने ईमानदारी से कहा: 'हुज़ूर, महल के बुर्ज पर जलते दीपक को देखकर मुझे आशा मिलती रही।' अकबर ने कहा: 'तुमने उस दीपक की गर्मी से जान बचाई, इसलिए तुम इनाम के हकदार नहीं हो!'",
+      "en": "At dawn, surviving by sheer willpower, Deenu presented himself in the royal court. When Akbar asked how he survived, Deenu answered truthfully: 'Your Majesty, gazing at the palace lamp in the distance gave my heart courage.' Cruelly, Akbar declared: 'You stole warmth from our imperial lamp! You shall receive no reward!'"
+    },
+    {
+      "id": "04_birbal_missing_from_court",
+      "title": "Birbal's Absence / बीरबल की गैरहाजिरी",
+      "prompt": "Cinematic 3D shot, the Emperor sitting perplexed on his throne the next morning surrounded by courtiers, Birbal's seat noticeably vacant, royal messenger arriving with a curious report.",
+      "hi": "दीनू रोता हुआ लौट गया। बीरबल को यह अन्याय सहन नहीं हुआ। अगले दिन बीरबल दरबार में नहीं आए। अकबर ने संदेशवाहक भेजा तो खबर आई कि बीरबल अपने घर पर 'खिचड़ी' पका रहे हैं और खिचड़ी पकते ही दरबार आएँगे।",
+      "en": "Heartbroken, the poor man wept. Disgusted by this injustice, Birbal stayed away from court the following morning. When royal messengers were dispatched, they returned reporting that Birbal was at home cooking khichdi, and would attend once the rice boiled."
+    },
+    {
+      "id": "05_akbar_visits_the_garden",
+      "title": "The Bizarre Cooking / दूर आग और ऊँची हांडी",
+      "prompt": "Comedic dramatic 3D animation, a serene garden courtyard, three tall twenty-foot bamboo poles tied in a tripod holding a tiny clay cooking pot suspended high in the air, with a tiny flickering fire burning on the grass far below.",
+      "hi": "दोपहर हो गई, लेकिन बीरबल नहीं आए। हैरान होकर अकबर खुद बीरबल के बगीचे में पहुँचे। वहाँ उन्होंने एक विचित्र नज़ारा देखा—ज़मीन पर एक छोटी सी आग जल रही थी, और उससे बीस फीट ऊपर ऊँचे बाँस के सहारे एक छोटी सी मिट्टी की हांडी लटक रही थी! बीरबल पास बैठकर पंखा झल रहे थे।",
+      "en": "By afternoon, curiosity got the better of Akbar. Visiting Birbal's garden, he was confronted by an absurd sight: a tiny fire flickered on the soil, while suspended twenty feet in the air from tall bamboo poles hung a small earthen cooking pot! Birbal sat calmly fanning the tiny flames."
+    },
+    {
+      "id": "06_akbar_questions_sanity",
+      "title": "Is This Madness? / क्या बीरबल पागल हो गए?",
+      "prompt": "Close-up 3D shot, Emperor Akbar laughing incredulously, gesturing with royal ringed hands toward the distant high pot, Birbal looking serious and composed with folded hands.",
+      "hi": "अकबर जोर से हँसे: 'बीरबल! क्या तुम्हारी बुद्धि मारी गई है? इतनी दूर जलती आग की गर्मी बीस फीट ऊँची हांडी तक कैसे पहुँचेगी? तुम्हारी खिचड़ी तो सात जन्मों में भी नहीं पकेगी!'",
+      "en": "Akbar roared with laughter: 'Birbal! Have you lost your mind? How can the faint warmth of a ground fire reach a pot hanging twenty feet above in the breeze? Your khichdi will not cook in seven lifetimes!'"
+    },
+    {
+      "id": "07_the_revelation_mirror",
+      "title": "The Mirror of Truth / बीरबल का सटीक प्रहार",
+      "prompt": "Dramatic 3D close-up, Birbal bowing with piercing, respectful intelligence, looking straight into the Emperor's eyes as the realization of injustice strikes Akbar like a thunderbolt.",
+      "hi": "बीरबल ने हाथ जोड़कर अत्यंत विनम्रता से कहा: 'जहाँपनाह! अगर दो मील दूर महल के बुर्ज पर जलता हुआ एक छोटा सा दीपक यमुना के बर्फीले पानी में खड़े धोबी को गर्मी दे सकता है, तो फिर बीस फीट की दूरी पर यह आग मेरी खिचड़ी क्यों नहीं पका सकती?'",
+      "en": "Birbal bowed with serene, razor-sharp grace: 'Your Majesty! If a tiny candle on a palace balcony two miles away could transmit warmth through the icy gale to heat a man in the river, why can this blazing fire not cook a pot twenty feet away?'"
+    },
+    {
+      "id": "08_justice_delivered_moral",
+      "title": "Justice Triumphs / न्याय की जीत और सीख",
+      "prompt": "Splendid royal court 3D resolution shot, Emperor Akbar smiling warmly, placing a heavy sack of two thousand gold coins into the hands of the overjoyed washerman, while Birbal smiles knowingly, moral cinematic conclusion.",
+      "hi": "अकबर को अपनी गलती का तुरंत अहसास हो गया। उन्होंने लज्जित होकर बीरबल की बुद्धिमानी की दाद दी। शहंशाह ने तुरंत दीनू को दरबार में बुलवाया और उसे एक हज़ार के बदले दो हज़ार सोने की मोहरें देकर सम्मानित किया। सीख: सच्चा न्याय कुतर्कों पर नहीं, मानवीय संवेदना और निष्पक्षता पर आधारित होना चाहिए; बुद्धिमानी से किसी भी अन्याय को सुधारा जा सकता है।",
+      "en": "The truth struck Akbar with humbling force. Ashamed of his petty rationalization, the Emperor summoned Deenu to the court and rewarded him double the prize—two thousand gold coins! Moral: Justice must never be subverted by absurd sophistry; a wise mind can hold up a mirror that awakens conscience and restores equity."
+    }
+  ]
+}

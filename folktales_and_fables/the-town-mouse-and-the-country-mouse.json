@@ -1,0 +1,80 @@
+{
+  "slug": "the-town-mouse-and-the-country-mouse",
+  "title_en": "The Town Mouse and the Country Mouse",
+  "title_hi": "शहरी चूहा और देहाती चूहा",
+  "sub_hook": "भय से भरे विलास से शांति भरी सादगी बेहतर है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "country_mouse": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+2Hz"
+    },
+    "town_mouse": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_peaceful_countryside_burrow",
+      "title": "The Simple Country Hearth / देहात की शांत कुटिया",
+      "prompt": "Cinematic 3D animation, Pixar style, charming rustic meadow burrow beneath mossy tree roots, a simple country mouse named Chhotu in patchwork apron serving dry wheat seeds, wild acorns, and clear spring water on a leaf plate, 16:9 widescreen 4k.",
+      "hi": "छोटू नाम का एक सीधा-सादा देहाती चूहा शांत हरे-भरे खेतों के बीच एक पेड़ की जड़ के नीचे रहता था। एक दिन उसका चचेरा भाई 'मोन्टी', जो शहर के एक आलीशान बंगले में रहता था, उससे मिलने आया। छोटू ने प्यार से उसका स्वागत किया और उसे सूखे अनाज, जामुन और ठंडे झरने का पानी परोसा।",
+      "en": "Deep in a tranquil countryside meadow lived Chhotu, a humble field mouse. One sunny morning, his sophisticated cousin Monty, who lived in a lavish metropolitan mansion, arrived for a visit. Chhotu welcomed him warmly, offering his best fare: dry wheat seeds, wild berries, and spring water."
+    },
+    {
+      "id": "02_town_mouse_disdain",
+      "title": "Town Mouse's Contempt / शहरी चूहे की हेकड़ी",
+      "prompt": "Expressive 3D shot, the slick, dapper town mouse wearing a tiny silk velvet jacket and monocle, turning his nose up in disdain at the simple acorns on the leaf, gesturing proudly toward the city.",
+      "hi": "रेशमी कोट पहने शहरी चूहे ने मुँह सिकोड़ा: 'अरे भाई छोटू! तुम यह सूखी घास और रूखी-सूखी चीजें कैसे खा लेते हो? तुम तो यहाँ कीड़े-मकोड़ों की तरह जी रहे हो! मेरे साथ शहर चलो, मैं तुम्हें असली अमीरी और राजसी दावतें दिखाऊँगा!'",
+      "en": "Monty, sporting a tiny velvet coat and groomed whiskers, turned up his snout in disgust: 'Good heavens, cousin! How can you survive on such peasant rations? You live like an insect! Come with me to the city, and feast like an emperor!'"
+    },
+    {
+      "id": "03_arrival_at_the_mansion",
+      "title": "The Grand Metropolis / भव्य हवेली का डाइनिंग हॉल",
+      "prompt": "Opulent 3D animation, towering Victorian dining hall with glowing crystal chandeliers, polished mahogany dining table laden with golden trays of cheeses, pastries, jellies, and roasted almonds.",
+      "hi": "छोटू अपने भाई के साथ शहर पहुँच गया। शहर की एक विशाल हवेली के डाइनिंग हॉल में जब वे घुसे, तो मेज़ पर दावत के बचे हुए पकवान देखकर छोटू की आँखें चौंधिया गईं—विदेशी पनीर, मलाईदार केक, किशमिश और बादाम की भरमार थी!",
+      "en": "Intrigued, Chhotu accompanied his cousin to the metropolis. Creeping into the dining hall of a magnificent mansion, the country mouse was bedazzled: the table groaned with remnants of a royal banquet—aged cheeses, frosted tarts, rich jellies, and roasted nuts!"
+    },
+    {
+      "id": "04_first_taste_of_luxury",
+      "title": "The Taste of Royalty / पहली शाही बाइट",
+      "prompt": "Close-up vibrant 3D shot, the two mice standing atop a silver platter nibbling greedily on a massive wedge of golden Swiss cheese and sweet blueberry tart, joyful feast.",
+      "hi": "दोनों मेज़ पर चढ़ गए और मुलायम, स्वादिष्ट स्विस चीज़ और मीठे पेस्ट्री के टुकड़ों पर टूट पड़े। छोटू ने ऐसी लाजवाब चीज़ें अपनी जिंदगी में कभी नहीं खाई थीं। उसने सोचा: 'सचमुच, शहर की जिंदगी तो स्वर्ग है!'",
+      "en": "Clambering onto a silver platter, both nibbled eagerly on a fragrant wedge of golden Swiss cheese and sweet pastry crumb. In pure delight, Chhotu marveled: 'Truly, city life is paradise!'"
+    },
+    {
+      "id": "05_the_ferocious_mastiff_attacks",
+      "title": "The Attack of the Beasts / खूँखार कुत्तों का धावा",
+      "prompt": "Terrifying dramatic 3D action shot, the massive heavy oak doors bursting open, two giant barking Mastiff hunting hounds with bared fangs lunging into the room, snapping jaws.",
+      "hi": "तभी अचानक भारी दरवाजे खुले और दो खूँखार, विशाल शिकारी कुत्ते भौंकते हुए कमरे में घुसे! उनकी भयानक गर्जना से कमरा गूँज उठा और वे सीधे डाइनिंग टेबल की ओर लपके!",
+      "en": "Suddenly, the heavy oak double doors burst open! Two ferocious mastiff hounds lunged into the hall, barking like thunder and snapping lethal fangs, charging straight at the banquet table!"
+    },
+    {
+      "id": "06_panicked_scramble_for_life",
+      "title": "The Narrow Escape / जानलेवा दौड़",
+      "prompt": "Fast-paced dynamic 3D shot, the two mice scurrying at lightning speed across polished slippery parquet floor, a giant hound's paw slamming inches behind their tails as they dive into a tiny wall hole.",
+      "hi": "दोनों चूहे अपनी जान बचाने के लिए टेबल से कूदे और चिकने फर्श पर फिसलते हुए भागे। एक कुत्ते का भारी पंजा छोटू की पूँछ के ठीक पीछे पड़ा। दोनों बाल-बाल बचते हुए दीवार के एक संकरे छेद में जा घुसे!",
+      "en": "Terror-stricken, the mice leaped from the table and dashed across the polished floor. A giant canine paw smashed down a fraction of an inch behind Chhotu's tail as both dove into a dark cranny in the wainscot!"
+    },
+    {
+      "id": "07_shivering_in_the_dark",
+      "title": "The Fear of Terror / खौफ का साया",
+      "prompt": "Emotional dark 3D medium shot, the country mouse pressed against the cold brick wall in the dark mousehole, clutching his wildly beating heart, eyes wide with horror, while outside dogs scratch and growl at the opening.",
+      "hi": "छेद के अंदर अँधेरे में छोटू का दिल इतनी ज़ोर से धड़क रहा था मानो सीने से बाहर आ जाएगा। बाहर कुत्ते दरवाजे पर पंजे मार रहे थे। मोन्टी ने फुसफुसाया: 'डरो मत, जब वे चले जाएँगे तब हम फिर से केक खाएँगे।'",
+      "en": "Inside the cramped hole, Chhotu's heart hammered against his ribs like a war drum. Outside, claws scratched frantically at the molding. Monty whispered nonchalantly: 'Do not worry, as soon as they leave, we can sneak back out for more pastry!'"
+    },
+    {
+      "id": "08_return_to_peaceful_freedom",
+      "title": "Peace Over Luxury / सीख और देहात वापसी",
+      "prompt": "Warm golden sunrise over the serene country meadow, the happy country mouse sitting peacefully outside his humble burrow eating dry wheat grains with a contented smile, gentle breeze, heartwarming finale.",
+      "hi": "छोटू ने अपना झोला उठाया और तुरंत कहा: 'अलविदा भाई! तुम्हें तुम्हारी यह भय और मौत से भरी विलासिता मुबारक हो। मैं अपने देहात लौट रहा हूँ, जहाँ मुझे भले ही सूखी रोटियाँ मिलें, लेकिन मैं शांति और आज़ादी से जी तो सकता हूँ!' सीख: लगातार डर और खतरे में जीने वाले विलासिता भरे जीवन से, शांति, सुरक्षा और आज़ादी से भरा सादा जीवन लाख गुना बेहतर है।",
+      "en": "Chhotu strapped on his knapsack immediately: 'Farewell, cousin! You may keep your royal banquet and your constant terror! I prefer my dry acorns in peace to a golden feast shadowed by death!' Moral: Better a humble crust eaten in peace and safety than a rich banquet seasoned with fear and peril."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "open-source-vs-closed-source-ai",
+  "title_en": "Open Source vs Closed AI: Who Controls the Future?",
+  "title_hi": "ओपन सोर्स बनाम बंद एआई: भविष्य का स्वामी कौन?",
+  "sub_hook": "प्रौद्योगिकी की स्वतंत्रता और सुरक्षा की सबसे बड़ी लड़ाई!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "open_advocate": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+1Hz"
+    },
+    "safety_advocate": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "-1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_ai_revolution_horizon",
+      "title": "The Global Inflection / तकनीकी महाक्रांति का मोड़",
+      "prompt": "Futuristic cinematic 3D animation, neon holographic global network connecting data centers across Earth, streams of code and neural networks pulsing with blue and magenta light, 16:9 widescreen 4k.",
+      "hi": "2026 में कृत्रिम बुद्धिमत्ता यानी एआई मानव इतिहास के सबसे क्रांतिकारी दौर में पहुँच चुकी है। चिकित्सा से लेकर सॉफ्टवेयर निर्माण और अंतरिक्ष अनुसंधान तक, एआई मॉडल दुनिया के भविष्य को गढ़ रहे हैं। लेकिन सबसे बड़ा सवाल यह है: इस सर्वशक्तिमान शक्ति का नियंत्रण किसके हाथ में होना चाहिए?",
+      "en": "By 2026, artificial intelligence stands as the most transformative force in human history. From drug discovery to autonomous software engineering, foundation models shape the destiny of civilization. But a monumental question divides humanity: who should hold the keys to this supreme intelligence?"
+    },
+    {
+      "id": "02_the_walled_gardens",
+      "title": "The Monopolies of Silicon / बंद दरवाजों की सुरक्षा",
+      "prompt": "Dramatic 3D visual, sleek towering glass skyscraper of a tech conglomerate with massive glowing security shields around an ethereal glowing digital brain, scientists in clean suits monitoring safeguards.",
+      "hi": "एक तरफ बड़ी तकनीकी कंपनियाँ हैं, जिनका तर्क है कि अत्याधुनिक फ्रंटियर मॉडल इतने शक्तिशाली और संभावित रूप से विनाशकारी हैं कि उनके वजन (Weights) और कोड को पूरी दुनिया के लिए खुला छोड़ना साइबर हमलों और अराजकता को न्योता देना होगा।",
+      "en": "On one side stand frontier corporate laboratories, arguing that superhuman models are weapons-grade technologies. Releasing raw model weights openly to the internet, they argue, invites catastrophic cyber warfare, bioterrorism, and uncontrollable global chaos."
+    },
+    {
+      "id": "03_the_open_source_rebellion",
+      "title": "Democratization of Code / ज्ञान का खुला सागर",
+      "prompt": "Dynamic 3D visualization, millions of independent developers across diverse continents coding collaboratively on laptops, decentralized nodes breaking through corporate firewall gates with glowing green light.",
+      "hi": "दूसरी तरफ वैश्विक डेवलपर समुदाय और ओपन-सोर्स समर्थक हैं। उनका कहना है कि ज्ञान और तकनीक पर कुछ चुनिंदा कॉरपोरेट एकाधिकार नहीं होना चाहिए। ओपन-सोर्स पारदर्शिता लाता है, सेंसरशिप रोकता है और हर व्यक्ति को स्वतंत्र नवाचार का अधिकार देता है।",
+      "en": "On the opposite side rallies the decentralized open-source community. They insist that concentrated corporate monopolies over human knowledge constitute an existential hazard. Open weights guarantee censorship resistance, radical transparency, and sovereign innovation for all."
+    },
+    {
+      "id": "04_the_security_clash",
+      "title": "The Audit Dilemma / सुरक्षा बनाम पारदर्शिता",
+      "prompt": "Split screen cinematic 3D graphic: left side shows a black box with hidden algorithms; right side shows open transparent code being audited and debugged by thousands of global eyes.",
+      "hi": "बंद मॉडल सुरक्षा और परीक्षण की गारंटी का दावा करते हैं, लेकिन आलोचक कहते हैं कि जब तक कोड सार्वजनिक नहीं होगा, तब तक कोई भी उस मॉडल के गुप्त पक्षपात, निगरानी या कमियों का स्वतंत्र परीक्षण नहीं कर सकता। 'हजारों आँखों की सुरक्षा' हमेशा सबसे मजबूत होती है।",
+      "en": "Proponents of closed APIs claim rigorous red-teaming. Yet security veterans counter with Linus's Law: 'Given enough eyeballs, all bugs are shallow.' Proprietary black boxes conceal surveillance, hidden biases, and unilateral backdoors that no public auditor can inspect."
+    },
+    {
+      "id": "05_local_hardware_surge",
+      "title": "AI in Every Pocket / घरेलू हार्डवेयर पर क्रांति",
+      "prompt": "High-tech 3D close-up of a modern workstation GPU and mobile chip running 70-billion parameter neural models completely offline without internet connection, private data remaining 100% sovereign.",
+      "hi": "हाल ही में छोटे, अत्यधिक कुशल ओपन मॉडल्स के आने से क्रांति आ गई है। अब लोग अपने निजी लैपटॉप और फोन पर बिना इंटरनेट के अत्याधुनिक एआई चला सकते हैं, जिससे उनका निजी डेटा कभी किसी सर्वर पर नहीं जाता।",
+      "en": "The meteoric rise of quantized, distilled open models has ignited a local computing renaissance. Engineers and hospitals run frontier-grade reasoning engines completely offline on consumer workstations, guaranteeing absolute privacy and data sovereignty."
+    },
+    {
+      "id": "06_the_arms_race",
+      "title": "The Closing Frontier Gap / घटती दूरियाँ",
+      "prompt": "Futuristic speedometer graphic in 3D: open source benchmarks racing neck-and-neck with closed proprietary frontier models, sparks flying as lines converge.",
+      "hi": "इतिहास गवाह है कि लिनक्स और इंटरनेट जैसे सबसे टिकाऊ सिस्टम ओपन-सोर्स सहयोग से ही बने। आज ओपन मॉडल्स और सबसे महंगे बंद मॉडल्स के बीच का अंतर लगभग खत्म हो चुका है। सामूहिक बुद्धि हमेशा व्यक्तिगत कंपनियों से आगे निकल जाती है।",
+      "en": "History reminds us that the bedrock of modern civilization—from Linux to the World Wide Web—was forged through open collaboration. Today, open-weight architectures rival trillion-dollar proprietary clusters, proving collective human genius eclipses corporate walls."
+    },
+    {
+      "id": "07_the_regulatory_battleground",
+      "title": "The Battle for Laws / संसद में टकराव",
+      "prompt": "Cinematic 3D interior of an international parliament debating AI treaties, lobbyists pushing for licensing restrictions while grassroots developers advocate for open algorithmic research.",
+      "hi": "विश्व भर की सरकारों में इस समय कानूनों को लेकर जंग चल रही है। क्या ओपन मॉडल्स को विनियमित करके केवल स्वीकृत दिग्गजों को काम करने की अनुमति दी जानी चाहिए, या फिर कोडिंग और गणित की स्वतंत्रता को संरक्षित रखा जाना चाहिए?",
+      "en": "Across Capitol Hill and Brussels, legislative battles rage. Will governments succumb to regulatory capture that outlaws independent model training, or will the fundamental right to compute, inspect, and mathematically innovate remain protected?"
+    },
+    {
+      "id": "08_the_balanced_destiny",
+      "title": "The Sovereign Horizon / भविष्य की सीख",
+      "prompt": "Inspiring futuristic 3D closing shot, a harmonious balance of ethical guardrails and open decentralized intelligence empowering creators, scholars, and children worldwide, dawn of true collective renaissance.",
+      "hi": "निष्कर्ष यही है कि सुरक्षा और स्वतंत्रता दोनों महत्वपूर्ण हैं, लेकिन मानव सभ्यता का भविष्य किसी एक कंपनी की दया पर निर्भर नहीं हो सकता। ज्ञान खुला रहना चाहिए ताकि हर बच्चा, वैज्ञानिक और समाज अपनी क्षमता से भविष्य का निर्माण कर सके।",
+      "en": "The verdict of history is clear: responsible safety benchmarks are imperative, but human freedom cannot rely upon the goodwill of a cartel. Intelligence belongs to the human race. Open code ensures our future remains decentralized, sovereign, and boundless."
+    }
+  ]
+}

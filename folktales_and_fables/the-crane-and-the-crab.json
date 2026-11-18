@@ -1,0 +1,80 @@
+{
+  "slug": "the-crane-and-the-crab",
+  "title_en": "The Deceitful Crane and the Clever Crab",
+  "title_hi": "बगुला और चतुर केकड़ा",
+  "sub_hook": "धूर्तता का अंत हमेशा आत्म-विनाश में होता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "crane": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-2Hz"
+    },
+    "crab": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "+2Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_aging_hungry_crane",
+      "title": "The Aging Deceiver / बूढ़ा बगुला और छल",
+      "prompt": "Cinematic 3D animation, an old scrawny white crane with long yellow beak standing motionless on one leg on a muddy lotus pond edge, looking hungry and scheming, Pixar style 16:9 widescreen 4k.",
+      "hi": "एक विशाल जलाशय के किनारे एक बूढ़ा बगुला रहता था। बुढ़ापे के कारण वह मछलियाँ पकड़ने में असमर्थ हो गया था और भूख से उसकी हड्डियाँ निकल आई थीं। उसने बिना मेहनत किए पेट भरने के लिए एक भयानक चाल सोची।",
+      "en": "By the reeds of an ancient lotus lake lived an old, cunning crane. Crippled by age and too slow to catch darting fish, his ribs showed through his feathers. Desperate for an effortless feast, he hatched a wicked deception."
+    },
+    {
+      "id": "02_crocodile_tears",
+      "title": "Crocodile Tears / झूठे आँसू और ढोंग",
+      "prompt": "Expressive 3D shot, the white crane drooping his head weeping fake tears, standing before a school of worried colorful fish and a smart grey crab near the water surface, hypocritical sorrow.",
+      "hi": "बगुला किनारे खड़े होकर रोने का नाटक करने लगा। जब मछलियों और केकड़े ने पूछा कि वह क्यों रो रहा है, तो उसने आँसू बहाते हुए कहा: 'मुझे ज्योतिषियों से पता चला है कि बारह साल का भीषण सूखा पड़ने वाला है। यह तालाब सूख जाएगा और तुम सब मर जाओगे!'",
+      "en": "The crane stood weeping theatrical tears into the shallows. When the fish and an inquisitive crab asked why he mourned, he sobbed: 'Alas! Astrologers have revealed a twelve-year drought is at hand. This entire lake will evaporate, and you, my innocent friends, will perish!'"
+    },
+    {
+      "id": "03_the_false_savior_promise",
+      "title": "The False Savior / नई झील का लालच",
+      "prompt": "Clever 3D animation, the crane pointing with his long wing toward distant blue mountain ranges, offering to carry fish one by one in his beak to safety, fish swimming in naive excitement.",
+      "hi": "घबराए हुए जलचरों ने रक्षा की गुहार लगाई। बगुला बोला: 'कुछ ही दूरी पर पहाड़ों के बीच एक कभी न सूखने वाली गहरी अमृत झील है। यदि तुम चाहो, तो मैं तुम्हें एक-एक करके अपनी चोंच में बिठाकर वहाँ सुरक्षित पहुँचा सकता हूँ!'",
+      "en": "Panicked by impending doom, the simple water folk begged for salvation. 'Fear not,' cooed the crane smoothly. 'Beyond that ridge lies an eternal, spring-fed mountain lake. I will gladly transport you in my beak, one by one, to your new paradise!'"
+    },
+    {
+      "id": "04_the_rock_of_slaughter",
+      "title": "The Rock of Slaughter / चट्टान पर नरसंहार",
+      "prompt": "Dark atmospheric 3D shot, high jagged barren mountain rock covered with glittering fish bones and skeletons, the treacherous crane swallowing plump fish greedily under harsh midday sun.",
+      "hi": "मासूम मछलियाँ उसकी बातों में आ गईं। बगुला रोज़ कुछ मछलियों को अपनी चोंच में भरता, लेकिन किसी झील में ले जाने के बजाय वह उन्हें एक सुनसान पहाड़ी चट्टान पर पटककर मार डालता और मजे से खा जाता।",
+      "en": "The naive fish rejoiced. Daily, the hypocrite filled his beak with trusting passengers. But instead of flying to paradise, he flew to a barren, secluded rock, bashed them against the stone, and devoured them with gluttonous glee."
+    },
+    {
+      "id": "05_crab_requests_a_ride",
+      "title": "The Crab's Turn / केकड़े का आग्रह",
+      "prompt": "Dynamic 3D medium shot, an intelligent grey river crab with sharp armored pincers clambering onto the crane's slender neck, the crane smirking smugly thinking of a crunchy meal.",
+      "hi": "कई दिनों तक दावत उड़ाने के बाद, एक चतुर केकड़े ने कहा: 'मामा, तुमने सब मछलियों को बचा लिया, अब मेरी भी जान बचाओ।' बगुले ने सोचा: 'मछलियाँ खाते-खाते जी ऊब गया है, आज इस केकड़े का नर्म माँस चखूँगा!' उसने केकड़े को अपनी गर्दन पर बिठा लिया।",
+      "en": "After weeks of feasting, an intelligent crab asked: 'Uncle, you have saved all my fish companions; will you not carry me to safety as well?' The greedy crane grinned inwardly: 'I am bored of soft fish; this succulent crab will make a delightful gourmet dish!' He let the crab grip his neck."
+    },
+    {
+      "id": "06_bones_reveal_truth",
+      "title": "The Bone Heap Revealed / हड्डियों का खौफनाक सच",
+      "prompt": "Dramatic high-contrast 3D scene, from mid-air the crab peers down, seeing a mountain of gleaming white fish bones on the blood-stained rock below, realizing the crane's horrifying slaughterhouse.",
+      "hi": "हवा में उड़ते हुए जब वे उस पहाड़ी चट्टान के ऊपर पहुँचे, तो केकड़े ने नीचे हड्डियों का विशाल ढेर देखा। उसे अपनी साथी मछलियों के अवशेष दिखाई दिए। केकड़े ने तुरंत पूछा: 'मामा! झील कहाँ है?' बगुला हँसा: 'मूर्ख! झील नहीं, वह तुम्हारी कब्र है!'",
+      "en": "Soaring above the ridge, the crab gazed down and gasped in horror: the mountain crag was carpeted with the picked skeletons of hundreds of fish! 'Uncle, where is the lake?' asked the crab. The crane cackled: 'You fool! That bone heap is your grave!'"
+    },
+    {
+      "id": "07_the_crushing_pincers",
+      "title": "The Pincer of Retribution / केकड़े का फौलादी शिकंजा",
+      "prompt": "Dynamic action 3D shot, close-up, the enraged crab clamping his two powerful sharp jagged pincers firmly around the slender throat of the terrified crane, squeezing like a vice as the bird chokes in mid-air.",
+      "hi": "धोखा समझ में आते ही केकड़ा ज़रा भी नहीं घबराया। अपनी जान बचाने और मित्रों का बदला लेने के लिए, उसने अपने दोनों फौलादी पैने पंजों से बगुले की पतली गर्दन को कसकर जकड़ लिया और पूरी ताकत से दबा दिया!",
+      "en": "Realizing the treachery, the crab felt no paralyzing fear, only righteous fury. Before the bird could strike, the crab locked both razor-sharp pincers around the crane's delicate white throat, crushing his windpipe with the force of an iron vice!"
+    },
+    {
+      "id": "08_justice_and_moral",
+      "title": "The Just Return / न्याय की विजय और सीख",
+      "prompt": "Warm golden sunset over the lake, the victorious crab crawling proudly back into the lotus lake holding the crane's severed head, greeted in relief by the remaining water creatures, heroic cinematic finale.",
+      "hi": "बगुला तड़प-तड़पकर ज़मीन पर गिर पड़ा और मर गया। केकड़ा सुरक्षित चलकर अपने तालाब लौटा और सबको बगुले की धूर्तता और उसके अंत की कहानी सुनाई। सीख: विश्वासघात और दुष्टता का अंत हमेशा आत्म-विनाश होता है; बुद्धिमान व्यक्ति संकट के समय घबराने के बजाय पलटवार करना जानता है।",
+      "en": "Gasping for breath, the suffocated bird crashed lifelessly to the earth. Crawling steadily back to the lake, the heroic crab returned to safety, freeing the waters from tyranny forever. Moral: Treachery always recoils upon the deceiver; wit and courage in the face of death conquer evil."
+    }
+  ]
+}
