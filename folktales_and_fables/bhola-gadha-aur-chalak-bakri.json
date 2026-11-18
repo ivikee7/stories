@@ -1,0 +1,85 @@
+{
+  "slug": "bhola-gadha-aur-chalak-bakri",
+  "title_en": "The Innocent Donkey and the Clever Goat",
+  "title_hi": "भोला गधा और चालाक बकरी",
+  "sub_hook": "सच्ची दोस्ती और लालच की अग्निपरीक्षा!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "bhola": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-2Hz"
+    },
+    "chanchal": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+3Hz"
+    },
+    "wolf": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-5Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_peaceful_village_dawn",
+      "title": "Rampur Village at Dawn / रामपुर गाँव की शांत सुबह",
+      "prompt": "Cinematic 3D animation, wide panoramic sunrise over Rampur village in India, terracotta clay pots drying outside cozy thatch cottages, gentle morning mist over winding river, pure pictorial illustration without text, 16:9 widescreen 4k.",
+      "hi": "रामपुर नाम के एक खूबसूरत गाँव में, दीनदयाल नाम का एक दयालु कुम्हार रहता था। उसके पास दो खास साथी थे—एक सीधा-सादा मेहनती गधा 'भोला' और एक चंचल, चालाक बकरी 'चंपा'। भोला दिन भर मिट्टी ढोता और कभी शिकायत नहीं करता था।",
+      "en": "In a peaceful Indian hamlet named Rampur lived a kind-hearted potter named Deendayal. He had two loyal companions—an innocent, hardworking donkey named Bhola, and a nimble, crafty goat named Champa. Bhola labored faithfully all day without complaint."
+    },
+    {
+      "id": "02_summer_drought_freedom",
+      "title": "Summer Drought & Freedom / गर्मियों का सूखा और आजादी",
+      "prompt": "Cinematic 3D shot, parched yellow meadows under hot blazing afternoon sun, kind elderly potter untying the ropes of a gentle grey donkey and a spotted goat, letting them roam freely, Pixar style.",
+      "hi": "गर्मियों के मौसम में गाँव में भीषण सूखा पड़ा। दीनदयाल के पास जानवरों को खिलाने के लिए चारा नहीं बचा। भारी मन से उसने दोनों की रस्सियाँ खोल दीं और कहा: 'जाओ मेरे बच्चों, जंगल की तरफ जाकर अपना पेट भर लो।'",
+      "en": "When a severe summer drought struck the village, Deendayal had no fodder left. With a heavy heart, he untied their ropes and said: 'Go, my dear animals, graze freely near the forest river and find your fill.'"
+    },
+    {
+      "id": "03_juicy_cucumber_farm",
+      "title": "The Tempting Farm / लहलहाता ककड़ी का खेत",
+      "prompt": "Vibrant cinematic 3D animation, lush green fenced vegetable garden overflowing with plump ripe cucumbers, emerald watermelons and green vines, glistening morning dew, 16:9 widescreen.",
+      "hi": "घूमते-घूमते दोनों गाँव के किनारे एक लहलहाते ककड़ी और तरबूज के खेत के पास पहुँचे। हरी-भरी रसीली ककड़ियाँ देखकर बकरी के मुँह में पानी आ गया। उसने भोला से कहा: 'भोला भैया, चलो अंदर चलकर दावत उड़ाते हैं!'",
+      "en": "Wandering toward the edge of the wilderness, they stumbled upon a lush green farm overflowing with ripe, crisp cucumbers and juicy melons. The greedy goat whispered: 'Brother Bhola, look at this feast! Let us slip past the fence!'"
+    },
+    {
+      "id": "04_midnight_feast_greed",
+      "title": "Midnight Feast / खेत में रात की दावत",
+      "prompt": "Atmospheric moonlight 3D animation, the grey donkey and spotted goat happily munching crispy green cucumbers under silver starry night sky, fireflies dancing around vines.",
+      "hi": "दोनों खेत की बाड़ फांदकर अंदर घुस गए और पेट भरकर ताज़ी ककड़ियाँ खाने लगे। पेट भर जाने के बाद भोला खुशी से झूम उठा। ठंडी हवा और भरे पेट के आनंद में भोला को गाने का मन करने लगा।",
+      "en": "Under the silver moon, both slipped inside and devoured sweet, crispy vegetables until their bellies were round. Full and content in the cool night breeze, gentle Bhola felt an overwhelming surge of joy."
+    },
+    {
+      "id": "05_goat_warning_musical_desire",
+      "title": "The Goat's Warning / बकरी की चेतावनी और ढेंचू-ढेंचू",
+      "prompt": "Dramatic 3D medium shot, spotted goat whispering urgently with wide anxious eyes, holding her hoof to mouth, while the proud donkey puffs his chest ready to bray loudly.",
+      "hi": "भोला ने कहा: 'चंपा, आज मौसम कितना सुहाना है! मेरा दिल गाकर खुशी मनाने को कर रहा है।' बकरी ने घबराकर चेतावनी दी: 'भोला भैया, यह गलती मत करना! तुम्हारी आवाज़ सुनकर किसान लाठी लेकर आ जाएगा!' पर भोला नहीं माना।",
+      "en": "Bhola announced happily: 'Champa, the night is divine and my soul desires to sing music!' The terrified goat warned: 'Bhola, you are a donkey, not a nightingale! Your braying will wake the farmer with his heavy stick!' But Bhola refused to listen."
+    },
+    {
+      "id": "06_donkey_brays_goat_flees",
+      "title": "The Loud Bray & The Goat Flees / भोला का राग और बकरी का पलायन",
+      "prompt": "Dynamic 3D Pixar animation, donkey lifting head towards full moon braying at top of lungs, sound waves rippling, while the clever goat leaps over bamboo fence vanishing into shadows.",
+      "hi": "जैसे ही भोला ने गर्दन उठाकर ज़ोर-ज़ोर से 'ढेंचू-ढेंचू' का राग छेड़ा, चालाक बकरी मौका देखकर तुरंत बाड़ कूदकर झाड़ियों में छिप गई। किसान नींद से जाग गया और भारी बाँस का डंडा लेकर खेत की तरफ दौड़ा।",
+      "en": "Lifting his snout to the moon, Bhola brayed at the top of his lungs. Seeing danger imminent, the selfish goat swiftly vaulted the fence and disappeared into the brush. Aroused by the noise, the stern farmer grabbed his heavy staff."
+    },
+    {
+      "id": "07_farmer_confrontation",
+      "title": "The Farmer's Retribution / किसान का डंडा",
+      "prompt": "Dramatic action 3D scene, furious village farmer with lantern and bamboo staff cornering the startled donkey in the trampled vegetable patch, dynamic shadows and lantern glow.",
+      "hi": "किसान ने खेत में घुसकर अपनी फसल को तहस-नहस पाया। उसने बिना सोचे-समझे भोला पर डंडों की बरसात कर दी और उसके गले में भारी चक्की का पत्थर बाँधकर खेत के बाहर धकेल दिया। भोला दर्द से कराह उठा।",
+      "en": "Finding his prized crop trampled, the enraged farmer unleashed his staff upon poor Bhola, tying a heavy millstone around the donkey's neck before tossing him into the dirt road. Bruised and aching, Bhola groaned in agony."
+    },
+    {
+      "id": "08_hard_learned_lesson",
+      "title": "Wisdom Through Adversity / अक्ल की असली सीख",
+      "prompt": "Warm dawn golden sunlight, limping but wise donkey standing by the peaceful riverbank, looking thoughtfully into the water, having learned to value true wisdom over reckless vanity, cinematic finish.",
+      "hi": "दर्द में कराहते हुए भोला ने समझा कि सही समय पर दी गई सच्ची सलाह को ठुकराना मूर्खता है। बिना सोचे-समझे किया गया काम हमेशा नुकसान पहुँचाता है। उस दिन के बाद, भोला ने अपनी सादगी में सच्ची समझदारी जोड़ ली।",
+      "en": "As morning broke, limping back to the safety of the riverbank, Bhola realized the grave cost of ignoring wise counsel and letting vanity blind reason. From that day on, the humble donkey carried not just clay, but deep and lasting wisdom."
+    }
+  ]
+}

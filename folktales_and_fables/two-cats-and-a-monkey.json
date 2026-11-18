@@ -1,0 +1,85 @@
+{
+  "slug": "two-cats-and-a-monkey",
+  "title_en": "Two Cats and the Clever Monkey",
+  "title_hi": "दो बिल्लियाँ और चतुर बंदर का न्याय",
+  "sub_hook": "आपस की फूट में हमेशा तीसरे का फायदा!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "kitti": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+3Hz"
+    },
+    "mitti": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural",
+      "pitch": "+1Hz"
+    },
+    "monkey": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-2Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_village_friends_cats",
+      "title": "Two Feline Friends / दो प्यारी बिल्लियाँ",
+      "prompt": "Cinematic 3D animation, Pixar style, a fluffy white Persian kitten with blue eyes and a soft ginger striped kitten sitting together peacefully in a cozy sunlit village kitchen courtyard, bowl of milk nearby, 16:9 widescreen 4k.",
+      "hi": "एक छोटे से सुंदर गाँव में किट्टी और मिट्ठी नाम की दो बिल्लियाँ रहती थीं। दोनों में बहुत गहरी दोस्ती थी। वे साथ खेलतीं, साथ घूमतीं और जो कुछ भी खाने को मिलता, आपस में बाँटकर खाती थीं। गाँव वाले उनकी दोस्ती की मिसाल देते थे।",
+      "en": "In a peaceful countryside village lived two inseparable kittens, Kitty, a fluffy white Persian, and Mitti, a spirited ginger tabby. They shared every adventure, every nap, and every morsel of food, their friendship renowned throughout the neighborhood."
+    },
+    {
+      "id": "02_finding_roti",
+      "title": "The Golden Roti / ताज़ी रोटी का टुकड़ा",
+      "prompt": "Vibrant 3D shot, delicious round golden baked flatbread roti resting on an outdoor wooden table in a garden, both cats gazing at it with sparkling wide hungry eyes, warm sunlight.",
+      "hi": "एक दिन दोनों को गाँव के एक घर के बाहर ताज़ी, खुशबूदार और करारी रोटी का एक बड़ा टुकड़ा मिला। रोटी इतनी स्वादिष्ट लग रही थी कि दोनों के मुँह में पानी आ गया। किट्टी ने तुरंत लपककर रोटी अपने पंजों में दबा ली।",
+      "en": "One afternoon, while prowling near a baker's veranda, they discovered a large, freshly baked, golden roti flatbread cooling on a low wooden bench. The aroma was mouth-watering. With a swift leap, Kitty scooped the bread between her paws."
+    },
+    {
+      "id": "03_the_dispute_begins",
+      "title": "The Quarrel / लालच और झगड़ा",
+      "prompt": "Dramatic 3D medium shot, the two kittens glaring at each other with arched backs and puffed tails, arguing furiously over the roti lying between them on the grass, expressive comedic dispute.",
+      "hi": "मिट्ठी बोली: 'यह रोटी मैंने पहले देखी थी, इसलिए इसका बड़ा हिस्सा मेरा है!' किट्टी ने गुर्राते हुए जवाब दिया: 'पकड़ा तो मैंने था, इसलिए यह मेरी है!' दोनों के बीच ज़ोरदार बहस छिड़ गई और बात हाथापाई तक पहुँच गई।",
+      "en": "Mitti hissed defensively: 'I spotted it first, so the larger half belongs to me!' Kitty growled back: 'I caught it with my own claws, so it is mine!' What began as mutual joy instantly dissolved into a fierce, selfish squabble over division."
+    },
+    {
+      "id": "04_clever_monkey_arrives",
+      "title": "Enter the Judge / चतुर बंदर का आगमन",
+      "prompt": "Cinematic 3D animation, a crafty brown monkey with long tail perched up on a mango tree branch holding an antique brass balancing scale, smirking cunningly down at the bickering cats.",
+      "hi": "पेड़ की डाल पर बैठा 'मोंटू' नाम का एक धूर्त बंदर यह सब देख रहा था। उसने सोचा: 'इन दोनों मूर्खों के झगड़े का फायदा उठाकर आज मुफ्त की दावत उड़ाई जाए।' वह मुस्कुराता हुआ नीचे उतरा और बोला: 'बहनों, आपस में क्यों लड़ती हो? मैं तुम्हारा निष्पक्ष फैसला कर देता हूँ!'",
+      "en": "Watching from a low banyan branch was Montu, a sly and opportunistic monkey. Smirking at their petty spat, he recognized a golden chance. Clambering down with an antique brass balance scale in his hand, he announced smoothly: 'Dearest sisters, why fight? Let me be your impartial judge and divide it evenly!'"
+    },
+    {
+      "id": "05_splitting_the_bread",
+      "title": "The Uneven Halves / तराजू का नाटक",
+      "prompt": "Close-up 3D shot, monkey snapping the flatbread into two uneven halves, placing each piece on the brass pans of the scale, one pan clearly sinking heavier than the other, cats watching intently.",
+      "hi": "बंदर ने दोनों बिल्लियों के सामने रोटी के दो टुकड़े किए। जानबूझकर उसने एक टुकड़ा बड़ा और दूसरा छोटा रखा। जब उसने दोनों टुकड़ों को तराजू के पलड़ों में रखा, तो भारी टुकड़ा नीचे झुक गया।",
+      "en": "The cats readily agreed. The cunning monkey broke the flatbread in two, deliberately making one side noticeably thicker. Placing the pieces onto the scales, the heavier side tilted downward with an obvious clink."
+    },
+    {
+      "id": "06_nibbling_away",
+      "title": "The Bite of 'Justice' / न्याय के नाम पर निवाला",
+      "prompt": "Dynamic 3D Pixar animation, the monkey grinning cheekily taking a huge greedy bite out of the heavier piece of roti, chewing exaggeratedly while holding the balance scale, kittens looking anxious.",
+      "hi": "बंदर ने कहा: 'अरे! यह पलड़ा तो भारी है। रुको, इसे बराबर कर देता हूँ।' यह कहकर बंदर ने भारी टुकड़े से एक बड़ा निवाला तोड़कर अपने मुँह में डाल लिया और मजे से चबाने लगा। अब दूसरा पलड़ा भारी हो गया!",
+      "en": "'Aha! This side is too heavy,' Montu declared with furrowed brow. 'Allow me to balance it properly.' Raising the larger half, he snapped off a generous, crispy mouthful and chewed merrily. Naturally, the opposite pan now swung lower!"
+    },
+    {
+      "id": "07_the_dwindling_crumbs",
+      "title": "The Vanishing Roti / घटती रोटी और पछतावा",
+      "prompt": "Comedic dramatic 3D sequence, scale holding tiny microscopic crumbs of roti while the monkey rubs his plump round belly, the two kittens looking crestfallen and foolish on the stone ground.",
+      "hi": "बंदर ने फिर कहा: 'अब यह टुकड़ा भारी हो गया!' और उसने दूसरे टुकड़े से भी एक बड़ा निवाला खा लिया। इस तरह वह बार-बार 'बराबर' करने के बहाने दोनों टुकड़ों को खाता रहा, यहाँ तक कि रोटी के सिर्फ दो छोटे तिनके बचे!",
+      "en": "'Oops, now this side outweighs the other!' Montu exclaimed, taking another huge chomp from the other side. Bite after bite, under the guise of finding perfect equality, the rogue systematically devoured their feast until only two tiny crumbs remained."
+    },
+    {
+      "id": "08_the_final_gulp_lesson",
+      "title": "The Bitter Lesson / आपस की फूट का फल",
+      "prompt": "Warm sunset light, satisfied full monkey climbing safely back into the high tree canopy licking his fingers, while the two sad kittens sit side by side on the grass realizing their foolishness, cinematic end.",
+      "hi": "बिल्लियों ने घबराकर कहा: 'रहने दो बंदर मामा, बची हुई रोटी हमें दे दो!' बंदर हँसकर बोला: 'यह बची हुई रोटी तो मेरी न्याय करने की फीस है!' और उसने आखिरी टुकड़ा भी अपने मुँह में गटक लिया। बिल्लियाँ मुँह ताकती रह गईं। सीख: जब दो अपने आपस में लड़ते हैं, तो हमेशा किसी तीसरे चालाक का ही फायदा होता है।",
+      "en": "Desperate, Kitty and Mitti cried: 'Stop, Uncle! Give us whatever is left!' Montu chuckled heartily: 'What remains is merely my modest judicial fee!' Gulping the final crumbs, he swung gracefully back into the canopy. The ashamed kittens learned their bitter lesson: when loved ones quarrel over pride, cunning outsiders feast on their loss."
+    }
+  ]
+}

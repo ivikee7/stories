@@ -1,0 +1,75 @@
+{
+  "slug": "the-thirsty-crow",
+  "title_en": "The Thirsty Crow and the Pitcher",
+  "title_hi": "प्यासा कौआ और मटका",
+  "sub_hook": "जहाँ चाह, वहाँ राह — धैर्य और बुद्धि की विजय!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "crow": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+2Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_scorching_summer_sky",
+      "title": "The Scorching Summer / तपती दोपहर की उड़ान",
+      "prompt": "Cinematic 3D animation, Pixar style, a solitary glossy black crow with shiny feathers flying exhausted under a blazing golden summer sun, parched yellow desert landscape below with cracked dry earth, 16:9 widescreen 4k.",
+      "hi": "कड़कड़ाती धूप और भीषण गर्मी के दिन थे। चारों तरफ सूखा पड़ा था और धरती की नमी गायब हो चुकी थी। कालू नाम का एक काला कौआ पानी की तलाश में मीलों से उड़ रहा था। उसकी प्यास के मारे जीभ सूख रही थी और पंख भारी हो चुके थे।",
+      "en": "It was the height of a blistering summer. The scorched earth cracked beneath an unforgiving sun, and every pond had dried to dust. A weary black crow named Kalu flew across the endless parched plains, desperately searching for a single drop of water."
+    },
+    {
+      "id": "02_finding_the_pitcher",
+      "title": "A Ray of Hope / बगीचे में मटका",
+      "prompt": "Cinematic 3D shot, weary crow perching upon a red brick garden wall overlooking a shaded courtyard with an ancient earthen clay pitcher sitting under an old banyan tree, warm sunbeams filtering through leaves.",
+      "hi": "थक-हारकर जब कालू एक वीरान बगीचे की दीवार पर बैठा, तभी उसकी नज़र एक पुराने बरगद के पेड़ के नीचे रखे मिट्टी के मटके पर पड़ी। कालू के मन में उम्मीद की किरण जागी और वह फौरन उड़कर मटके की मुँडेर पर जा बैठा।",
+      "en": "Near the point of collapse, Kalu rested on the stone wall of an abandoned courtyard. Suddenly, beneath the shade of a banyan tree, he spotted a tall clay pitcher. Hope surged in his chest as he fluttered down onto the narrow rim."
+    },
+    {
+      "id": "03_shallow_water_dilemma",
+      "title": "Out of Reach / मटके की तली में पानी",
+      "prompt": "Close-up 3D shot, high angle looking inside the dark clay pot, clear water resting deep at the bottom, the crow stretching his neck and open beak downwards unable to reach the surface, expressive disappointed face.",
+      "hi": "कालू ने मटके के भीतर झाँका। मटके में पानी तो था, लेकिन वह बिल्कुल तली में था। कौए ने अपनी चोंच नीचे तक बढ़ाई, पर चोंच पानी को छू भी न सकी। मटके का मुँह संकरा था, इसलिए वह अंदर भी नहीं घुस सकता था।",
+      "en": "Peering into the dark earthen jug, Kalu saw cool, glistening water. But to his dismay, it sat far at the bottom. Straining with all his might, his beak fell inches short of the surface, and the narrow neck prevented him from squeezing inside."
+    },
+    {
+      "id": "04_despair_to_determination",
+      "title": "Never Give Up / हार न मानने की ठान",
+      "prompt": "Medium close-up 3D animation, the clever black crow sitting atop the pitcher rim with a thoughtful, focused expression, scratching his head with a claw as his eyes wander across scattered smooth river pebbles on the courtyard ground.",
+      "hi": "कालू उदास हो गया। उसने मटके को पलटने की कोशिश की, लेकिन मटका बहुत भारी था। प्यास से उसकी जान जा रही थी, लेकिन उसने हार मानने से इनकार कर दिया। उसने सोचा: 'रोना-धोना छोड़ो, समस्या का हल दिमाग से निकलेगा!'",
+      "en": "Frustrated, Kalu tried pushing the heavy jug, but it wouldn't budge an inch. Though dying of thirst, the resilient bird refused to surrender. 'Despair solves nothing,' he told himself. 'There must be a way to bring the water up to me!'"
+    },
+    {
+      "id": "05_the_pebble_idea",
+      "title": "The Master Plan / कंकड़ों का उपाय",
+      "prompt": "Dynamic 3D illustration, morning sunlight glinting off smooth colored pebbles scattered across the sandy ground, the crow's black eyes widening with brilliant revelation and excitement, Pixar character design.",
+      "hi": "तभी कालू की नज़र ज़मीन पर बिखरे छोटे-छोटे गोल कंकड़ों पर पड़ी। अचानक उसके दिमाग में एक ज़बरदस्त विचार कौंधा! उसने सोचा कि यदि वह एक-एक कंकड़ उठाकर मटके में डालेगा, तो पानी अपने आप ऊपर उठने लगेगा।",
+      "en": "Glancing down at the courtyard dirt, Kalu noticed hundreds of smooth, rounded river pebbles glistening in the sunlight. In an instant, a brilliant flash of inspiration struck his mind! If stones displaced space, each pebble would lift the water higher!"
+    },
+    {
+      "id": "06_labor_of_patience",
+      "title": "The Labor of Patience / एक-एक कंकड़ की मेहनत",
+      "prompt": "Dynamic action 3D scene, montage sequence: the hardworking crow carrying grey pebbles in his sturdy beak, dropping them one by one 'plink-plop' into the clay pitcher, ripples forming inside as water rises gradually.",
+      "hi": "कालू ने बिना समय गँवाए काम शुरू कर दिया। वह अपनी चोंच से एक कंकड़ उठाता, मटके तक उड़ता और उसे अंदर गिरा देता। 'टप-टप-टप'... एक-एक करके उसने दर्जनों कंकड़ डाले। उसकी सांस फूल रही थी, लेकिन उसकी मेहनत रंग लाने लगी।",
+      "en": "Without wasting a heartbeat, Kalu went to work. Picking up a stone in his beak, he flew up and dropped it into the jug. Plop! Then another, and another. Stone by stone, pebble by pebble, his tireless patience began to pay off as the water crept upward."
+    },
+    {
+      "id": "07_water_rises_triumph",
+      "title": "The Triumph / लबालब भरा पानी",
+      "prompt": "Vibrant low-angle 3D shot, sparkling clear water reaching the very brim of the earthen pitcher, water droplets spilling over the rim, the crow spreading his glossy wings in victory under the afternoon sun.",
+      "hi": "सैकड़ों कंकड़ों के भार से तली का पानी धीरे-धीरे ऊपर चढ़ते-चढ़ते मटके के मुँह तक आ पहुँचा! कालू की खुशी का ठिकाना न रहा। उसकी अटूट लगन और बुद्धि ने असंभव को संभव बना दिया था।",
+      "en": "With one final heavy pebble, the water surged right to the lip of the clay pitcher! Fresh, sparkling drops spilled over the rim. Kalu's eyes beamed with triumph—his relentless perseverance and sharp wit had turned the impossible into reality."
+    },
+    {
+      "id": "08_quenching_thirst_lesson",
+      "title": "Quenching Thirst & The Moral / मीठा पानी और सीख",
+      "prompt": "Warm golden hour 3D scene, happy energetic crow drinking cool fresh water deeply from the pitcher, flying joyfully into the clear blue sky, rainbow shimmer in water drops, heartwarming cinematic finale.",
+      "hi": "कालू ने जी भरकर ठंडा और मीठा पानी पिया। उसकी प्यास बुझ गई और उसके शरीर में नई ऊर्जा दौड़ गई। वह खुशी से काँव-काँव करता हुआ नीले आसमान में उड़ गया। सीख: कठिन से कठिन परिस्थिति में भी यदि धैर्य और बुद्धि से काम लिया जाए, तो हर समस्या का समाधान मिल जाता है।",
+      "en": "Kalu drank deeply of the cool, life-giving water until his thirst was thoroughly quenched. Rejuvenated, he spread his wings and soared high into the azure skies, cawing with pure joy. Moral: Where there is a will, there is always a way; perseverance and wisdom can conquer any obstacle."
+    }
+  ]
+}
