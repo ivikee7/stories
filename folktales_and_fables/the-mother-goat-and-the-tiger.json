@@ -1,0 +1,67 @@
+{
+  "slug": "the-mother-goat-and-the-tiger",
+  "title_en": "The Mother Goat and the Tiger",
+  "title_hi": "बुद्धिमान माँ बकरी और शेर",
+  "sub_hook": "मातृ-साहस और बुद्धि की अमर गाथा!",
+  "characters": {
+    "gauri": {
+      "voice": "hi-IN-SwaraNeural",
+      "display_name": "माँ बकरी (Gauri)",
+      "pitch": "+0Hz"
+    },
+    "munna": {
+      "voice": "hi-IN-SwaraNeural",
+      "display_name": "मुन्ना (Munna)",
+      "pitch": "+5Hz"
+    },
+    "shera": {
+      "voice": "hi-IN-MadhurNeural",
+      "display_name": "शेरा बाघ (Shera)",
+      "pitch": "-5Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_meadow_safe",
+      "title": "The Safe Meadow / सुरम्य चरागाह",
+      "prompt": "Cinematic 3D animation, peaceful green sunlit meadow with rolling hills and wild flowers, white mother goat tenderly watching her baby kid, Pixar style, 16:9 widescreen",
+      "hi": "सुंदरवन के घने जंगल के किनारे, एक सुरम्य मैदान में गौरी नाम की समझदार बकरी अपने नन्हे बच्चे मुन्ना के साथ रहती थी।",
+      "en": "At the edge of the great Sundarban forest, in a peaceful sunlit meadow, lived a remarkably clever mother goat named Gauri, along with her playful baby, Munna."
+    },
+    {
+      "id": "02_lost_in_jungle",
+      "title": "Wandering into the Jungle / जंगल का भटकाव",
+      "prompt": "Close-up 3D animation of a curious baby goat following a fluttering golden butterfly into dark misty jungle under tall banyan roots",
+      "hi": "एक दोपहर खेलते-खेलते मुन्ना एक सुनहरी तितली के पीछे भागते हुए घने जंगल के भीतर भटक गया।",
+      "en": "One warm afternoon, playfully chasing a golden butterfly, little Munna strayed deep into the shadowy jungle."
+    },
+    {
+      "id": "03_tiger_encounter",
+      "title": "The Tiger's Ambush / शेरा का सामना",
+      "prompt": "Dramatic low-angle 3D shot, ferocious Bengal tiger with glowing amber eyes emerging from behind mossy rocks snarling at tiny baby goat",
+      "hi": "तभी झाड़ियों से शेरा नाम का खूंखार बाघ बाहर निकला और मुन्ना पर झपटने की तैयारी करने लगा।",
+      "en": "Suddenly, from behind thick bamboo bushes, a massive hungry Bengal tiger named Shera leaped forward."
+    },
+    {
+      "id": "04_mother_bravery",
+      "title": "Mother's Fearless Shield / माँ की अटूट ढाल",
+      "prompt": "Dynamic cinematic shot, white mother goat boldly leaping between the giant roaring tiger and her trembling baby, sharp horns lowered, fearless eyes",
+      "hi": "लेकिन तभी गौरी माँ हवा की गति से दौड़ती हुई आई और अपने बच्चे के आगे ढाल बनकर खड़ी हो गई।",
+      "en": "Just in time, Gauri dashed like the wind, placing herself directly between the roaring predator and her trembling baby."
+    },
+    {
+      "id": "05_clever_bluff",
+      "title": "The Clever Bluff / बुद्धि की जीत",
+      "prompt": "Cinematic 3D animation, brave mother goat stamping her hoof with proud defiant posture, baffling the confused giant tiger, sunset glow",
+      "hi": "गौरी ने अपनी चतुर बुद्धि का इस्तेमाल किया और बोली: 'बाघ महाराज! मेरे सींग जंगल के सबसे खूंखार शिकारियों का शिकार करते हैं!' शेर डरकर पीछे हट गया।",
+      "en": "Using quick wit, Gauri firmly stated her horns had fought off beasts twice his size. Mystified and unnerved by her fearless gaze, the tiger slunk away into the shadows."
+    },
+    {
+      "id": "06_safe_reunion",
+      "title": "Safe at Sunset / सुखद मिलन",
+      "prompt": "Warm golden hour wide vista, mother goat tenderly nuzzling baby kid against glowing sunset horizon, heartwarming emotional 3D illustration",
+      "hi": "साहस और बुद्धिमत्ता से गौरी ने अपने बच्चे की जान बचा ली और दोनों खुशी-खुशी सुरक्षित घर लौट आए।",
+      "en": "With unmatched courage and intelligence, mother Gauri protected her child, walking side by side back home under the golden sunset."
+    }
+  ]
+}

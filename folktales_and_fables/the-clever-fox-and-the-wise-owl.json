@@ -1,0 +1,38 @@
+{
+  "slug": "the-clever-fox-and-the-wise-owl",
+  "title_en": "The Clever Fox and the Ancient Owl",
+  "title_hi": "चतुर लोमड़ी और ज्ञानी उल्लू",
+  "sub_hook": "बुद्धिमानी और ज्ञान का अटूट रहस्य!",
+  "characters": {
+    "narrator": {
+      "voice": "en-US-ChristopherNeural",
+      "display_name": "Narrator"
+    },
+    "fox": {
+      "voice": "en-US-AriaNeural",
+      "display_name": "Rusty the Fox",
+      "pitch": "+2Hz"
+    },
+    "owl": {
+      "voice": "en-GB-RyanNeural",
+      "display_name": "Elder Owl",
+      "pitch": "-4Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_moonlit_woods",
+      "title": "Midnight Meeting / चांदनी रात की मुलाकात",
+      "prompt": "Cinematic 3D animation, glowing mystical woodland illuminated by crescent moon, silver mist winding through ancient mossy oak trees",
+      "hi": "रात के सन्नाटे में जब चाँद की ठंडी रोशनी जंगल पर बिखरी, तो रस्टी लोमड़ी ने प्राचीन बरगद पर बैठे ज्ञानी उल्लू से पूछा।",
+      "en": "Deep in the Whispering Woods beneath glowing silver moonlight, Rusty the fox gazed up at the legendary elder of the grove."
+    },
+    {
+      "id": "02_wisdom_revealed",
+      "title": "The Secret of the Mountain / ज्ञान की सीख",
+      "prompt": "Close-up 3D animation, majestic horned owl with luminous golden eyes speaking calmly from oak branch with starry sky background",
+      "hi": "उल्लू ने धीरे से कहा: 'चतुराई तुम्हें रास्ता दिखा सकती है, लेकिन ज्ञान तुम्हें तूफानों से बचाता है।'",
+      "en": "The ancient owl blinked thoughtfully: 'Cleverness can outrun a hunter, young fox, but wisdom teaches you which valleys shield the cold.'"
+    }
+  ]
+}

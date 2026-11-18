@@ -1,0 +1,48 @@
+{
+  "slug": "bandar-aur-magarmach",
+  "title_en": "The Monkey and the Crocodile",
+  "title_hi": "बंदर और मगरमच्छ की कहानी",
+  "sub_hook": "संकट में तुरंत बुद्धि काम आती है!",
+  "characters": {
+    "momo": {
+      "voice": "hi-IN-MadhurNeural",
+      "display_name": "रक्तमुख बंदर (Monkey)",
+      "pitch": "+3Hz"
+    },
+    "ali": {
+      "voice": "hi-IN-MadhurNeural",
+      "display_name": "करालमुख मगरमच्छ (Crocodile)",
+      "pitch": "-4Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_jamun_tree",
+      "title": "The Jamun Tree / जामुन का मीठा पेड़",
+      "prompt": "Cinematic 3D animation, lush tropical riverbank, huge ancient Jamun tree with dark glossy purple berries hanging in clusters, playful brown monkey perched on branch dropping fruits to friendly crocodile floating in river",
+      "hi": "एक विशाल नदी के किनारे जामुन का एक बड़ा पेड़ था, जिस पर एक चतुर बंदर रहता था। नदी में एक मगरमच्छ भी रहता था।",
+      "en": "On the banks of a sparkling river stood a grand Indian blackberry tree, home to a friendly, clever monkey who shared sweet fruits with a crocodile."
+    },
+    {
+      "id": "02_cunning_request",
+      "title": "The Selfish Request / पत्नी की इच्छा",
+      "prompt": "Close-up 3D shot, crocodile swimming across shimmering river looking troubled and reluctant",
+      "hi": "मगरमच्छ की पत्नी ने कहा: 'जो बंदर ऐसे मीठे फल खाता है, उसका कलेजा कितना मीठा होगा! मुझे उसका कलेजा चाहिए।'",
+      "en": "The crocodile's greedy wife insisted: 'One who eats such divine berries daily must possess the sweetest heart! Bring me his heart.'"
+    },
+    {
+      "id": "03_river_crossing",
+      "title": "Journey on the Water / नदी के बीच सच",
+      "prompt": "Cinematic shot, monkey riding high on the crocodile's back across deep blue swirling river water",
+      "hi": "मगरमच्छ बंदर को अपनी पीठ पर बिठाकर नदी के बीच ले गया और बीच धार में सच बता दिया।",
+      "en": "Carrying the monkey on his scaly back into the deep waters, the guilty crocodile confessed the fatal truth."
+    },
+    {
+      "id": "04_monkey_wit",
+      "title": "The Clever Trick / पेड़ पर रखा कलेजा",
+      "prompt": "Dynamic 3D Pixar animation, monkey leaping safely back up onto the tall leafy branch laughing with relief, pointing down at embarrassed crocodile",
+      "hi": "बंदर ने बिना घबराए कहा: 'अरे मित्र! मेरा कलेजा तो पेड़ के कोटर में रखा है! चलो वापस चलकर ले आते हैं!' और किनारे पहुँचते ही वह पेड़ पर चढ़ गया।",
+      "en": "Unfazed, the monkey laughed: 'Dear friend, I left my heart safely in the hollow of the jamun tree! Take me back!' Reaching the shore, he swiftly leaped to safety."
+    }
+  ]
+}

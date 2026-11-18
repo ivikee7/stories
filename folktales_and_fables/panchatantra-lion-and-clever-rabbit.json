@@ -1,0 +1,45 @@
+{
+  "slug": "panchatantra-lion-and-clever-rabbit",
+  "title_en": "The Clever Rabbit and the Greedy Lion",
+  "title_hi": "भासुरक शेर और चतुर खरगोश",
+  "sub_hook": "बुद्धि बल से कई गुना अधिक शक्तिशाली होती है!",
+  "characters": {
+    "narrator": {
+      "voice": "hi-IN-MadhurNeural",
+      "display_name": "कथावाचक"
+    },
+    "lion": {
+      "voice": "hi-IN-MadhurNeural",
+      "display_name": "भासुरक शेर",
+      "pitch": "-5Hz"
+    },
+    "rabbit": {
+      "voice": "hi-IN-SwaraNeural",
+      "display_name": "चतुर खरगोश",
+      "pitch": "+4Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_forest_terror",
+      "title": "The Lion's Rule / शेर का खौफ",
+      "prompt": "Cinematic 3D animation, massive golden lion with scarred face roaring from tall rock cliff over jungle animals, sunset light",
+      "hi": "प्राचीन काल में भासुरक नाम का एक घमंडी शेर हर दिन जंगल के मासूम जानवरों को मारता था।",
+      "en": "In an ancient forest ruled a fierce, arrogant lion named Bhasuraka, terrorizing all woodland creatures."
+    },
+    {
+      "id": "02_rabbit_turn",
+      "title": "The Clever Plan / खरगोश की बारी",
+      "prompt": "Close-up 3D animation of a tiny white and brown rabbit with large intelligent eyes hopping slowly through forest mushrooms",
+      "hi": "जब चतुर खरगोश की बारी आई, तो वह जानबूझकर बहुत देर से शेर के पास पहुँचा।",
+      "en": "When the turn came for a small clever rabbit, he deliberately arrived late, calmly executing a cunning trap."
+    },
+    {
+      "id": "03_well_reflection",
+      "title": "The Ancient Well / कुएं का दूसरा शेर",
+      "prompt": "Dramatic high-angle shot, lion peering angrily into deep stone mossy well seeing his own ferocious reflection in clear water below",
+      "hi": "खरगोश शेर को एक गहरे कुएं के पास ले गया और बोला: 'महाराज, दूसरा शेर इस कुएं में छिपा है!' शेर ने अपनी ही परछाई देखी और कुएं में छलांग लगा दी।",
+      "en": "Leading the king to a deep ancient stone well, the rabbit pointed down: 'Your majesty, the impostor king lurks inside!' Seeing his own furious reflection, the foolish lion leaped to his doom."
+    }
+  ]
+}

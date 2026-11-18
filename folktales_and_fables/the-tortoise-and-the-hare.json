@@ -1,0 +1,64 @@
+{
+  "slug": "the-tortoise-and-the-hare",
+  "title_en": "The Tortoise and the Hare",
+  "title_hi": "कछुआ और घमंडी खरगोश",
+  "sub_hook": "धीमी चाल से जीती बाज़ी!",
+  "scenes": [
+    {
+      "id": "01_arrogant_hare_wide",
+      "title": "The Boastful Sprinter",
+      "prompt": "Cinematic 3D animation, a proud fluffy brown hare with long perky ears standing tall on a grassy forest knoll, smirking boastfully with hands on hips, surrounded by curious woodland animals in a vibrant magical fairytale forest, golden sunlight, pure pictorial illustration without text.",
+      "hi": "घने और हरे-भरे जंगल में, शेरू नाम का एक खरगोश रहता था। शेरू को अपनी तेज दौड़ पर बहुत घमंड था। वह हमेशा जंगल के अन्य छोटे जानवरों के सामने अपनी रफ्तार की डींगें मारता रहता था और उनका मज़ाक उड़ाता था।",
+      "en": "In a lush and vibrant green forest, there lived a hare named Sheru. Sheru was exceptionally proud of his lightning-fast speed. Every day, he would strut before the woodland creatures, boasting of his swift legs and mocking the slower animals."
+    },
+    {
+      "id": "02_humble_tortoise_challenge_cu",
+      "title": "The Patient Challenge",
+      "prompt": "Detailed close-up 3D animation, an adorable gentle green tortoise with a beautifully patterned shell, looking up with a calm, confident and smiling expression at the boastful hare, colorful wildflowers and mossy stones, soft morning light.",
+      "hi": "उसी जंगल में टिल्लू नाम का एक शांत और समझदार कछुआ भी रहता था। टिल्लू बहुत धीमी चाल से चलता था। एक दिन जब खरगोश ने कछुए की धीमी गति का उपहास उड़ाया, तो टिल्लू ने शांत स्वर में कहा: 'शेरू भाई, घमंड अच्छा नहीं होता। अगर तुम्हें अपनी चाल पर इतना भरोसा है, तो आओ मेरे साथ एक दौड़ लगाओ!'",
+      "en": "In the same woods lived a calm and wise tortoise named Tillu. Tillu moved with slow, steady steps. One sunny morning, after enduring the hare's relentless teasing, Tillu calmly looked up and said: 'Sheru, arrogance is a foolish master. If you truly believe you cannot be beaten, let us have a race!'"
+    },
+    {
+      "id": "03_race_starting_line_wide",
+      "title": "At the Starting Line",
+      "prompt": "Wide angle cinematic shot, forest animals deer, monkeys, birds, squirrels gathered in excitement around a chalk starting line across a winding dirt forest path, a wise old owl perched on a signpost signaling the start of the race.",
+      "hi": "दौड़ की खबर पूरे जंगल में आग की तरह फैल गई। सभी जानवर—हिरण, बंदर, गिलहरी और उल्लू—दौड़ देखने के लिए इकट्ठा हो गए। जंगल के बुजुर्ग उल्लू ने दौड़ का रास्ता तय किया और सीटी बजाकर दौड़ की शुरुआत की।",
+      "en": "News of the challenge swept through the forest like wildfire. Animals gathered from all corners—deer, monkeys, squirrels, and birds—eager to witness the impossible match. With a flutter of wings, the wise old owl raised his wing and signaled the start of the race!"
+    },
+    {
+      "id": "04_hare_speeding_ahead_wide",
+      "title": "A Streak of Lightning",
+      "prompt": "Dynamic action shot, the hare dashing at lightning speed leaving a swirling comic cloud of golden dust down the woodland track, while in the foreground the tortoise plods forward with calm steady footsteps.",
+      "hi": "संकेत मिलते ही खरगोश हवा की तरह तेजी से दौड़ा और धूल का गुबार छोड़ते हुए पलक झपकते ही बहुत आगे निकल गया। दूसरी तरफ, कछुआ अपनी धीमी मगर निरंतर चाल से एक-एक कदम आगे बढ़ाता रहा।",
+      "en": "At the signal, the hare burst forward like a streak of lightning, kicking up a golden trail of dust and vanishing around the bend in seconds. Meanwhile, the tortoise kept moving, planting one firm, steady foot in front of the other."
+    },
+    {
+      "id": "05_hare_sleeping_tree_wide",
+      "title": "The Careless Slumber",
+      "prompt": "Peaceful afternoon scene, the arrogant hare fast asleep, snoring with arms crossed behind his head under the cool breezy shade of a huge blossoming apple tree along the grassy race track, lush green meadow.",
+      "hi": "आधे रास्ते पर पहुंचकर खरगोश ने पीछे मुड़कर देखा। कछुआ दूर-दूर तक कहीं नजर नहीं आ रहा था। खरगोश ने मुस्कुराते हुए सोचा: 'उस मंदबुद्धि कछुए को यहां पहुंचने में घंटों लगेंगे। क्यों न इस घने पेड़ की छांव में थोड़ी देर झपकी ले लूं!' यह सोचकर वह पेड़ के नीचे गहरी नींद में सो गया।",
+      "en": "Reaching the halfway marker, the hare paused and looked back across the rolling hills. The tortoise was nowhere in sight. Chuckling arrogantly, the hare thought: 'That slow creature will take hours to reach this hill! I have plenty of time for a refreshing nap under this cool shady tree.' Within moments, the hare was fast asleep."
+    },
+    {
+      "id": "06_tortoise_passing_sleeping_hare_cu",
+      "title": "Slow and Steady Overtake",
+      "prompt": "Dramatic medium shot, the determined green tortoise steadily marching past the sleeping hare snoozing beneath the apple tree, beads of sweat on the tortoise's forehead but a resolute smile on his face.",
+      "hi": "दोपहर की धूप तेज होती गई, लेकिन टिल्लू कछुआ बिना रुके, बिना थके लगातार आगे बढ़ता रहा। चलते-चलते वह उस पेड़ के पास पहुंचा जहां खरगोश खर्राटे ले रहा था। कछुए ने खरगोश को देखा, लेकिन वह रुका नहीं और चुपचाप फिनिश लाइन की तरफ बढ़ता गया।",
+      "en": "The afternoon sun grew warm, but Tillu never faltered. With sweat on his brow and determination in his eyes, he marched on without taking a single break. He approached the tree where the hare was loudly snoring. Without pausing for a second, Tillu steadily pushed past."
+    },
+    {
+      "id": "07_hare_wakes_panic_wide",
+      "title": "A Shocking Awakening",
+      "prompt": "Dramatic cinematic wide shot, twilight sunset sky, the hare waking up in absolute panic with wide terrified eyes, seeing the tortoise just a few feet away from the red finish ribbon in the distance, running frantically to catch up.",
+      "hi": "जब खरगोश की आंख खुली, तो शाम ढल चुकी थी। उसने घबराकर फिनिश लाइन की तरफ देखा। उसकी आंखें फटी की फटी रह गईं—कछुआ जीत की रेखा से बस कुछ ही इंच दूर था! खरगोश अपनी पूरी ताकत से पागलों की तरह दौड़ा, लेकिन अब बहुत देर हो चुकी थी।",
+      "en": "When the hare finally opened his eyes, the sky had turned to shades of twilight. Jolting awake, he glanced toward the distant hill. His jaw dropped in utter horror—the tortoise was just inches away from the finish ribbon! The hare sprinted with all his might, but it was too late."
+    },
+    {
+      "id": "08_tortoise_victory_celebration_wide",
+      "title": "Triumph of Patience",
+      "prompt": "Joyful golden celebration scene, forest animals cheering wildly, throwing flower garlands on the triumphant smiling tortoise crossing the red ribbon finish line, while the humbled hare kneels exhausted and breathless in defeat.",
+      "hi": "कछुए ने मुस्कुराते हुए फिनिश लाइन पार कर ली। पूरे जंगल के जानवरों ने तालियां बजाकर और फूल बरसाकर कछुए का स्वागत किया। खरगोश शर्म से सिर झुकाए खड़ा था। उस दिन खरगोश का घमंड टूट गया और सभी ने सीखा: 'धीमी और निरंतर चाल हमेशा जीत दिलाती है।' उस दिन के बाद से कछुआ और खरगोश दोनों अच्छे दोस्त बन गए।",
+      "en": "With a quiet smile of triumphant patience, Tillu crossed the finish line. The forest erupted in joyous cheers, showering the victorious tortoise with floral petals and celebration. The hare stood panting in the background, head bowed in humility. That day, pride was shattered, proving once and for all: slow and steady wins the race."
+    }
+  ]
+}

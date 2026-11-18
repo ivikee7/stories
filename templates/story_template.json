@@ -1,0 +1,32 @@
+{
+  "slug": "my-new-story",
+  "title_en": "Story Title in English",
+  "title_hi": "कहानी का हिंदी शीर्षक",
+  "sub_hook": "1 शक्तिशाली नैतिक सीख!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "character_hero": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_scene_intro",
+      "title": "Scene 1: Introduction / दृश्य 1: शुरुआत",
+      "prompt": "Cinematic 3D animation, Pixar/Disney style, detailed description of characters, environment, lighting, pure pictorial illustration without text, 16:9 widescreen 4k.",
+      "hi": "यहाँ पहले दृश्य की हिंदी कहानी या संवाद लिखें।",
+      "en": "Write the English story narration or character dialogue for scene 1 here."
+    },
+    {
+      "id": "02_scene_conflict",
+      "title": "Scene 2: The Rising Action / दृश्य 2: मोड़",
+      "prompt": "Cinematic 3D animation, dynamic camera angle showing character conflict or dramatic turning point.",
+      "hi": "यहाँ दूसरे दृश्य की हिंदी पंक्तियाँ लिखें।",
+      "en": "Write the English lines for scene 2 here."
+    }
+  ]
+}
