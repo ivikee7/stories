@@ -1,0 +1,75 @@
+{
+  "slug": "the-fox-and-the-grapes",
+  "title_en": "The Fox and the Sour Grapes",
+  "title_hi": "लोमड़ी और खट्टे अंगूर",
+  "sub_hook": "जो न मिले, उसे बुरा कहना आसान है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "fox": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_autumn_orchard_hungry_fox",
+      "title": "A Hungry Wanderer / भूखी लोमड़ी का आगमन",
+      "prompt": "Cinematic 3D animation, Pixar style, a sleek bushy-tailed red fox named Sherry walking through a picturesque sun-drenched vineyard orchard in autumn, golden leaves falling, warm afternoon light, 16:9 widescreen 4k.",
+      "hi": "शरद ऋतु की एक सुनहरी दोपहर, शेरी नाम की एक चालाक लाल लोमड़ी भोजन की तलाश में भटक रही थी। उसने सुबह से कुछ नहीं खाया था और भूख के मारे उसके पेट में चूहे कूद रहे थे। चलते-चलते वह एक संपन्न किसान के अंगूरों के बगीचे में पहुँची।",
+      "en": "On a crisp, golden autumn afternoon, a sleek red fox named Sherry roamed through the countryside. She had not tasted a single morsel since dawn, her belly rumbling with ferocious hunger. Wandering along a stone pathway, she entered a farmer's secluded vineyard."
+    },
+    {
+      "id": "02_the_hanging_purple_bounty",
+      "title": "Luscious Purple Clusters / लटकते रसीले अंगूर",
+      "prompt": "Vibrant close-up 3D shot, high wooden trellis overhead covered in emerald green grape leaves with massive clusters of dark purple juicy translucent grapes hanging high, glistening droplets of dew catching sunlight.",
+      "hi": "बगीचे में ऊँचे-ऊँचे लकड़ी के मचानों पर रसीले और पके हुए काले और बैंगनी अंगूरों के बड़े-बड़े गुच्छे लटक रहे थे। धूप में चमकते इन मीठे अंगूरों को देखकर लोमड़ी की आँखें चमक उठीं और उसके मुँह से लार टपकने लगी।",
+      "en": "Trained across tall wooden pergolas high above were magnificent vines laden with massive, ripe, purple grapes. Glistening like polished gemstones in the sunlight, the plump fruit sent waves of sweet perfume through the air, making the fox's mouth water intensely."
+    },
+    {
+      "id": "03_sizing_up_the_height",
+      "title": "Eyeing the Prize / ऊँचाई का अंदाज़ा",
+      "prompt": "Low-angle dynamic 3D shot, the red fox standing on hind legs beneath the towering grape trellis, tilting her snout upward measuring the distance with a confident smirk, leafy dappled shadows on her fur.",
+      "hi": "लोमड़ी ने मचान की ऊँचाई को नापा। अंगूर काफी ऊँचाई पर लटके हुए थे। लेकिन शेरी को अपनी फुर्ती और छलाँग पर पूरा भरोसा था। उसने मुस्कुराते हुए सोचा: 'मैं तो एक ही छलाँग में इन मीठे अंगूरों को चबा जाऊँगी!'",
+      "en": "Sherry eyed the towering trellis. The lowest cluster hung well out of ordinary reach, suspended high in the arbor. Yet confident in her nimble legs and athletic prowess, she chuckled softly: 'A single graceful leap, and these divine grapes shall be mine!'"
+    },
+    {
+      "id": "04_first_mighty_leap",
+      "title": "The First Leap / पहली ज़ोरदार छलाँग",
+      "prompt": "Dynamic action 3D animation, the red fox coiling muscles and leaping high into the air with outstretched forepaws snapping jaws toward the purple grapes, missing by just a few inches, dust kicking up.",
+      "hi": "लोमड़ी कुछ कदम पीछे हटी, उसने पूरी ताकत जुटाई और हवा में एक ज़ोरदार छलाँग लगाई! उसके पंजे आगे बढ़े और मुँह खुला, लेकिन अफ़सोस! उसकी चोंच अंगूरों से सिर्फ कुछ इंच नीचे रह गई और वह धड़ाम से ज़मीन पर आ गिरी।",
+      "en": "Stepping back, Sherry crouched low, coiled her muscles, and launched herself into the air with explosive power! Her paws stretched, her jaws snapped, but alas—her teeth grazed empty air inches below the vine. She landed heavily on all fours with a dusty thump."
+    },
+    {
+      "id": "05_refusing_to_surrender",
+      "title": "Another Try / जिद और पसीना",
+      "prompt": "Comedic dramatic 3D sequence, the panting fox taking a long running start from twenty paces back, leaping frantically with all limbs splayed, missing again and tumbling comically into soft grass.",
+      "hi": "शेरी ने हार नहीं मानी। उसने अपनी धूल झाड़ी और बीस कदम पीछे जाकर लंबा रन-अप लिया। वह पूरी रफ्तार से दौड़ी और हवा में आसमान छूने वाली छलाँग लगाई। पर इस बार भी अंगूर उसकी पकड़ से बहुत दूर रहे। वह घास में लुढ़क गई।",
+      "en": "Brushing off the dirt, Sherry refused to accept defeat. Backing up twenty paces, she charged at full sprint and hurled herself skyward with desperate intensity. Once more, gravity proved merciless—she grasped nothing and tumbled into the clovers."
+    },
+    {
+      "id": "06_exhaustion_sets_in",
+      "title": "Drained and Defeated / थकावट और लाचारी",
+      "prompt": "Medium shot 3D Pixar style, exhausted red fox lying flat on her stomach under the grape vine, tongue hanging out panting, looking up with irritation and bruised pride at the unreachable grapes.",
+      "hi": "लोमड़ी ने एक, दो, तीन... कई बार छलाँगें लगाईं। दोपहर ढलने लगी, उसकी टाँगें कांपने लगीं और वह हाँफते-हाँफते बेदम होकर ज़मीन पर बैठ गई। चाहे वह जितनी भी कोशिश कर लेती, अंगूर उसकी औकात से बहुत ऊँचे थे।",
+      "en": "One, two, three, four times she jumped, straining every sinew until her breath turned ragged and her legs trembled. The sun began to sink, casting long shadows. No matter how fiercely she strained, the grapes remained serenely untouched in their lofty cradle."
+    },
+    {
+      "id": "07_the_haughty_excuse",
+      "title": "Sour Grapes / अंगूर खट्टे हैं!",
+      "prompt": "Expressive close-up 3D animation, the fox turning her snout haughtily into the air with closed eyes and a dismissive smirk, waving her paw condescendingly at the grapes as she begins walking away.",
+      "hi": "अपनी नाकामी और बेइज्जती छिपाने के लिए लोमड़ी ने अपनी नाक हवा में उठाई। उसने अंगूरों की तरफ मुँह बनाकर घमंड से कहा: 'हुँह! मुझे क्या पड़ी है इन बेकार अंगूरों के पीछे जान देने की? देखने में ही लग रहा है कि ये बिल्कुल कच्चे और खट्टे हैं! अगर मैं इन्हें खाऊँगी तो बीमार पड़ जाऊँगी!'",
+      "en": "Unable to admit her own limitation, Sherry tilted her snout proudly to the sky. Feigning utter disdain, she waved a dismissive paw: 'Hmph! Why waste my valuable energy on such wretched fruit? Anyone can see they are completely green and sour! Eating them would only ruin my royal stomach!'"
+    },
+    {
+      "id": "08_walking_away_moral",
+      "title": "Pride Before Reason / सीख",
+      "prompt": "Golden hour twilight cinematic wide shot, the fox strutting haughtily away down the dusty vineyard trail with tail held high, ripe luscious purple grapes glowing in evening backlight behind her, heartwarming moral finish.",
+      "hi": "यह कहकर लोमड़ी शान से सीना ताने वहाँ से चली गई, जबकि उसका पेट अभी भी भूख से जल रहा था। सीख: जब कोई व्यक्ति अपनी अक्षमता के कारण किसी चीज़ को हासिल नहीं कर पाता, तो वह उस चीज़ में ही दोष निकालने लगता है। इसे ही कहते हैं—'अंगूर खट्टे हैं'।",
+      "en": "With an aloof flick of her bushy tail, she strutted away into the dusk, her stomach still hollow. Moral: It is easy to despise and belittle what you cannot achieve; true wisdom lies in accepting one's shortcomings rather than finding false faults in unreachable goals."
+    }
+  ]
+}

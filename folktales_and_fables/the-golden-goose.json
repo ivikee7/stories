@@ -1,0 +1,80 @@
+{
+  "slug": "the-golden-goose",
+  "title_en": "The Goose with the Golden Eggs",
+  "title_hi": "सोने का अंडा देने वाली हंस",
+  "sub_hook": "अति लालच में इंसान सब कुछ गवाँ बैठता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "farmer": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-2Hz"
+    },
+    "wife": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_poor_farmer_cottage",
+      "title": "A Struggling Cottage / गरीब किसान की कुटिया",
+      "prompt": "Cinematic 3D animation, Pixar style, a humble rustic thatched cottage with a small barnyard in an Indian countryside village, elderly farmer in simple clothes feeding grain to a group of white geese, warm morning light, 16:9 widescreen 4k.",
+      "hi": "एक छोटे से गाँव में काशी नाम का एक सीधा-सादा किसान अपनी पत्नी के साथ रहता था। उनके पास थोड़ी सी ज़मीन और कुछ मुर्गियाँ व बत्तखें थीं। वे कड़ी मेहनत करते, लेकिन फिर भी किसी तरह सिर्फ दो वक्त की रोटी ही जुटा पाते थे।",
+      "en": "In a peaceful rural hamlet lived a humble farmer named Kashi and his wife. Possessing only a small plot of land and a few domestic waterfowl, they worked from dawn to dusk, barely scraping together enough to survive."
+    },
+    {
+      "id": "02_the_first_golden_egg",
+      "title": "The Golden Miracle / पहला चमत्कारी सोने का अंडा",
+      "prompt": "Magical close-up 3D animation, sunlight hitting a straw nest where a majestic pure white goose sits proudly, beside her lies a heavy, flawless, mirror-polished solid golden egg glowing with warm magical light.",
+      "hi": "एक सुबह जब काशी बाड़े में अंडे इकट्ठा करने गया, तो उसकी आँखें फटी की फटी रह गईं। एक खास सफेद हंस के घोंसले में एक भारी, चमचमाता हुआ शुद्ध सोने का अंडा रखा था! काशी ने कांपते हाथों से उसे उठाया—वह सचमुच असली सोना था!",
+      "en": "One fateful morning, entering the straw coop to gather eggs, Kashi gasped in disbelief. Nestled in the dry hay beside a graceful white goose lay a heavy, gleaming egg of solid, 24-karat gold! Lifting it with trembling hands, he could scarcely believe his eyes."
+    },
+    {
+      "id": "03_daily_golden_fortune",
+      "title": "A Fortune Every Morning / हर रोज़ नया सोना",
+      "prompt": "Vibrant 3D montage shot, the farmer joyfully receiving a golden egg every morning, trading it at the village jeweller for silver coins and rich goods, his old thatched hut transforming into a fine brick mansion.",
+      "hi": "हर सुबह वह हंस एक नया सोने का अंडा देती। देखते ही देखते काशी की गरीबी दूर हो गई। उसने गाँव में एक बड़ा पक्का मकान बनवाया, अच्छे कपड़े पहने और उसका परिवार गाँव का सबसे धनी और सम्मानित परिवार बन गया।",
+      "en": "Every single dawn, the miraculous bird laid another golden egg. Within months, poverty was a distant memory. Kashi traded the gold for coin, built a fine stone mansion, wore silk garments, and became the most prosperous man in the province."
+    },
+    {
+      "id": "04_the_seed_of_greed",
+      "title": "The Poison of Greed / मन में जागा लालच",
+      "prompt": "Dark atmospheric 3D medium shot, the wealthy farmer and his wife sitting by candlelight at a carved wooden table, whispering greedily while looking out the window toward the goose coop in the yard.",
+      "hi": "लेकिन जैसे-जैसे संपत्ति बढ़ी, काशी और उसकी पत्नी के मन में लालच का ज़हर भी बढ़ता गया। एक शाम काशी ने अपनी पत्नी से कहा: 'यह हंस रोज़ सिर्फ एक ही अंडा देती है। अमीर बनने में बहुत समय लग रहा है। क्यों न इसके पेट से सारे अंडे एक साथ निकाल लिए जाएँ!'",
+      "en": "Yet with vast wealth came the deadly poison of impatience and avarice. Counting his gold by candlelight one midnight, Kashi grumbled: 'One egg a day is too slow! Her belly must be filled with a mountain of pure gold! Why wait months when we can have all of it tonight?'"
+    },
+    {
+      "id": "05_the_fatal_decision",
+      "title": "The Wicked Scheme / विनाशकारी फैसला",
+      "prompt": "Dramatic 3D lighting, shadowy farm shed, the farmer grasping a sharp shiny butcher knife, moving stealthily toward the innocent sleeping white goose, high-contrast ominous shadows.",
+      "hi": "पत्नी ने भी इस मूर्खतापूर्ण विचार का समर्थन किया। दोनों ने सोचा कि हंस के पेट के भीतर सोने का खजाना छिपा है। अगली सुबह काशी एक तेज़ धार वाला चाकू लेकर बाड़े में पहुँचा। मासूम हंस अपने मालिक को देखकर प्यार से पंख फड़फड़ाने लगी।",
+      "en": "Blinded by greed, his wife foolishly concurred. Convinced that an entire vault of treasure resided within the creature, Kashi took a sharp cleaver and crept into the shed. The gentle goose rustled her feathers, greeting her master with trusting warmth."
+    },
+    {
+      "id": "06_the_tragic_cut",
+      "title": "The Horrific Discovery / खजाने का सच",
+      "prompt": "Emotional dramatic 3D animation, the farmer dropping the knife on the straw in shock and horror, clutching his hair with both hands, the goose lying motionless with ordinary internal organs, not a single speck of gold.",
+      "hi": "लालच में अंधे होकर काशी ने उस हंस का पेट काट दिया। लेकिन यह क्या! अंदर झाँकने पर उसे एक भी सोने का अंडा नहीं मिला। वह हंस अंदर से बिल्कुल दूसरी साधारण हंसों जैसी ही थी। काशी के पैरों तले ज़मीन खिसक गई।",
+      "en": "With ruthless haste, Kashi slaughtered the precious bird and slit her belly open. But to his paralyzing horror, there was no secret treasure inside. Her anatomy was identical to every ordinary goose. Not a single fleck of gold was to be found."
+    },
+    {
+      "id": "07_tears_of_irreversible_loss",
+      "title": "Wailing in Ruin / पछतावे के आँसू",
+      "prompt": "Close-up 3D shot, the greedy farmer and wife on their knees in the dusty barn weeping bitterly, holding their heads in despair over the loss of their miraculous benefactor, cold morning light.",
+      "hi": "काशी और उसकी पत्नी सिर पीट-पीटकर रोने लगे: 'हाय! हमने अपने हाथों से अपना भाग्य कुल्हाड़ी से काट दिया!' अब न तो वह सोने का अंडा देने वाली हंस बची थी, और न ही रोज़ मिलने वाला सोना। उनका लालच उनके विनाश का कारण बन गया।",
+      "en": "Kashi fell to his knees in the dust, wailing in agonizing regret. 'Wretch that I am!' he sobbed. 'In my ravenous haste for everything, I destroyed the very source of my blessings!' The miraculous goose was dead, never to return."
+    },
+    {
+      "id": "08_the_eternal_warning",
+      "title": "The Moral of Contentment / संतोष की सीख",
+      "prompt": "Cinematic wide closing shot, the gloomy silent farmyard with the empty straw nest, autumn wind scattering golden dry leaves across the yard, poignant moral realization.",
+      "hi": "काशी एक बार फिर साधारण किसान बनकर रह गया और जिंदगी भर अपने लालच पर पछताता रहा। सीख: जो व्यक्ति संतोष नहीं रखता और रातों-रात सब कुछ पाने का लालच करता है, वह अपने पास मौजूद चीज़ों को भी खो बैठता है। संतोष ही सबसे बड़ा धन है।",
+      "en": "Bereft of their golden stream, the foolish couple returned to poverty, haunted forever by their disastrous greed. Moral: He who desires too much risks losing all; patience and contentment are the true pillars of lasting prosperity."
+    }
+  ]
+}

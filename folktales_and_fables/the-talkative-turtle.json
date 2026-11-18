@@ -1,0 +1,80 @@
+{
+  "slug": "the-talkative-turtle",
+  "title_en": "The Talkative Turtle and the Geese",
+  "title_hi": "बातूनी कछुआ और दो हंस",
+  "sub_hook": "अनुचित समय पर बोलना विनाश का कारण बनता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "turtle": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+2Hz"
+    },
+    "swan": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "-1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_peaceful_lake_three_friends",
+      "title": "Three Inseparable Friends / तीन अभिन्न मित्र",
+      "prompt": "Cinematic 3D animation, pristine lotus lake with turquoise water surrounded by weeping willows, a friendly green tortoise named Kambugriva swimming alongside two majestic white swans, warm morning sunlight, 16:9 widescreen 4k.",
+      "hi": "एक शांत और विशाल झील में कंबुग्रीव नाम का एक कछुआ रहता था। उसी झील में संकट और विकट नाम के दो हंस भी रहते थे। तीनों में बहुत गहरी मित्रता थी। कछुआ बहुत मिलनसार था, लेकिन उसकी एक ही बुरी आदत थी—वह बहुत बातूनी था और बिना रुके बोलता रहता था।",
+      "en": "In a crystal-clear mountain lake bordered by lotus blooms lived a friendly tortoise named Kambugriva, alongside two graceful white geese, Sankata and Vikata. The three were inseparable companions. The tortoise was kind, but possessed one fatal flaw: he was hopelessly talkative."
+    },
+    {
+      "id": "02_the_great_drought",
+      "title": "The Lake Dries Up / भयंकर सूखा और संकट",
+      "prompt": "Dramatic 3D shot, parched cracked clay basin of the dried-up lake, muddy puddles shrinking under a relentless scorching summer sun, the three worried friends discussing their plight.",
+      "hi": "एक साल इलाके में बारिश नहीं हुई और भयंकर सूखा पड़ा। धीरे-धीरे झील का पानी सूखने लगा और कीचड़ नज़र आने लगा। जलीय जीवों के लिए जीवित रहना असंभव हो गया। हंसों को उड़कर किसी नई झील की तलाश करनी थी।",
+      "en": "A catastrophic drought engulfed the kingdom. Rain vanished, and the beloved lake dwindled to cracked, muddy puddles. Water creatures began dying. The geese had to migrate to a distant mountain lake to survive, but their shell-bound friend could not fly."
+    },
+    {
+      "id": "03_tortoise_pleads",
+      "title": "A Tearful Plea / कछुए की विनती",
+      "prompt": "Emotional close-up 3D animation, the green tortoise looking up with pleading eyes and teary cheeks at the two majestic swans spreading their wings, dry reeds around them.",
+      "hi": "कछुए ने रोते हुए हंसों से कहा: 'मित्रों! तुम तो उड़कर चले जाओगे, लेकिन मैं इस सूखे में तड़प-तड़पकर मर जाऊँगा! क्या तुम मुझे अपने साथ नहीं ले जा सकते?' हंसों को अपने मित्र पर तरस आ गया।",
+      "en": "Weeping, the tortoise pleaded: 'Dearest brothers! You can fly to green valleys, but I will perish alone in this baking mud! Please, find a way to carry me with you!' Heartbroken for their companion, the geese devised a daring escape."
+    },
+    {
+      "id": "04_the_stick_plan",
+      "title": "The Wooden Stick Plan / लकड़ी की युक्ति और शपथ",
+      "prompt": "Dynamic 3D illustration, the two swans holding the ends of a sturdy wooden bamboo stick in their beaks, showing the tortoise how to bite firmly in the middle, warning him with serious expressions.",
+      "hi": "हंसों ने एक तरकीब निकाली। उन्होंने एक मजबूत बाँस की लकड़ी ढूँढ़ी और कहा: 'हम दोनों इस लकड़ी को दोनों सिरों से अपनी चोंच में पकड़ेंगे, और तुम बीच में से अपने मुँह से मज़बूती से पकड़ लेना। पर याद रखना—रास्ते में एक शब्द भी मत बोलना, वरना नीचे गिर जाओगे!'",
+      "en": "Retrieving a sturdy bamboo rod, the geese explained the flight plan: 'We shall grip the ends in our beaks, and you must clamp your jaws firmly around the center. But swear an oath: do not utter a single word in the air, or you will plunge to your doom!'"
+    },
+    {
+      "id": "05_soaring_through_skies",
+      "title": "Flight Above the Clouds / बादलों के ऊपर उड़ान",
+      "prompt": "Breathtaking wide 3D panoramic shot, the two majestic white swans flying gracefully through fluffy golden sunset clouds, carrying the rod with the green tortoise dangling between them high above towns and mountains.",
+      "hi": "कछुए ने कसकर लकड़ी को अपने मुँह में दबा लिया। हंसों ने अपने शक्तिशाली पंख फड़फड़ाए और आसमान की ऊँचाइयों में उड़ चले। नीचे गाँव, नदियाँ और पहाड़ खिलौनों जैसे दिख रहे थे। कछुआ ज़िंदगी में पहली बार उड़ने का रोमांच महसूस कर रहा था।",
+      "en": "Clamping his jaws tightly onto the wood, the tortoise felt the rush of wind as the geese ascended into the sky. Soaring high above emerald forests and medieval rooftops, Kambugriva looked down at the world with utter wonder and ecstasy."
+    },
+    {
+      "id": "06_villagers_mockery_below",
+      "title": "The Clamor of the Crowd / गाँव वालों का शोर",
+      "prompt": "Low-angle cinematic 3D shot, village children and farmers in medieval Indian village looking up pointing and shouting, laughing mockingly at the strange flying creature.",
+      "hi": "जब वे एक शहर के ऊपर से गुज़रे, तो नीचे के लोगों ने इस अनोखे दृश्य को देखा। लोग चिल्लाने लगे: 'अरे देखो! दो हंस एक कछुए को ले जा रहे हैं! अगर यह गिरा तो हम इसे पकाकर खाएँगे!'",
+      "en": "Passing over a bustling township, the strange spectacle caught the crowd's eye. Townspeople pointed, shouting in mockery: 'Look at the flying ball! If the clumsy turtle slips, we shall feast on turtle soup tonight!'"
+    },
+    {
+      "id": "07_the_fatal_words",
+      "title": "The Fatal Outburst / मुँह खुला और सर्वनाश",
+      "prompt": "Dramatic action 3D shot, high angle, the furious tortoise opening his mouth wide shouting down angrily, the wooden stick slipping from his jaws, the two swans gasping in horror as he begins to fall.",
+      "hi": "लोगों के ताने सुनकर बातूनी कछुए से चुप नहीं रहा गया। अपने गुस्से और घमंड पर काबू न पाकर उसने चिल्लाना चाहा: 'तुम सब मेरी राख खाओगे!' पर जैसे ही उसने मुँह खोला, लकड़ी चोंच से छूट गई!",
+      "en": "Enraged by their insults, the boastful turtle forgot his solemn vow. Incapable of holding his tongue, he opened his jaws to scream: 'Eat dust, you fools!' But the instant his mouth opened, the stick slipped from his grasp."
+    },
+    {
+      "id": "08_the_tragic_fall_moral",
+      "title": "The Price of Silence / सीख",
+      "prompt": "Atmospheric evening twilight 3D shot, the two grieving swans landing sorrowfully near the distant blue lake, while the tragic lesson echoes across the peaceful valley, poignant cinematic end.",
+      "hi": "कछुआ हवा में हिचकोले खाता हुआ ज़मीन पर पत्थरों पर आ गिरा और उसका अंत हो गया। हंस दूर उड़ते हुए आँसू बहाते रहे। सीख: बिना सोचे-समझे और अनुचित समय पर बोलना विनाश का कारण बनता है; समझदार वही है जो सही समय पर मौन रहना जानता है।",
+      "en": "Plummeting through the air, the foolish tortoise smashed upon the jagged stones below. Weeping for their fallen friend, the geese flew on to the mountain lake alone. Moral: Silence in the face of provocation is life; speaking out of turn and uncontrollable pride leads to ruin."
+    }
+  ]
+}

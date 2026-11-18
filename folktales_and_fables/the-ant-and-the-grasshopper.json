@@ -1,0 +1,80 @@
+{
+  "slug": "the-ant-and-the-grasshopper",
+  "title_en": "The Ant and the Grasshopper",
+  "title_hi": "चींटी और टिड्डा",
+  "sub_hook": "आज की मेहनत ही कल का सुरक्षित भविष्य बनाती है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "ant": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+2Hz"
+    },
+    "grasshopper": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_golden_summer_meadow",
+      "title": "The Joyous Summer / सुनहरी गर्मियों का मौसम",
+      "prompt": "Vibrant cinematic 3D animation, lush green meadow blooming with bright daisies and clover, warm yellow sunbeams, colorful butterflies dancing in warm breeze, Pixar style 16:9 widescreen 4k.",
+      "hi": "गर्मियों के सुहावने दिन थे। पूरा मैदान हरी-भरी घास, रंग-बिरंगे फूलों और गुनगुनी धूप से महक रहा था। चिड़ियाँ मीठे गीत गा रही थीं और चारों तरफ जीवन का उत्सव छाया हुआ था।",
+      "en": "It was a splendid, sun-kissed summer. The sprawling meadow flourished with emerald grass, blooming daisies, and gentle warm breezes, teeming with songbirds and golden sunlight."
+    },
+    {
+      "id": "02_the_singing_grasshopper",
+      "title": "The Carefree Musician / बेपरवाह टिड्डा",
+      "prompt": "Close-up 3D animation, an expressive green grasshopper wearing a tiny dapper waistcoat, lounging on a dandelion flower playing a miniature wooden violin merrily with closed eyes, zero care in the world.",
+      "hi": "उसी मैदान में टिल्लू नाम का एक बेपरवाह टिड्डा रहता था। वह दिन भर धूप में बैठकर अपनी छोटी सारंगी बजाता, नाचता और मस्त होकर गाता रहता था। वह कल की कभी चिंता नहीं करता था और बस वर्तमान का मज़ा लेता था।",
+      "en": "In this field lived Tillu, a carefree green grasshopper. Clad in a tiny waistcoat, he spent his days lounging upon clover petals, strumming a miniature violin, singing and dancing with not a single thought for tomorrow."
+    },
+    {
+      "id": "03_the_hardworking_ant",
+      "title": "The Diligent Ant / मेहनती चींटी की कतार",
+      "prompt": "Detailed 3D shot, a tiny determined red-brown ant named Champa carrying a golden grain of wheat twice her size on her back, marching alongside an organized line of ants carrying seeds into their underground nest.",
+      "hi": "दूसरी तरफ चंपा नाम की एक मेहनती चींटी थी। चंपा और उसकी साथी चींटियाँ सुबह से शाम तक कड़ी धूप में पसीना बहाते हुए गेहूँ के भारी दाने और सूखे बीज अपनी पीठ पर लादकर अपने भूमिगत बिल में जमा कर रही थीं।",
+      "en": "Nearby marched Champa, a diligent little ant. While others played, Champa and her sisters labored under the hot sun, hauling golden wheat kernels twice their size, methodically storing food inside their underground chambers."
+    },
+    {
+      "id": "04_mocking_the_laborer",
+      "title": "The Grasshopper's Mockery / टिड्डे का उपहास",
+      "prompt": "Dynamic 3D medium shot, the grasshopper laughing heartily leaning against a tall stalk, offering his fiddle to the tired sweating ant who pauses with a heavy corn kernel, expressive comedic interaction.",
+      "hi": "चंपा को इतनी भारी मेहनत करते देख टिड्डा ज़ोर-ज़ोर से हँसने लगा: 'अरे चंपा बहन! इतनी खूबसूरत धूप में तुम क्यों अपनी जान दे रही हो? छोड़ो यह काम, आओ मेरे साथ संगीत का आनंद लो!'",
+      "en": "Watching Champa struggle with a heavy seed, Tillu burst out laughing: 'Why toil so furiously under this divine sun, sister Champa? Put down your burdens, sing with me, and enjoy the glorious season!'"
+    },
+    {
+      "id": "05_ant_wise_counsel",
+      "title": "A Warning of Winter / आने वाली सर्दी की चेतावनी",
+      "prompt": "Close-up 3D shot, the ant wiping sweat from her brow with an earnest, caring expression, pointing toward distant snow-capped mountain peaks on the horizon, the grasshopper smirking dismissively.",
+      "hi": "चंपा ने रुककर पसीना पोंछा और कहा: 'टिल्लू भाई, यह मौसम हमेशा नहीं रहेगा। आगे भीषण सर्दी आने वाली है, जब चारों तरफ बर्फ जम जाएगी और खाने को एक तिनका नहीं मिलेगा। तुम भी अपने लिए भोजन जुटा लो।' पर टिड्डे ने उसकी बात अनसुनी कर दी।",
+      "en": "Champa paused, wiping her brow: 'Brother Tillu, summer does not last forever. Bitter winter is approaching when snow will freeze the fields. Store food now, or you will starve.' But the foolish grasshopper merely shrugged and resumed his tune."
+    },
+    {
+      "id": "06_winter_strikes_mercilessly",
+      "title": "The Freeze Arrives / कड़ाके की ठंड और बर्फबारी",
+      "prompt": "Dramatic transformation 3D wide shot, howling icy blizzard sweeping across the frozen landscape, barren trees covered in thick icicles, deep snow covering the frozen ground, bleak winter atmosphere.",
+      "hi": "कुछ ही महीनों में सर्दियाँ आ गईं। आसमान से भारी बर्फबारी शुरू हो गई और बर्फीली हवाएँ चलने लगीं। हरियाली गायब हो गई और पूरा मैदान बर्फ की मोटी सफेद चादर में दब गया। भोजन का एक भी दाना कहीं दिखाई नहीं दे रहा था।",
+      "en": "Before long, autumn faded into an unforgiving winter. Freezing blizzards howled across the frozen meadows, burying the grass under deep blankets of snow. Not a leaf, fruit, or seed could be found anywhere upon the barren waste."
+    },
+    {
+      "id": "07_starving_at_the_door",
+      "title": "Shivering at the Ant's Door / चींटी के द्वार पर याचना",
+      "prompt": "Emotional 3D animation, the shivering grasshopper half-frozen with blue lips and icicles on his antennae, knocking feebly with a stick on the cozy warm illuminated underground door of the ant hill.",
+      "hi": "भूख और ठंड से कांपता हुआ टिड्डा मुश्किल से कदम बढ़ाता हुआ चींटी के बिल के दरवाजे पर पहुँचा। उसने कांपते हाथों से दरवाजा खटखटाया। अंदर से जलती मोमबत्तियों की रोशनी और खाने की स्वादिष्ट खुशबू आ रही थी।",
+      "en": "Freezing and famished, Tillu trudged through knee-deep drifts. His violin was broken, his limbs trembling uncontrollably. Reaching the sheltered mound of the anthill, he tapped feebly upon the warm, glowing wooden door."
+    },
+    {
+      "id": "08_the_warmth_and_moral",
+      "title": "Compassion and Life Lesson / दया और भविष्य की सीख",
+      "prompt": "Warm heartwarming 3D interior shot, cozy underground ant storehouse filled with neatly stacked corn and seeds, gentle ant handing a warm cup of broth and grain to the humbled grasshopper, warm lantern glow.",
+      "hi": "चंपा ने दरवाजा खोला। टिड्डे की दयनीय हालत देखकर उसे दया आ गई। उसने टिड्डे को अंदर बुलाया, आग के पास बिठाया और गर्म सूप व दाने दिए। टिड्डे की आँखों में पश्चाताप के आँसू थे। उसने हाथ जोड़कर कहा: 'आज मुझे समझ आया कि समय रहते की गई मेहनत ही जीवन की रक्षा करती है।'",
+      "en": "Champa opened the door. Seeing her erstwhile mocker shivering on the brink of death, she showed noble kindness, inviting him into her warm, grain-stocked hearth. Weeping with gratitude, Tillu promised never again to idle away precious days. Moral: Work today so you may thrive tomorrow; foresight and diligence conquer hardship."
+    }
+  ]
+}

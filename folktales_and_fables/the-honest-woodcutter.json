@@ -1,0 +1,80 @@
+{
+  "slug": "the-honest-woodcutter",
+  "title_en": "The Honest Woodcutter and the Golden Axe",
+  "title_hi": "ईमानदार लकड़हारा और सोने की कुल्हाड़ी",
+  "sub_hook": "सच्ची ईमानदारी का पुरस्कार हमेशा अनमोल होता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "woodcutter": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-1Hz"
+    },
+    "river_goddess": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+3Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_humble_woodcutter_riverbank",
+      "title": "The Poor Honest Woodcutter / गरीब ईमानदार रामू",
+      "prompt": "Cinematic 3D animation, a kind humble Indian woodcutter in simple cotton dhoti named Ramu cutting dry branches of an ancient tree on a rocky riverbank, rushing crystal blue river below, morning sunlight, 16:9 widescreen 4k.",
+      "hi": "एक छोटे से गाँव में रामू नाम का एक बहुत गरीब लेकिन बेहद ईमानदार लकड़हारा रहता था। उसके पास आजीविका के नाम पर सिर्फ एक पुरानी लोहे की कुल्हाड़ी थी। वह रोज़ जंगल से सूखी लकड़ियाँ काटकर बाज़ार में बेचता और अपने परिवार का भरण-पोषण करता था।",
+      "en": "In a peaceful village bordered by a mighty river lived Ramu, a poor but profoundly honest woodcutter. His sole possession was a worn iron axe. Every morning, he hiked to the forested riverbanks to gather dead wood to sell in the marketplace."
+    },
+    {
+      "id": "02_the_axe_slips",
+      "title": "The Tragic Slip / कुल्हाड़ी का नदी में गिरना",
+      "prompt": "Dramatic action 3D shot, high angle, woodcutter slipping slightly on a mossy branch overhanging the rushing river, the dark iron axe slipping from his grasp, splashing with ripples into the deep water.",
+      "hi": "एक दिन नदी के किनारे एक पेड़ की शाखा काटते समय रामू के हाथ से पसीना छूट गया और उसकी एकमात्र लोहे की कुल्हाड़ी फिसलकर गहरी नदी में छपाक से गिर गई। नदी का पानी बहुत गहरा और बहाव तेज़ था।",
+      "en": "One fateful afternoon, while chopping an overhanging bough above the rushing current, the wooden handle slipped from his sweaty palms. With a sharp splash, his iron axe sank into the churning depths and vanished from sight."
+    },
+    {
+      "id": "03_weeping_in_despair",
+      "title": "Tears of Helplessness / बेबसी के आँसू",
+      "prompt": "Emotional 3D medium shot, the poor woodcutter sitting on the mossy river bank holding his head in both hands weeping bitterly, twilight reflections on the deep river water, Pixar character design.",
+      "hi": "कुल्हाड़ी के बिना रामू का काम ठप हो गया। वह तैरना नहीं जानता था। नदी किनारे बैठकर वह सिर पकड़कर फूट-फूटकर रोने लगा: 'हे भगवान! अब मैं अपने बच्चों का पेट कैसे भरूँगा? मेरी कुल्हाड़ी ही मेरी पूरी दुनिया थी!'",
+      "en": "Unable to swim, Ramu sat on the wet pebbles, burying his face in his calloused hands. Tears poured down his cheeks: 'O Lord, how will I feed my hungry children now? My axe was my life!'"
+    },
+    {
+      "id": "04_goddess_appears",
+      "title": "The River Goddess Emerges / जलपरी का प्राकट्य",
+      "prompt": "Magical ethereal 3D animation, glowing golden and turquoise light radiating from the river waters, a radiant River Goddess emerging surrounded by floating lotus blossoms and divine mist, serene benevolent smile.",
+      "hi": "रामू का सच्चा विलाप सुनकर नदी की अधिष्ठात्री जलदेवी को उस पर दया आ गई। पानी के बीच से एक दिव्य प्रकाश चमका और सुंदर जलदेवी शांत मुस्कान के साथ जल की सतह पर प्रकट हुईं। उन्होंने पूछा: 'पुत्र, तुम क्यों रो रहे हो?'",
+      "en": "Moved by his genuine grief, the divine Goddess of the River arose from the shimmering waters, encircled by radiant beams of turquoise light and floating lotus petals. With a gentle voice, she asked: 'Why do you weep, my honest child?'"
+    },
+    {
+      "id": "05_golden_axe_refused",
+      "title": "The Golden Axe / सोने की कुल्हाड़ी की परीक्षा",
+      "prompt": "Cinematic close-up 3D shot, the Goddess holding up a gleaming, sparkling solid gold axe adorned with jewels, Ramu shaking his head with respectful hands folded in refusal, pure integrity.",
+      "hi": "पूरी बात सुनकर देवी ने नदी में डुबकी लगाई और एक चमचमाती 24-कैरेट शुद्ध सोने की कुल्हाड़ी लेकर बाहर आईं। उन्होंने कहा: 'क्या यह तुम्हारी कुल्हाड़ी है?' रामू ने हाथ जोड़कर कहा: 'नहीं देवी माँ, यह सोने की कुल्हाड़ी मेरी नहीं है। मैं इतना अमीर कहाँ!'",
+      "en": "Diving into the deep currents, the Goddess resurfaced holding a magnificent axe forged of pure gleaming gold. 'Is this the tool you lost?' she asked. Ramu bowed humbly: 'No, blessed Mother, this golden treasure is far too grand to belong to a poor woodcutter like me.'"
+    },
+    {
+      "id": "06_silver_axe_refused",
+      "title": "The Silver Axe / चाँदी की कुल्हाड़ी",
+      "prompt": "Vibrant 3D animation, the River Goddess diving again and bringing out a radiant polished silver axe glowing with moonlight brilliance, Ramu smiling gently and shaking his head once more.",
+      "hi": "देवी दोबारा जल में समाईं और इस बार एक चमकदार चाँदी की कुल्हाड़ी लेकर निकलीं। 'तो क्या यह तुम्हारी है?' रामू ने फिर सिर हिलाया: 'नहीं माँ, यह चाँदी की कुल्हाड़ी भी मेरी नहीं है। मेरी कुल्हाड़ी तो साधारण लोहे की थी।'",
+      "en": "The Goddess plunged once more into the whirlpool, bringing forth a radiant axe of polished solid silver. 'Then this surely must be yours?' Ramu shook his head with serene calm: 'No, kind Goddess, my axe was made of humble black iron with a rough wooden handle.'"
+    },
+    {
+      "id": "07_the_true_iron_axe",
+      "title": "The Humble Iron Axe / असली लोहे की कुल्हाड़ी",
+      "prompt": "Dynamic 3D shot, the Goddess emerging with the battered, rusted iron axe, Ramu's eyes lighting up with joyful recognition and immense relief, reaching out with grateful hands.",
+      "hi": "तीसरी बार देवी ने जल में हाथ डाला और रामू की वही पुरानी, जंग लगी लोहे की कुल्हाड़ी निकाली। अपनी कुल्हाड़ी देखते ही रामू खुशी से झूम उठा: 'हाँ माँ! यही है मेरी असली कुल्हाड़ी! आपका कोटि-कोटि धन्यवाद!'",
+      "en": "On her third descent, the Goddess retrieved the old, weathered iron axe with its chipped wooden grip. Ramu cried out with uncontainable joy: 'Yes! That is mine! That is my faithful axe! Thank you, Mother!'"
+    },
+    {
+      "id": "08_reward_of_integrity",
+      "title": "The Reward of Truth / ईमानदारी का उपहार",
+      "prompt": "Warm golden sunrise over the riverbank, the divine Goddess presenting all three axes—iron, silver, and gold—to the beaming woodcutter, sparkling magical blessings filling the air, inspirational cinematic conclusion.",
+      "hi": "रामू की सच्ची ईमानदारी और निस्वार्थ भाव देखकर जलदेवी अत्यंत प्रसन्न हुईं। उन्होंने कहा: 'पुत्र, तुम्हारी सत्यनिष्ठा ने मेरा हृदय जीत लिया। मैं तुम्हें तुम्हारी लोहे की कुल्हाड़ी के साथ यह सोने और चाँदी की कुल्हाड़ियाँ भी पुरस्कार स्वरूप देती हूँ।' रामू का जीवन सुखमय हो गया। सीख: ईमानदारी सबसे बड़ा धन है; सत्य के मार्ग पर चलने वाले को हमेशा सम्मान और समृद्धि मिलती है।",
+      "en": "Beaming with divine admiration for his incorruptible truthfulness, the Goddess blessed him: 'Your honesty has proven your noble spirit, Ramu. Keep your iron axe, and accept the gold and silver axes as my gift.' From that day, poverty left Ramu's home forever. Moral: Honesty is the highest virtue; integrity brings rewards greater than gold."
+    }
+  ]
+}

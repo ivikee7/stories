@@ -1,0 +1,80 @@
+{
+  "slug": "the-brahmin-and-the-goat",
+  "title_en": "The Brahmin and the Three Rogues",
+  "title_hi": "ब्राह्मण और तीन ठग",
+  "sub_hook": "बार-बार बोले गए झूठ से सच भी डगमगा जाता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "brahmin": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-1Hz"
+    },
+    "thug1": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-3Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_brahmin_receives_goat",
+      "title": "A Sacred Gift / यज्ञ की भेंट में बकरा",
+      "prompt": "Cinematic 3D animation, an honest pious Indian Brahmin named Mitra Sharma in saffron dhoti and sacred thread, joyfully carrying a healthy plump white baby goat across his shoulders, walking down a sunlit forest trail, Pixar style 16:9 widescreen 4k.",
+      "hi": "एक बार मित्र शर्मा नाम के एक विद्वान और सीधे-सादे ब्राह्मण को एक धनी यजमान ने यज्ञ संपन्न कराने की दक्षिणा में एक हष्ट-पुष्ट, सफेद बकरा भेंट किया। ब्राह्मण बहुत खुश था और उसने बकरे को अपने कंधों पर बिठा लिया ताकि वह सुरक्षित घर पहुँच सके।",
+      "en": "Once, an honest and pious Brahmin named Mitra Sharma conducted a sacred fire ceremony for a wealthy patron, who gratefully gifted him a healthy, plump white goat. Delighted with this valuable gift, the gentle priest hoisted the goat onto his shoulders to journey home."
+    },
+    {
+      "id": "02_the_three_thugs_plotting",
+      "title": "The Rogues Plot / तीन धूर्त ठगों का षड्यंत्र",
+      "prompt": "Low-angle cinematic 3D shot, three cunning, mischievous thieves hiding behind dense jungle bushes, eyeing the plump goat carried by the Brahmin with greedy grins, whispering a sneaky psychological trick.",
+      "hi": "रास्ते में तीन चालाक ठगों ने ब्राह्मण के कंधे पर उस सुंदर बकरे को देखा। उन्होंने सोचा: 'यदि हम इसे सीधे छीनेंगे तो ब्राह्मण शोर मचाएगा। क्यों न इसे अपनी बातों के जाल में फंसाकर बकरा मुफ्त में हथिया लिया जाए!' तीनों ने एक षड्यंत्र रचा।",
+      "en": "Watching from the roadside brush were three cunning rogues. Seeing the fat, succulent goat, their mouths watered: 'If we rob him by force, he will scream for the guards. Let us instead deceive his mind with a coordinated lie so he gives it to us willingly!'"
+    },
+    {
+      "id": "03_first_thug_encounter",
+      "title": "The First Thug: A Dog? / पहला ठग: क्या यह कुत्ता है?",
+      "prompt": "Dynamic 3D medium shot, the first thug approaching the Brahmin on the forest path, raising hands in mock disgust, pointing dramatically at the goat on the Brahmin's shoulders.",
+      "hi": "कुछ दूर चलने पर पहला ठग ब्राह्मण के सामने आया और चौंककर बोला: 'अरे पंडित जी! प्रणाम! पर यह आप क्या कर रहे हैं? आप जैसे पवित्र ब्राह्मण होकर अपने कंधे पर यह अपवित्र कुत्ता क्यों लाद रखा है?' ब्राह्मण को गुस्सा आया: 'क्या तुम अंधे हो? यह कुत्ता नहीं, बकरा है!'",
+      "en": "A mile down the path, the first thug intercepted the priest, clasping his hands in theatrical horror: 'Venerable Pandit, greetings! But what madness is this? Why does a holy, pure Brahmin carry a filthy mangy dog across his sacred shoulders?' The Brahmin snapped: 'Are you blind? This is a goat!'"
+    },
+    {
+      "id": "04_brahmin_walks_perturbed",
+      "title": "Doubt Creeps In / मन में शंका",
+      "prompt": "Close-up 3D animation, the Brahmin walking along the dusty forest trail, glancing sideways with a puzzled, slightly uneasy expression at the white goat on his back, the goat bleating innocently.",
+      "hi": "ठग ने हँसकर कहा: 'जैसी आपकी मर्जी महाराज, पर मुझे तो यह कुत्ता ही दिख रहा है।' ब्राह्मण आगे बढ़ गया, लेकिन उसके मन में हल्का सा संदेह पैदा हो गया कि क्या सच में उस आदमी को यह कुत्ता लगा?",
+      "en": "The rogue shrugged: 'Suit yourself, holy sir, but to my eyes it is a dog.' The Brahmin hurried along, yet an uneasy whisper of doubt began to prick his thoughts. Could someone truly mistake a goat for a canine?"
+    },
+    {
+      "id": "05_second_thug_dead_calf",
+      "title": "The Second Thug: A Dead Calf? / दूसरा ठग: मृत बछड़ा?",
+      "prompt": "Dramatic 3D shot, the second rogue bowing with exaggerated shock, shaking his head at the bewildered Brahmin under the shade of a flowering palash tree.",
+      "hi": "थोड़ी दूर आगे दूसरा ठग मिला। उसने ब्राह्मण को देखते ही अपनी नाक सिकोड़ी: 'छि: छि: पंडित जी! आप जैसा ज्ञानी पुरुष अपने कंधे पर मरा हुआ बछड़ा उठाकर क्यों घूम रहा है? आपका धर्म भ्रष्ट हो जाएगा!' ब्राह्मण ने घबराकर बकरे को नीचे उतारकर ध्यान से देखा—वह बकरा ही था!",
+      "en": "Half an hour later, the second crook approached, wrinkling his nose in sheer revulsion: 'Alas, revered sage! How can a spiritual scholar carry a foul, dead calf upon his back? You are polluting your caste!' Shaken, the Brahmin set the animal down—it was clearly an alive goat!"
+    },
+    {
+      "id": "06_third_thug_donkey_claim",
+      "title": "The Third Thug: A Donkey! / तीसरा ठग: गधा या भूत?",
+      "prompt": "Expressive 3D medium shot, the third thug laughing comically pointing at the Brahmin, the poor Brahmin sweating profusely with wide panicked eyes, genuinely questioning his own senses.",
+      "hi": "ब्राह्मण ने बकरे को फिर कंधे पर उठाया और तेज़ चलने लगा। तभी तीसरा ठग सामने आया और ज़ोर से हँसा: 'पंडित जी, क्या बुद्धि भ्रष्ट हो गई है? एक ब्राह्मण होकर आप गधे के बच्चे को अपनी पीठ पर ढो रहे हैं?' अब ब्राह्मण का दिमाग पूरी तरह घूम गया।",
+      "en": "Re-shouldering the beast with rising anxiety, the Brahmin quickened his pace. Suddenly, the third rogue crossed his path, bursting into ridicule: 'O learned master, has the heat cooked your wits? A high priest proudly carrying a donkey foal through the village?'"
+    },
+    {
+      "id": "07_panicked_abandonment",
+      "title": "The Fear of Sorcery / पिशाच का भय और त्याग",
+      "prompt": "Dynamic 3D action scene, the terrified Brahmin dropping the goat onto the dirt road in sheer panic, running away holding his saffron robes in both hands without looking back, while the three rogues laugh in triumph.",
+      "hi": "तीन अलग-अलग लोगों द्वारा एक ही बात कहने पर ब्राह्मण ने सोचा: 'यह ज़रूर कोई मायावी पिशाच या भूत है जो रूप बदल रहा है!' डर के मारे उसने तुरंत बकरे को ज़मीन पर पटक दिया और अपनी धोती उठाकर सिर पर पैर रखकर गाँव की ओर भाग खड़ा हुआ!",
+      "en": "Hearing three independent strangers deliver the same verdict, the terrified Brahmin concluded: 'This must be a demonic shape-shifting monster that morphs before men's eyes!' Dropping the goat into the dust, he hoisted his robes and sprinted toward safety as fast as his legs could carry him!"
+    },
+    {
+      "id": "08_the_thugs_feast_moral",
+      "title": "Triumph of Deception / सीख",
+      "prompt": "Warm twilight cinematic wide shot, the three laughing rogues leading the plump white goat happily into their camp to feast, while the foolish panicked priest disappears in the distant horizon, profound moral finish.",
+      "hi": "तीनों ठगों ने हँसते-हँसते उस बकरे को पकड़ा और मजे से अपने घर ले गए। सीख: यदि कई लोग मिलकर किसी झूठ को बार-बार दोहराएँ, तो बुद्धिमान व्यक्ति का विश्वास भी डगमगा सकता है। इसलिए किसी की बात पर आँख मूँदकर विश्वास न करें, अपनी आँखों और विवेक पर भरोसा रखें।",
+      "en": "The three grinning swindlers gathered the prize and strolled off to prepare a lavish banquet. Moral: When a falsehood is repeated often enough by coordinated voices, even the wise can doubt their own senses; always trust your own eyes and reason over hearsay."
+    }
+  ]
+}

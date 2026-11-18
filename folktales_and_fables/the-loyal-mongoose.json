@@ -1,0 +1,80 @@
+{
+  "slug": "the-loyal-mongoose",
+  "title_en": "The Loyal Mongoose and the Serpent",
+  "title_hi": "वफादार नेवला और साँप",
+  "sub_hook": "बिना विचारे जो करे, सो पाछे पछताय!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "mother": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+1Hz"
+    },
+    "father": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-2Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_peaceful_village_family",
+      "title": "A Beloved Pet / परिवार का प्यारा नेवला",
+      "prompt": "Cinematic 3D animation, Pixar style, a warm rustic Indian village home, cozy clay courtyard with flowers, a gentle mother tenderly rocking a wooden cradle with an adorable baby, while a sleek brown mongoose plays playfully beside them, 16:9 widescreen 4k.",
+      "hi": "एक गाँव में एक गरीब किसान दंपत्ति अपने नवजात शिशु के साथ रहते थे। उनके घर में एक पालतू नन्हा नेवला भी था, जिसे उन्होंने अपने बच्चे की तरह पाला था। नेवला बहुत समझदार, वफादार और बच्चे से बेहद प्यार करता था।",
+      "en": "In a quiet village lived a loving farmer and his wife with their newborn infant. They also shared their humble cottage with a tame brown mongoose, whom they had raised from infancy like their own offspring. The mongoose was exceptionally loyal and guarded the baby fiercely."
+    },
+    {
+      "id": "02_mother_leaves_for_water",
+      "title": "The Mother Departs / नदी पर पानी भरने जाना",
+      "prompt": "Vibrant 3D shot, the mother balancing a large brass water pitcher on her hip, gently cautioning the mongoose sitting loyally by the wooden baby cradle before stepping out into the sunlit morning path.",
+      "hi": "एक दोपहर जब किसान खेत पर काम कर रहा था, माँ को नदी से पानी लाने जाना पड़ा। जाते समय उसने नेवले से कहा: 'बेटा, मैं कुछ देर में आती हूँ। मेरे बच्चे का ध्यान रखना।' नेवले ने प्यार से सिर हिलाया और पालने के पास पहरा देने बैठ गया।",
+      "en": "One warm afternoon while the farmer was out plowing, the mother took her brass water jug to fetch fresh river water. Leaving the infant asleep, she whispered to the mongoose: 'Watch over our little one until I return.' The loyal creature curled faithfully at the foot of the crib."
+    },
+    {
+      "id": "03_the_black_cobra_enters",
+      "title": "The Venomous Intruder / खूँखार काला नाग",
+      "prompt": "Dramatic dark 3D animation, a massive venomous black Indian cobra with hooded flared neck and hissing red tongue slithering silently through the wooden door crack toward the baby's cradle.",
+      "hi": "माँ के जाने के कुछ ही देर बाद, घर की दीवार के एक छेद से एक भयानक काला ज़हरीला नाग रेंगता हुआ कमरे में घुसा। वह अपनी फुफकार के साथ सीधे सोए हुए मासूम बच्चे के पालने की ओर बढ़ने लगा।",
+      "en": "Moments later, a deadly black cobra with flared hood and glistening scales slithered silently through a crevice in the mud brick wall. Hissing softly, the serpent coiled directly toward the vulnerable cradle."
+    },
+    {
+      "id": "04_fierce_battle_defense",
+      "title": "The Heroic Battle / नेवले का पराक्रम",
+      "prompt": "Dynamic action 3D shot, fierce lightning-fast clash between the brave agile mongoose and the striking black cobra, venom dripping, claws slashing, fur bristling in desperate defense of the crib.",
+      "hi": "खतरे को भाँपते ही वफादार नेवला बिजली की रफ्तार से साँप पर झपटा! बच्चे की जान बचाने के लिए नेवले ने अपने से कई गुना बड़े ज़हरीले नाग से भीषण युद्ध छेड़ दिया। उसने साँप के फन को अपने नुकीले दाँतों में दबोच लिया।",
+      "en": "Sensing mortal peril, the brave mongoose struck like lightning! Flashing sharp claws and teeth, the fearless protector engaged the venomous serpent in a furious death match, determined to shield the sleeping infant at all costs."
+    },
+    {
+      "id": "05_the_cobra_slain",
+      "title": "The Serpent Slain / साँप का अंत",
+      "prompt": "Dramatic 3D medium shot, the black cobra lying vanquished in pieces on the floor, the exhausted wounded mongoose panting victorious, blood staining his mouth and paws, the baby sleeping safely inside.",
+      "hi": "कड़े संघर्ष के बाद नेवले ने साँप के टुकड़े-टुकड़े कर उसे मार डाला। उस लड़ाई में नेवले के मुँह और पंजों पर साँप का खून लग गया था। अपने छोटे भाई को सुरक्षित देखकर नेवला खुशी से द्वार पर माँ का इंतज़ार करने लगा।",
+      "en": "After an agonizing duel, the mongoose severed the cobra's head, vanquishing the beast. Covered in serpent blood across his whiskers and paws, the exhausted hero sat proudly on the threshold to welcome his returning mother."
+    },
+    {
+      "id": "06_fatal_misunderstanding",
+      "title": "The Rash Conclusion / खूनी गलतफहमी",
+      "prompt": "High-contrast dramatic 3D shot, the mother returning with the brass water pot, freezing in absolute horror seeing blood dripping from the mongoose's mouth, eyes widening in panicked fury.",
+      "hi": "जब माँ पानी का मटका लेकर घर लौटी, तो उसने देखा कि नेवले का मुँह और पंजे खून से सने हुए हैं। बिना अंदर झाँके, माँ के मन में भयानक विचार आया: 'इस दुष्ट नेवले ने मेरे नन्हे बच्चे को मार डाला!'",
+      "en": "Approaching the doorway, the mother was greeted by the blood-drenched mongoose. In a split second of blind horror, irrational panic seized her soul: 'This treacherous beast has butchered my child!' she shrieked."
+    },
+    {
+      "id": "07_the_crushing_blow",
+      "title": "The Rash Blow / भारी मटके का प्रहार",
+      "prompt": "Heartbreaking action 3D animation, the enraged mother hurling the heavy full brass water pitcher directly down onto the innocent trusting mongoose, the pot shattering.",
+      "hi": "क्रोध और विलाप में अंधी होकर, उसने बिना सोचे-समझे पानी से भरा भारी पीतल का मटका पूरी ताकत से मासूम नेवले के सिर पर दे मारा! वफादार नेवला मौके पर ही दम तोड़ गया।",
+      "en": "Consumed by grief and rage, without pausing for a single second of reason, she hurled the heavy, water-filled brass pitcher down upon the unsuspecting mongoose. The innocent creature gasped and perished instantly upon the stones."
+    },
+    {
+      "id": "08_heartbreak_and_lesson",
+      "title": "The Irreversible Agony / पछतावे के आँसू और सीख",
+      "prompt": "Tragic, emotional 3D wide shot, the mother dropping to her knees inside the room weeping uncontrollably, holding the safe smiling baby in one arm while looking back in agony at the slain cobra and dead faithful mongoose on the threshold.",
+      "hi": "अंदर भागकर जब उसने देखा, तो बच्चा पालने में मजे से मुस्कुरा रहा था और पास ही एक विशाल काला नाग मरा पड़ा था। सच सामने आते ही माँ की चीख निकल गई। वह अपना सिर पीट-पीटकर रोने लगी: 'हाय! मैंने अपने रक्षक को ही मार डाला!' सीख: क्रोध और जल्दबाजी में उठाया गया कदम हमेशा जीवन भर का पछतावा देता है; सच जाने बिना कभी कोई फैसला न लें।",
+      "en": "Rushing inside, she found her baby gurgling happily in the cradle, while beside the crib lay the mangled carcass of the lethal cobra. The tragic truth pierced her heart like a dagger. Weeping hysterically over the body of her loyal friend, she mourned forever. Moral: Act in haste, repent at leisure; never act upon blind assumption without verifying the truth."
+    }
+  ]
+}

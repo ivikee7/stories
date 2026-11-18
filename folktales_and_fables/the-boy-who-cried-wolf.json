@@ -1,0 +1,85 @@
+{
+  "slug": "the-boy-who-cried-wolf",
+  "title_en": "The Boy Who Cried Wolf",
+  "title_hi": "झूठा गड़ेरिया और भेड़िया",
+  "sub_hook": "झूठ बोलने वाले पर सच के समय भी कोई विश्वास नहीं करता!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "boy": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+4Hz"
+    },
+    "villager": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-3Hz"
+    },
+    "wolf": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural",
+      "pitch": "-6Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_shepherd_boy_hillside",
+      "title": "Boredom on the Hill / पहाड़ी पर अकेला गड़ेरिया",
+      "prompt": "Cinematic 3D animation, a mischievous young shepherd boy in woolen vest sitting lazily on a lush green hillside overlooking a tranquil medieval village, fluffy white sheep grazing peacefully around him under bright blue skies, 16:9 widescreen 4k.",
+      "hi": "एक खूबसूरत पहाड़ी गाँव में रोहन नाम का एक चंचल चरवाहा लड़का रहता था। उसका काम हर दिन गाँव वालों की भेड़ों को हरी-भरी पहाड़ी पर चराना था। दिन भर भेड़ों को चरते देखना उसे बहुत उबाऊ लगता था और उसका मन किसी शरारत के लिए मचलने लगा।",
+      "en": "In a picturesque hilltop village lived an energetic shepherd boy named Rohan. His daily task was to tend the villagers' flock of sheep on the breezy meadows. But watching sheep graze for hours bored him to tears, and his restless mind began yearning for mischief."
+    },
+    {
+      "id": "02_the_false_alarm",
+      "title": "The False Alarm / भेड़िया आया! भेड़िया आया!",
+      "prompt": "Dynamic 3D shot, the shepherd boy standing on a boulder cupping his hands around his mouth shouting frantically down toward the valley, theatrical panic on his face, Pixar character animation.",
+      "hi": "गाँव वालों का मज़ाक उड़ाने के लिए रोहन एक ऊँचे पत्थर पर चढ़ गया और अपने दोनों हाथ मुँह पर रखकर जोर-जोर से चीखने लगा: 'भेड़िया आया! भेड़िया आया! बचाओ! भेड़िया मेरी भेड़ों को खा रहा है!' उसकी आवाज़ पूरी घाटी में गूँज उठी।",
+      "en": "Deciding to play an outrageous prank, Rohan climbed a high boulder. Cupping his hands around his mouth, he screamed in staged panic: 'Wolf! Wolf! Help! A fierce wolf is attacking the sheep!' His shrieks echoed across the entire valley below."
+    },
+    {
+      "id": "03_villagers_rush_to_help",
+      "title": "Villagers to the Rescue / गाँव वालों की दौड़",
+      "prompt": "Dramatic 3D wide shot, strong hardworking village farmers running up the steep grassy hill brandishing pitchforks, heavy wooden axes and scythes, sweat on their brows, determined to protect the boy and flock.",
+      "hi": "रोहन की चीख सुनते ही खेत में काम कर रहे गाँव वाले अपनी कुदाल, लाठी और कुल्हाड़ी लेकर पहाड़ी की ओर दौड़ पड़े। वे अपनी जान जोखिम में डालकर उस लड़के और भेड़ों को बचाने के लिए हाँफते हुए ऊपर पहुँचे।",
+      "en": "Hearing the desperate cry, the honest farmers dropped their plows and grabbed wooden axes, pitchforks, and sturdy clubs. Pounding up the steep hill breathless and sweating, they were prepared to risk their lives to defend the boy and his flock."
+    },
+    {
+      "id": "04_boy_laughs_mockingly",
+      "title": "Cruel Laughter / झूठी हँसी का मज़ाक",
+      "prompt": "Comedic 3D scene, the young shepherd boy rolling on the green grass clutching his stomach in hysterical laughter, while rugged elderly villagers stand breathing heavily, bewildered and angry.",
+      "hi": "पहाड़ी पर पहुँचकर गाँव वालों ने देखा कि वहाँ कोई भेड़िया नहीं था। भेड़ें आराम से चर रही थीं और रोहन ज़मीन पर लोट-पोट होकर हँस रहा था। 'हा हा हा! तुम सब कितने बेवकूफ हो! मैं तो सिर्फ मज़ाक कर रहा था!' गाँव वाले गुस्से में पैर पटकते हुए लौट गए।",
+      "en": "Reaching the summit, the villagers looked around in confusion—the sheep were grazing peacefully, and Rohan was rolling in the clover, clutching his stomach in tears of laughter. 'Ha ha ha! You fools actually ran up the hill! It was just a joke!' Furious, the farmers trudged back down."
+    },
+    {
+      "id": "05_prank_repeated",
+      "title": "The Prank Repeated / दोबारा वही धोखा",
+      "prompt": "Dusk lighting 3D animation, the boy playing the same cruel trick a few days later, shouting from the rocks while in the valley distant villagers shake their heads in growing frustration.",
+      "hi": "कुछ दिनों बाद रोहन को फिर से वही शरारत सूझी। उसने फिर से चीखना शुरू किया: 'भेड़िया! सचमुच भेड़िया आ गया! बचाओ!' गाँव वाले फिर दौड़े आए, और रोहन ने दोबारा उनका मज़ाक उड़ाया। गाँव के बुजुर्ग ने गुस्से में कहा: 'झूठ की सजा एक दिन ज़रूर मिलती है!'",
+      "en": "A few days later, amusement craving struck again. Rohan shrieked once more: 'Wolf! A real wolf this time! Please help!' Once again the loyal villagers rushed up, only to be mocked a second time. An elder scolded him sharply: 'Lying burns the bridge of trust, boy!'"
+    },
+    {
+      "id": "06_the_real_beast_arrives",
+      "title": "The Real Terror / सचमुच का भेड़िया",
+      "prompt": "Atmospheric cinematic 3D lighting, twilight shadows, a massive terrifying grey timber wolf with glowing yellow eyes and snarling bared fangs stepping silently out from the dark pine woods towards the terrified boy, mist swirling.",
+      "hi": "एक शाम, जब सूरज डूब रहा था और जंगल में गहरा अँधेरा छा रहा था, तभी चीड़ के घने पेड़ों के पीछे से सचमुच एक खूँखार, भूखा भेड़िया बाहर निकला। उसकी आँखें अँगारे की तरह चमक रही थीं और मुँह से लार टपक रही थी।",
+      "en": "One fateful evening as dusk turned the trees into dark silhouettes, cold fog rolled over the hill. Suddenly, a massive timber wolf with glowing amber eyes and razor-sharp fangs emerged silently from the shadowed pines, stalking menacingly toward the flock."
+    },
+    {
+      "id": "07_desperate_plea_ignored",
+      "title": "Crying in Vain / अनसुनी चीखें",
+      "prompt": "Emotional dramatic 3D shot, the shepherd boy trembling in pure terror up in a tree branches sobbing and screaming toward the distant peaceful village chimney smoke, tears streaming down his face as the wolf scatters sheep below.",
+      "hi": "डर के मारे रोहन के रोंगटे खड़े हो गए। वह कांपते हुए पेड़ पर चढ़ गया और अपनी पूरी ताकत से रोते हुए चिल्लाया: 'भेड़िया! इस बार सच में भेड़िया आया है! कोई तो आओ, मुझे बचाओ!' लेकिन गाँव वालों ने सुना और बोले: 'वह फिर झूठ बोल रहा है, हम उसके झांसे में नहीं आएँगे।' कोई नहीं आया।",
+      "en": "Paralyzed by terror, Rohan scrambled up a jagged tree. Sobbing desperately, he screamed into the gathering night: 'Wolf! Help me, please! It is real! The wolf is here!' Down in the village, farmers heard his cries and scoffed: 'He is playing his games again. Let him shout.' Not a single soul stirred."
+    },
+    {
+      "id": "08_aftermath_lesson",
+      "title": "The Price of a Lie / पश्चाताप और सीख",
+      "prompt": "Misty dawn cinematic wide shot, devastated weeping shepherd boy sitting alone among scattered white wool tufts on the empty silent hillside, sun rising solemnly over the horizon, poignant moral finish.",
+      "hi": "भेड़िये ने कई भेड़ों को मार डाला और बाकियों को जंगल में भगा दिया। रात भर रोहन पेड़ पर डर से कांपता रहा। सुबह जब वह नीचे उतरा, तो उसकी सारी भेड़ें गायब थीं। सीख: झूठे इंसान की उस समय भी कोई बात नहीं मानता, जब वह सौ बार सच बोल रहा हो। विश्वास खोना सबसे बड़ा नुकसान है।",
+      "en": "The wolf decimated the scattered flock and vanished into the wilderness. Rohan spent the freezing night weeping upon the branch. When morning arrived, his beloved sheep were gone. Moral: A liar will not be believed, even when speaking the absolute truth; honesty is the bedrock of survival."
+    }
+  ]
+}
