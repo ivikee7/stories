@@ -1,0 +1,80 @@
+{
+  "slug": "the-wolf-and-the-lamb",
+  "title_en": "The Wolf and the Innocent Lamb",
+  "title_hi": "भेड़िया और मासूम मेमना",
+  "sub_hook": "अत्याचारी को अपना अत्याचार करने के लिए किसी बहाने की ज़रूरत नहीं होती!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "wolf": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural",
+      "pitch": "-5Hz"
+    },
+    "lamb": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+4Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_peaceful_mountain_stream",
+      "title": "The Clear Mountain Brook / पहाड़ी झरना और नन्हा मेमना",
+      "prompt": "Cinematic 3D animation, Pixar style, a crystal-clear mountain stream flowing over smooth colorful pebbles, an adorable tiny white fluffy lamb drinking water peacefully downstream under willow trees, 16:9 widescreen 4k.",
+      "hi": "एक पहाड़ी जंगल के किनारे एक साफ पानी का झरना कल-कल बह रहा था। मुन्ना नाम का एक नन्हा और मासूम सफेद मेमना अपनी माँ से थोड़ा दूर होकर झरने के निचले छोर पर शांत मन से पानी पी रहा था।",
+      "en": "Beside an emerald mountain slope babbed a crystal-clear brook. Munna, a tiny, woolly white lamb who had never seen the cruel ways of the world, stood drinking quietly at the lower bend of the stream."
+    },
+    {
+      "id": "02_the_predator_upstream",
+      "title": "A Menace Upstream / ऊपर से घूरता खूँखार भेड़िया",
+      "prompt": "Dramatic low-angle 3D shot, higher upstream on the rocky bank stands a massive grizzled grey timber wolf with yellow glowing predatory eyes, licking his chops seeing the defenseless lamb.",
+      "hi": "उसी झरने के ऊपरी हिस्से में एक खूँखार और भूखा भेड़िया पानी पीने आया। जैसे ही उसकी नज़र नीचे खड़े नन्हे मेमने पर पड़ी, उसकी आँखों में क्रूर चमक आ गई। उसने सोचा: 'इस कोमल मेमने का माँस कितना स्वादिष्ट होगा! पर इसे मारने का कोई बहाना ढूँढना चाहिए।'",
+      "en": "Further upstream stood a ferocious, scarred timber wolf. Spotting the tender lamb downstream, his belly growled with savage hunger: 'What a tender feast! But I must invent a lawful excuse so no one can accuse me of outright tyranny.'"
+    },
+    {
+      "id": "03_first_false_accusation",
+      "title": "The First Accusation / पानी गंदा करने का आरोप",
+      "prompt": "Dynamic 3D medium shot, the wolf stepping forward snarling aggressively, pointing an accusatory claw toward the trembling little lamb.",
+      "hi": "भेड़िये ने दहाड़कर कहा: 'अरे दुष्ट! तेरी यह हिम्मत कैसे हुई कि तू मेरे पीने का पानी गंदा कर रहा है? तेरे पैर हिलाने से कीचड़ ऊपर आ रहा है!'",
+      "en": "Striding forward with a thunderous growl, the wolf snarled: 'You insolent wretch! How dare you muddy the clear water I am drinking? You are kicking up silt!'"
+    },
+    {
+      "id": "04_lamb_logical_defense",
+      "title": "Logic of the Innocent / मासूम तर्क",
+      "prompt": "Emotional close-up 3D animation, the tiny lamb looking up with wide innocent blue eyes, speaking with trembling sweetness, pointing with a hoof at the flowing stream current.",
+      "hi": "नन्हा मेमना कांपते हुए बोला: 'महाराज, क्षमा करें! पानी तो आपकी तरफ से बहकर मेरी तरफ नीचे आ रहा है। मैं भला आपका पानी कैसे गंदा कर सकता हूँ?' तर्क सुनकर भेड़िया झेंप गया, पर उसने दूसरा बहाना बनाया।",
+      "en": "Trembling like a leaf, the lamb replied with gentle innocence: 'Sir, forgive me! But the water flows downward from where you stand to where I drink. How could I possibly muddy your drinking water?'"
+    },
+    {
+      "id": "05_second_false_claim",
+      "title": "The Second Excuse / पिछले साल की गाली का इल्ज़ाम",
+      "prompt": "Dramatic 3D lighting, the wolf stepping closer, baring jagged yellow fangs, barking furiously at the backed-up lamb against the river reeds.",
+      "hi": "भेड़िये ने आँखें लाल करते हुए कहा: 'अच्छा! तो पिछले साल तुमने मुझे और मेरे परिवार को गंदी गालियाँ दी थीं! उसका क्या?'",
+      "en": "Balked by truth, the wolf growled even louder: 'Then it was you who insulted my father and cursed my clan behind my back this time last year!'"
+    },
+    {
+      "id": "06_truth_of_birth",
+      "title": "I Wasn't Even Born / मेरा तो जन्म ही नहीं हुआ था!",
+      "prompt": "Close-up 3D shot, the lamb shaking his head tearfully: 'Sir, I am only three months old! Last year I was not even born in this world!'",
+      "hi": "मेमने ने हाथ जोड़कर कहा: 'हुज़ूर, पिछले साल तो मेरा जन्म भी नहीं हुआ था! मैं तो अभी केवल तीन महीने का हूँ!'",
+      "en": "The lamb whimpered with tears in his eyes: 'Gracious sir, last year I was not even born! I am only three months of age! How could I have cursed you?'"
+    },
+    {
+      "id": "07_the_naked_tyranny",
+      "title": "The Tyrant's True Face / अत्याचारी का असली रूप",
+      "prompt": "Terrifying 3D action shot, the wolf lunging forward with extended razor claws, casting a massive menacing shadow over the cornered little lamb, no excuses left.",
+      "hi": "जब भेड़िये के सारे झूठे बहाने नाकाम हो गए, तो उसने चिल्लाकर कहा: 'अगर तू नहीं था, तो ज़रूर वह तेरा बाप या कोई रिश्तेदार रहा होगा! और वैसे भी, मुझे बहुत भूख लगी है और मैं तुम्हें खाऊँगा!' और वह मेमने पर झपट पड़ा।",
+      "en": "Seeing his deceitful pretexts shattered by pure logic, the wolf snarled with raw savagery: 'If not you, then it was your father or grandfather! And in any case, I am famished, and that is excuse enough!' With bared fangs, he leaped."
+    },
+    {
+      "id": "08_the_eternal_moral",
+      "title": "The Lesson on Tyranny / सीख",
+      "prompt": "Cinematic evening twilight shot, lonely mountain stream flowing serenely through the ancient trees, poignant moral statement framing human nature.",
+      "hi": "भेड़िये ने मासूम मेमने को मार डाला। सीख: जिस दुष्ट और अत्याचारी व्यक्ति ने बुरा करने की ठान ही ली हो, उसके सामने कोई भी सच, तर्क या दलील काम नहीं करती। दुष्टों के साथ बहस करने के बजाय समय रहते उनसे दूरी बना लेना ही समझदारी है।",
+      "en": "The ruthless beast devoured the defenseless lamb. Moral: A tyrant will always find a pretext for his wickedness; reason, logic, and innocence are powerless against an unjust enemy intent on malice. Avoid tyrants before they strike."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "the-fox-and-the-stork",
+  "title_en": "The Fox and the Stork",
+  "title_hi": "लोमड़ी और बगुला - जैसे को तैसा",
+  "sub_hook": "जैसा व्यवहार दूसरों के साथ करोगे, वैसा ही अपने लिए पाओगे!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "fox": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "-1Hz"
+    },
+    "stork": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural",
+      "pitch": "+2Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_unlikely_neighbors",
+      "title": "Neighborly Acquaintance / लोमड़ी और बगुले की भेंट",
+      "prompt": "Cinematic 3D animation, Pixar style, a sleek sly red fox named Reynard and an elegant tall white stork with a long orange beak named Tara talking by a flowering woodland creek, 16:9 widescreen 4k.",
+      "hi": "एक जंगल में रेनॉल्ड नाम की एक शरारती लोमड़ी और तारा नाम की एक शालीन बगुली रहती थीं। एक दिन लोमड़ी ने बगुली का मज़ाक उड़ाने के लिए उसे अपने घर दोपहर के भोजन पर आमंत्रित किया। बगुली ने खुशी-खुशी निमंत्रण स्वीकार कर लिया।",
+      "en": "In a lush green forest lived a mischievous red fox named Reynard and a graceful white stork named Tara. One morning, seeking malicious amusement, the sly fox invited the stork to dinner at his den. Tara politely and graciously accepted."
+    },
+    {
+      "id": "02_the_shallow_plates",
+      "title": "The Shallow Feast / चौड़ी छिछली थाली की दावत",
+      "prompt": "Close-up 3D animation, inside a rustic woodland dining nook, the fox serving hot aromatic thin vegetable soup on two completely flat shallow ceramic plates.",
+      "hi": "रेनॉल्ड ने बहुत स्वादिष्ट और खुशबूदार सूप बनाया। लेकिन उसने जानबूझकर सूप को दो बिल्कुल सपाट और चौड़ी थालियों में परोस दिया।",
+      "en": "Reynard cooked a steaming, aromatic broth. But with wicked intent, he served the soup on two completely flat, rimless stone plates placed on the table."
+    },
+    {
+      "id": "03_stork_cannot_eat",
+      "title": "A Humiliating Ordeal / बगुली की लाचारी",
+      "prompt": "Dramatic 3D medium shot, the long-beaked stork tapping her slender beak harmlessly against the flat plate, unable to lap up any liquid, while the fox greedily laps his plate clean in seconds.",
+      "hi": "लोमड़ी ने अपनी जीभ से फटाफट सारा सूप चाटकर थाली साफ कर दी। लेकिन बेचारी बगुली अपनी लंबी चोंच से छिछली थाली से सूप की एक बूँद भी नहीं पी सकी। उसकी चोंच केवल थाली पर 'टिक-टिक' करती रही।",
+      "en": "With his broad tongue, the fox lapped up his soup in seconds, leaving his plate gleaming. Poor Tara could only tap the tip of her long, slender bill fruitlessly against the stone surface, unable to take in a single drop."
+    },
+    {
+      "id": "04_storks_dignified_response",
+      "title": "Dignified Patience / बगुली का धैर्य और वापसी निमंत्रण",
+      "prompt": "Medium 3D shot, the stork bowing courteously despite her empty stomach, inviting the smiling sly fox to dinner at her river home tomorrow evening.",
+      "hi": "लोमड़ी ने ढोंग करते हुए कहा: 'अरे तारा बहन, क्या सूप पसंद नहीं आया?' भूखी बगुली समझ गई कि यह एक घटिया चाल थी, पर उसने गुस्सा नहीं किया। उसने मुस्कुराकर कहा: 'कल शाम तुम मेरे घर भोजन पर आमंत्रित हो।'",
+      "en": "Reynard smirked: 'Is my cooking not to your liking, dear friend?' Though ravenously hungry, the wise stork maintained her dignity: 'It was delicious. Tomorrow evening, you must honor me by dining at my abode.'"
+    },
+    {
+      "id": "05_arriving_at_stork_home",
+      "title": "Reynard's Greedy Appetite / लोमड़ी की भूख",
+      "prompt": "Warm sunset 3D scene, the fox arriving at the stork's cozy riverside cottage with ears perked, sniffing the irresistible smell of roasted fish and savory stew drifting through the window.",
+      "hi": "अगली शाम लोमड़ी भूख से बिलखती हुई बगुली के घर पहुँची। घर से भुनी हुई मछलियों और मसालों की लाजवाब खुशबू आ रही थी। लोमड़ी का पेट खुशी से मचल उठा।",
+      "en": "The next evening, the fox arrived with an empty belly and grand expectations. From the stork's kitchen wafted the heavenly aroma of braised fish and spiced herbs, making Reynard's mouth water frantically."
+    },
+    {
+      "id": "06_the_tall_narrow_jars",
+      "title": "The Tall Narrow Vases / संकरे मुँह वाले सुराहीदार बर्तन",
+      "prompt": "Close-up 3D shot, the dinner table set with two tall, slender ceramic vases with long narrow necks and wide rounded bases, filled with rich steaming stew.",
+      "hi": "बगुली ने भोजन परोसा। उसने स्वादिष्ट शोरबे को दो बहुत लंबी, संकरे मुँह वाली सुराहियों में परोसा। सुराही की गर्दन इतनी पतली थी कि उसमें केवल एक लंबी चोंच ही जा सकती थी!",
+      "en": "Dinner was served. Tara brought out two tall, elegant terracotta vases with long, narrow necks. The vessel was designed so that only a long, slender beak could enter."
+    },
+    {
+      "id": "07_tables_turned",
+      "title": "The Taste of His Own Medicine / पासा पलटा",
+      "prompt": "Comedic dramatic 3D animation, the stork easily inserting her long beak into her jar sipping the soup with relish, while the fox desperately tries to jam his wide snout into the narrow opening, licking outside uselessly.",
+      "hi": "बगुली ने आसानी से अपनी लंबी चोंच सुराही के अंदर डाली और मजे से दावत उड़ाई। उधर लोमड़ी का चौड़ा मुँह सुराही की गर्दन में घुस ही नहीं सका। वह सिर्फ बाहर से सुराही को चाटती रह गई!",
+      "en": "Tara dipped her long beak deep into the vessel, drinking the succulent stew with serene ease. The desperate fox wedged his snout against the jar opening in vain, able only to lick the fragrant rim while his stomach screamed."
+    },
+    {
+      "id": "08_the_silent_lesson",
+      "title": "Tit for Tat / जैसे को तैसा की सीख",
+      "prompt": "Twilight 3D wide shot, the humbled ashamed fox slinking out the door with ears down, while the elegant stork smiles peacefully by her warm fire, profound moral conclusion.",
+      "hi": "बगुली ने कहा: 'दोस्त रेनॉल्ड, बुरा मत मानना, मैंने भी तुम्हारे जैसा ही आतिथ्य सत्कार किया है।' शर्म से लाल होकर लोमड़ी सिर झुकाकर चली गई। सीख: जो जैसा व्यवहार दूसरों के साथ करता है, समय आने पर उसे भी उसी का सामना करना पड़ता है। हमेशा दूसरों के साथ वही व्यवहार करो जो तुम अपने लिए चाहते हो।",
+      "en": "Finishing her meal, Tara smiled gently: 'Do not be offended, Reynard; I merely mirrored your own hospitality.' Humiliated, the fox slunk away into the shadows. Moral: Treat others only as you wish to be treated; deceit and mockery invariably return to bite the perpetrator."
+    }
+  ]
+}

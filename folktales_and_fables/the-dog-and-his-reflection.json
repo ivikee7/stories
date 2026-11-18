@@ -1,0 +1,75 @@
+{
+  "slug": "the-dog-and-his-reflection",
+  "title_en": "The Dog and His Shadow",
+  "title_hi": "कुत्ता और उसकी परछाई - लालच की हड्डी",
+  "sub_hook": "जो अपने पास है उसी में संतोष रखो, परछाई के पीछे असली चीज़ भी खो जाती है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "dog": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural",
+      "pitch": "+1Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_butcher_bone",
+      "title": "A Prized Bone / कसाई की दुकान से मिली हड्डी",
+      "prompt": "Cinematic 3D animation, Pixar style, a scruffy brown terrier mongrel dog named Tommy trotting happily through a cobblestone village street holding a massive juicy bone in his jaws, morning sunlight, 16:9 widescreen 4k.",
+      "hi": "टॉमी नाम का एक आवारा कुत्ता बहुत दिनों से भूखा था। एक दिन गाँव के कसाई की दुकान के बाहर उसे एक बड़ा और रसीला गोश्त से भरा हड्डी का टुकड़ा मिल गया। वह खुशी से उछल पड़ा और अकेले में बैठकर खाने के लिए जंगल की ओर दौड़ पड़ा।",
+      "en": "A scruffy stray dog named Tommy had wandered hungry for days. That morning, outside the village butcher's shop, fortune smiled upon him: a butcher tossed him a large, juicy bone laden with savory meat. Thrilled, Tommy trotted off toward the quiet forest."
+    },
+    {
+      "id": "02_the_wooden_bridge",
+      "title": "The Wooden Bridge / शांत नदी का पुल",
+      "prompt": "Vibrant 3D landscape shot, a rustic wooden plank footbridge spanning a crystal-clear gentle river flowing between mossy riverbanks, sunbeams reflecting off calm water.",
+      "hi": "जंगल के रास्ते में एक छोटी सी शांत नदी बहती थी, जिस पर लकड़ी का एक संकरा पुल बना हुआ था। टॉमी गर्व से मुँह में हड्डी दबाए पुल पर चढ़ गया।",
+      "en": "On his way lay a narrow wooden bridge arching over a calm, transparent mountain stream. Gripping his prize securely between his jaws, Tommy trotted onto the weathered wooden planks."
+    },
+    {
+      "id": "03_looking_into_water",
+      "title": "A Stranger in the Stream / पानी में दूसरा कुत्ता",
+      "prompt": "Close-up 3D shot, high angle, the dog pausing in the middle of the bridge, peering down into the mirror-like water, seeing his own sharp reflection with the bone looking twice as large.",
+      "hi": "पुल के बीच में पहुँचकर टॉमी ने नीचे शांत जल में झाँका। पानी में उसे अपनी ही परछाई दिखाई दी। पर मूर्ख कुत्ते ने सोचा कि पानी के अंदर कोई दूसरा कुत्ता है जिसके मुँह में उससे भी बड़ी और रसीली हड्डी है!",
+      "en": "Pausing mid-span, Tommy glanced down into the glass-like water. Reflected beneath the surface was an identical dog holding a bone that, magnified by the ripples, looked twice as large and juicy as his own!"
+    },
+    {
+      "id": "04_envy_and_greed",
+      "title": "The Spark of Greed / ईर्ष्या और लालच",
+      "prompt": "Expressive 3D character shot, the dog glaring down with greedy envious eyes, fur bristling, baring teeth, planning to snatch the other bone.",
+      "hi": "टॉमी के मन में लालच और ईर्ष्या जाग उठी। उसने सोचा: 'अगर मैं उस कुत्ते को डराकर उसकी हड्डी भी छीन लूँ, तो मेरे पास दो-दो बड़ी हड्डियाँ हो जाएँगी और मैं हफ़्तों तक दावत उड़ाऊँगा!'",
+      "en": "Envy and ravenous greed overtook Tommy's senses. 'If I bark fiercely and intimidate that dog into dropping his bone,' he plotted, 'I will possess two massive feasts and eat like a king for weeks!'"
+    },
+    {
+      "id": "05_the_fatal_bark",
+      "title": "The Fatal Bark / मुँह खुला और छपाक",
+      "prompt": "Dynamic action 3D animation, the dog opening his jaws wide barking furiously 'Bow-wow!', the heavy bone tumbling from his mouth, dropping toward the rushing water below.",
+      "hi": "बिना एक पल सोचे टॉमी ने पानी की परछाई पर ज़ोर से भौंकने के लिए मुँह खोल दिया—'भौंक!' जैसे ही उसका मुँह खुला, उसके दाँतों में दबी असली हड्डी छूटकर नीचे पानी में गिर पड़ी—छपाक!",
+      "en": "Without pausing to reflect, Tommy opened his jaws wide and let out a ferocious bark: 'Woof!' The instant his jaws parted, the heavy bone slipped from his teeth and splashed down into the swirling current below."
+    },
+    {
+      "id": "06_bone_sinks",
+      "title": "Gone Forever / गहराइयों में खोई हड्डी",
+      "prompt": "Underwater 3D shot, the white bone sinking rapidly through swirling blue water into dark riverbed silt, bubbles rising, leaving an empty water surface.",
+      "hi": "हड्डी गहरे पानी की तली में डूब गई और तेज़ बहाव में बह गई। पानी में हलचल होते ही नीचे दिखने वाला दूसरा कुत्ता भी गायब हो गया।",
+      "en": "The heavy bone plunged to the pebbled riverbed and was swept away by the swift stream. The moment ripples shattered the surface, the imaginary rival dog vanished as well."
+    },
+    {
+      "id": "07_humbled_realization",
+      "title": "The Bitter Realization / पछतावे का रोना",
+      "prompt": "Heartbreaking 3D close-up, the wet, crestfallen dog sitting on the wooden bridge hanging his head in misery, stomach rumbling, tears welling up in his brown eyes.",
+      "hi": "टॉमी भौंचक्का होकर देखता रह गया। अब न तो पानी में कोई कुत्ता था और न ही कोई हड्डी। उसे अपनी मूर्खता का अहसास हुआ कि जिसे वह दूसरा कुत्ता समझ रहा था, वह तो उसकी अपनी ही परछाई थी।",
+      "en": "Tommy stared blankly at the empty ripples. There was no rival dog, no second bone, and now—no lunch at all. He realized too late that he had waged war against his own reflection and defeated only himself."
+    },
+    {
+      "id": "08_hungry_trudge_moral",
+      "title": "The Price of Greed / सीख",
+      "prompt": "Golden twilight 3D wide shot, the sad dog slinking away with drooping tail and ears down the dusty road, empty-bellied, cinematic moral ending.",
+      "hi": "भूख से बिलखता हुआ टॉमी पूँछ दबाकर गाँव की ओर लौट गया। सीख: जो व्यक्ति अपने पास मौजूद चीज़ से संतुष्ट नहीं होता और दूसरों की चीज़ पर लालच करता है, वह अपनी खुद की दौलत भी गवाँ बैठता है। संतोष ही सबसे बड़ा धन है।",
+      "en": "Starving and dejected, Tommy slouched back toward the village with his tail between his legs. Moral: Beware lest you lose the substance by grasping at the shadow; greed steals contentment and leaves you with nothing."
+    }
+  ]
+}
