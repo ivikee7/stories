@@ -1,0 +1,78 @@
+{
+  "slug": "the-miller-his-son-and-the-donkey",
+  "title_en": "The Miller, His Son, and the Donkey",
+  "title_hi": "कुम्हार, उसका बेटा और गधा",
+  "sub_hook": "सबको खुश करने की कोशिश में सब कुछ खो जाता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "miller": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "son": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_walking_to_market",
+      "title": "Scene 1: Walking to Market / दृश्य 1: बाज़ार की ओर पैदल चलना",
+      "prompt": "Cinematic 3D animation, Pixar style. An old miller in simple rustic clothes and his lively young son walk cheerfully along a dusty country road, leading their sturdy grey donkey with a rope under bright morning sun, 16:9 widescreen 4k.",
+      "hi": "एक बार एक बूढ़ा कुम्हार और उसका बेटा अपने गधे को बाज़ार में बेचने के लिए पैदल ले जा रहे थे।",
+      "en": "An elderly miller and his young son were leading their healthy donkey along a country road, heading toward the market to sell him."
+    },
+    {
+      "id": "02_first_criticism",
+      "title": "Scene 2: First Criticism / दृश्य 2: पहली आलोचना",
+      "prompt": "Cinematic 3D animation. Some passing travellers on horseback point and laugh at them mockingly: 'Look at those fools walking when they have a donkey to ride!', 16:9 widescreen 4k.",
+      "hi": "रास्ते में कुछ राहगीरों ने उन्हें देखा और हँसते हुए कहा, 'अरे कैसे बेवकूफ लोग हैं! सवारी के लिए गधा मौजूद है, फिर भी दोनों पैदल धूल फांक रहे हैं!'",
+      "en": "Some travelers passed by and scoffed loudly: 'What foolish fellows! They have a sturdy beast of burden, yet both trudge along on foot through the thick dust!'"
+    },
+    {
+      "id": "03_son_rides_father_walks",
+      "title": "Scene 3: Son Rides, Father Walks / दृश्य 3: बेटा बैठा, पिता पैदल",
+      "prompt": "Cinematic 3D animation. The father lifts the young boy onto the donkey's saddle, while the old father walks alongside holding the rein, passing through a village square, 16:9 widescreen 4k.",
+      "hi": "कुम्हार ने लोगों की बात मान ली और अपने बेटे को गधे पर बैठा दिया और खुद पैदल चलने लगा।",
+      "en": "Taking the criticism to heart, the miller placed his young son on the donkey's back, while he walked alongside holding the lead rope."
+    },
+    {
+      "id": "04_second_criticism",
+      "title": "Scene 4: Second Criticism / दृश्य 4: दूसरी आलोचना",
+      "prompt": "Cinematic 3D animation. Some village elders resting under an old banyan tree shake their heads in anger: 'Shame on that lazy young boy, riding comfortably while his poor old father walks!', 16:9 widescreen 4k.",
+      "hi": "आगे जाने पर कुछ बुजुर्गों ने देखा तो नाराज़ होकर बोले, 'कैसा निर्दयी जमाना है! हट्टा-कट्टा बेटा आराम से गधे पर बैठा है और बूढ़ा पिता धूप में पैदल चल रहा है!'",
+      "en": "Further along, a group of village elders shook their heads in outrage: 'Look at that disrespectful youth! He rides in luxury while his poor, exhausted father labors on foot!'"
+    },
+    {
+      "id": "05_father_rides_son_walks",
+      "title": "Scene 5: Father Rides, Son Walks / दृश्य 5: पिता बैठा, बेटा पैदल",
+      "prompt": "Cinematic 3D animation. The embarrassed boy gets down, and the elderly father climbs onto the donkey while the boy walks dutifully behind, 16:9 widescreen 4k.",
+      "hi": "शर्मिंदा होकर बेटे ने पिता को गधे पर बैठाया और खुद पैदल चलने लगा।",
+      "en": "Blushing with embarrassment, the boy dismounted, and the father took his place on the saddle, letting the son walk behind."
+    },
+    {
+      "id": "06_third_criticism_both_ride",
+      "title": "Scene 6: Third Criticism: Both Ride / दृश्य 6: दोनों की सवारी",
+      "prompt": "Cinematic 3D animation. Women drawing water at a village well scold them: 'What a cruel father! Look at that poor little boy panting! Ride together!' So both father and son squeeze onto the small donkey, 16:9 widescreen 4k.",
+      "hi": "आगे कुएं पर खड़ी महिलाओं ने ताना मारा, 'कैसा बेरहम बाप है! मासूम बच्चा थक रहा है और खुद राजा बनकर बैठा है!' कुम्हार ने बेटे को भी अपने पीछे बैठा लिया।",
+      "en": "At the town well, women scolded him: 'Cruel father! The poor child can barely keep up!' So the miller pulled his boy up behind him, and both rode together."
+    },
+    {
+      "id": "07_fourth_criticism_carrying_donkey",
+      "title": "Scene 7: Fourth Criticism: Carrying Donkey / दृश्य 7: गधे को कंधे पर उठाना",
+      "prompt": "Cinematic 3D animation, hilarious absurdity. Townspeople scream in outrage: 'Cruel abusers! Crushing that poor donkey! You should carry him!' So the father and son tie the donkey's legs to a wooden pole and carry him on their shoulders, 16:9 widescreen 4k.",
+      "hi": "नगर के पास लोगों ने चीख कर कहा, 'अत्याचारियों! उस छोटे गधे की कमर तोड़ दोगे क्या? तुम्हें तो गधे को अपने कंधे पर उठाना चाहिए!' लोगों की बात सुनकर उन्होंने एक बांस के सहारे गधे को उल्टा बांधकर अपने कंधों पर उठा लिया!",
+      "en": "As they approached the market gates, townsfolk jeered: 'Monsters! You will break that poor beast's spine! You should be carrying him!' In sheer desperation, they tied the donkey to a pole and carried him on their shoulders!"
+    },
+    {
+      "id": "08_donkey_falls_off_bridge_moral",
+      "title": "Scene 8: Bridge Disaster and Moral / दृश्य 8: पुल से गिरना और सीख",
+      "prompt": "Cinematic 3D animation. Crossing a high river bridge, the terrified donkey kicks violently, breaks loose, and plunges into the river, swimming away. The miller and son sit on the bridge with empty hands, 16:9 widescreen 4k.",
+      "hi": "पुल पार करते समय घबराया हुआ गधा छटपटाया, रस्सी टूटी और वह नदी में गिरकर तैरता हुआ भाग गया! सीख: जो हर किसी को खुश करने की कोशिश करता है, वह किसी को खुश नहीं कर पाता और अपना सब कुछ गंवा बैठता है।",
+      "en": "Crossing the bridge, the terrified beast kicked loose, tumbled into the river, and swam away! The miller lost his donkey entirely. Moral: Please all, and you will please none—always trust your own sound judgment."
+    }
+  ]
+}

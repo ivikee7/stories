@@ -1,0 +1,78 @@
+{
+  "slug": "the-bundle-of-sticks",
+  "title_en": "The Bundle of Sticks",
+  "title_hi": "लकड़ियों का गट्ठर और एकता की शक्ति",
+  "sub_hook": "एकता में ही अटूट शक्ति है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "father": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "sons": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_quarreling_brothers",
+      "title": "Scene 1: The Quarreling Brothers / दृश्य 1: आपस में लड़ते भाई",
+      "prompt": "Cinematic 3D animation, Pixar style. Three young muscular brothers in peasant clothes angrily argue and shout at one another in a farm courtyard, pointing fingers aggressively while an old frail father watches with a sorrowful expression, 16:9 widescreen 4k.",
+      "hi": "एक बूढ़े किसान के तीन बेटे थे। वे तीनों बलवान और मेहनती थे, परंतु हमेशा किसी न किसी बात पर आपस में लड़ते-झगड़ते रहते थे।",
+      "en": "An elderly farmer had three strong, capable sons. Yet despite their talents, they spent their days in bitter, ceaseless rivalry, quarreling over every trifle."
+    },
+    {
+      "id": "02_father_calls_them",
+      "title": "Scene 2: Father's Lesson Begins / दृश्य 2: पिता का बुलावा",
+      "prompt": "Cinematic 3D animation. The wise elderly father sits on a wooden bench, holding a tightly bound bundle of seven dry wooden sticks tied with sturdy rope, motioning his sons to gather round, 16:9 widescreen 4k.",
+      "hi": "पिता बहुत चिंतित रहता था कि उसके बाद उसके बेटों का क्या होगा। एक दिन उसने अपने तीनों बेटों को बुलाया और उनके सामने लकड़ियों का एक बंधा हुआ गट्ठर रखा।",
+      "en": "Gravely worried about their future, the ailing father devised a profound lesson. Calling his sons before him, he placed a tightly bound bundle of sturdy wooden sticks on the ground."
+    },
+    {
+      "id": "03_eldest_tries_to_break",
+      "title": "Scene 3: Eldest Fails / दृश्य 3: बड़े बेटे की विफलता",
+      "prompt": "Cinematic 3D animation. The eldest powerful son braces the bundle against his knee, straining with bulging veins and gritted teeth, but the thick bundle refuses to bend or snap, 16:9 widescreen 4k.",
+      "hi": "पिता ने बड़े बेटे से कहा, 'इस पूरे गट्ठर को अपने दोनों हाथों से तोड़कर दिखाओ।' बड़े बेटे ने पूरी ताकत लगा दी, लेकिन गट्ठर टस से मस नहीं हुआ।",
+      "en": "The father commanded his eldest son, 'Break this bundle in two with your bare hands.' The strong young man strained with all his might, grunting and heaving, but the bundle remained unbroken."
+    },
+    {
+      "id": "04_other_sons_fail",
+      "title": "Scene 4: Other Sons Try and Fail / दृश्य 4: बाकी भाइयों की हार",
+      "prompt": "Cinematic 3D animation. The other two sons take turns, sweating and struggling to snap the bound bundle, ending up panting and shaking their heads in defeat, 16:9 widescreen 4k.",
+      "hi": "इसके बाद दूसरे और तीसरे बेटे ने भी अपनी-अपनी पूरी शक्ति आजमाई, पर कोई भी उस बंधे हुए गट्ठर को तोड़ नहीं सका।",
+      "en": "One by one, the other two brothers tried their fortune. Despite exerting every ounce of raw physical strength, neither could snap the tightly bound bundle."
+    },
+    {
+      "id": "05_untie_the_bundle",
+      "title": "Scene 5: Untying the Bundle / दृश्य 5: गट्ठर खोलना",
+      "prompt": "Cinematic 3D animation. The father calmly unties the hemp rope, separating the bundle into single individual sticks and handing one stick to each son with a gentle knowing smile, 16:9 widescreen 4k.",
+      "hi": "अब बूढ़े पिता ने मुस्कुराते हुए रस्सी की गांठ खोली और गट्ठर में से एक-एक लकड़ी निकालकर अपने तीनों बेटों के हाथों में थमा दी।",
+      "en": "With a gentle, knowing smile, the old father untied the hemp cord, separating the bundle and handing a single wooden stick to each of his sons."
+    },
+    {
+      "id": "06_snapping_single_sticks",
+      "title": "Scene 6: Snapping Single Sticks / दृश्य 6: आसानी से टूटना",
+      "prompt": "Cinematic 3D animation. Each brother easily snaps his individual thin stick in half with a crisp 'Crack!' using almost zero effort, looking surprised, 16:9 widescreen 4k.",
+      "hi": "पिता ने कहा, 'अब इन्हें तोड़ो।' तीनों बेटों ने पलक झपकते ही 'चटाक' से अपनी-अपनी लकड़ी के दो टुकड़े कर दिए।",
+      "en": "'Now, break them,' the father instructed. With barely a flick of their wrists, each son snapped his individual stick in half with a crisp, effortless 'Crack!'"
+    },
+    {
+      "id": "07_father_delivers_wisdom",
+      "title": "Scene 7: Father's Wisdom / दृश्य 7: पिता का उपदेश",
+      "prompt": "Cinematic 3D animation. The father places his loving hands on the shoulders of his sons, who look down humbled and moved as golden sunset light embraces the family courtyard, 16:9 widescreen 4k.",
+      "hi": "पिता ने समझाया, 'देखा मेरे बेटों? जब तक तुम तीनों इस गट्ठर की तरह एक साथ जुड़े रहोगे, कोई दुश्मन तुम्हें हरा नहीं सकेगा। पर जहां तुम अलग हुए, कोई भी तुम्हें आसानी से तोड़ देगा!'",
+      "en": "'Do you see, my sons?' the wise patriarch explained. 'As long as you stand united like the bundle, no adversary on earth can harm you. But divide, and you will be broken as easily as single twigs.'"
+    },
+    {
+      "id": "08_brothers_unite",
+      "title": "Scene 8: United Forever / दृश्य 8: अटूट एकता",
+      "prompt": "Cinematic 3D animation. The three brothers warmly embrace each other, clasping hands in solidarity with tears of realization, promising eternal brotherhood under a peaceful clear sky, 16:9 widescreen 4k.",
+      "hi": "तीनों भाइयों की आंखें खुल गईं। उन्होंने अपनी कलह समाप्त की और जीवन भर एक साथ मिलकर रहने की शपथ ली। 'संगठन में ही असली शक्ति है।' ",
+      "en": "Tears welled in the brothers' eyes. Embracing with newfound respect, they swore never to quarrel again. For unity is invincible strength."
+    }
+  ]
+}

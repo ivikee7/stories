@@ -1,0 +1,74 @@
+{
+  "slug": "the-milkmaid-and-her-pail",
+  "title_en": "The Milkmaid and Her Pail",
+  "title_hi": "दूधवाली और खयाली पुलाव",
+  "sub_hook": "हवा में महल बनाने का नतीजा!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "patty": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_patty_carries_milk",
+      "title": "Scene 1: Carrying Fresh Milk / दृश्य 1: सिर पर दूध की मटकी",
+      "prompt": "Cinematic 3D animation, Pixar style. A pretty, cheerful young village milkmaid in a colourful dress walks down a wildflower-lined meadow path, balancing a full shiny pail of fresh white milk gracefully on her head, 16:9 widescreen 4k.",
+      "hi": "एक बार पैटी नाम की एक युवती अपनी गाय का ताज़ा दूध दुहकर, बाल्टी सिर पर रखकर बाज़ार में बेचने जा रही थी।",
+      "en": "A cheerful village milkmaid named Patty was heading to the market, balancing a pail brimful of rich, creamy fresh milk upon her head."
+    },
+    {
+      "id": "02_daydreams_of_cream_and_eggs",
+      "title": "Scene 2: Daydreams of Eggs / दृश्य 2: अंडों के सपने",
+      "prompt": "Cinematic 3D animation. Stylized floating thought-bubble showing golden coins, fresh churned butter, and a wicker basket overflowing with speckled eggs and fluffy yellow baby chicks, 16:9 widescreen 4k.",
+      "hi": "रास्ते में चलते-चलते वह खयालों में खो गई: 'इस गाढ़े दूध को बेचकर मुझे ढेर सारे पैसे मिलेंगे। उन पैसों से मैं कम से कम तीन सौ अंडे खरीदूंगी!'",
+      "en": "As she skipped along, pleasant daydreams filled her mind: 'The money from this rich milk will buy me at least three hundred choice eggs from the poultry farmer!'"
+    },
+    {
+      "id": "03_dreaming_of_fluffy_chicks",
+      "title": "Scene 3: Raising Chickens / दृश्य 3: मुर्गियों का पालन",
+      "prompt": "Cinematic 3D animation. Thought-bubble shows dozens of cute fluffy yellow chicks hatching, pecking grains in a sunny farmyard, growing into plump fine hens, 16:9 widescreen 4k.",
+      "hi": "'उन अंडों में से प्यारे-प्यारे चूजे निकलेंगे। मैं उन्हें दाना खिलाकर बड़ा करूंगी। फिर उन मुर्गियों को बेचकर बहुत सारा मुनाफा कमाऊंगी!'",
+      "en": "'The eggs will hatch into sweet, fluffy chicks. I will feed them well until Christmas, when I can sell the plump young hens at peak market prices!'"
+    },
+    {
+      "id": "04_dreaming_of_silken_dress",
+      "title": "Scene 4: The Gorgeous Green Gown / दृश्य 4: सुंदर रेशमी पोशाक",
+      "prompt": "Cinematic 3D animation. Thought-bubble portrays Patty twirling in a stunning emerald green satin ballroom gown with lace ribbons, smiling radiantly in a grand festive dance hall, 16:9 widescreen 4k.",
+      "hi": "'उस मुनाफे से मैं त्योहार के लिए सबसे सुंदर हरी रेशमी पोशाक और मैचिंग जूते खरीदूंगी। पार्टी में सब मुझे ही देखते रह जाएंगे!'",
+      "en": "'With that grand fortune, I shall purchase the most breathtaking emerald silk gown and dancing slippers for the springtime fair. Everyone will marvel at my elegance!'"
+    },
+    {
+      "id": "05_tossing_her_head",
+      "title": "Scene 5: Tossing Her Head / दृश्य 5: नखरे से सिर हिलाना",
+      "prompt": "Cinematic 3D animation, expressive comedic moment. Patty proudly tosses her chin up into the air with an aloof snooty giggle, completely forgetting the heavy milk pail balanced on her hair, 16:9 widescreen 4k.",
+      "hi": "'सारे युवक मेरे साथ नाचने की विनती करेंगे, पर मैं इतराते हुए अपने सिर को झटक कर उन्हें मना कर दूंगी!' यह सोचते ही उसने सचमुच अपना सिर झटक दिया!",
+      "en": "'All the finest young suitors will beg for my hand in the dance, but I shall proudly toss my head and dismiss them all!' Immersed in her fantasy, she actually tossed her head back!"
+    },
+    {
+      "id": "06_pail_crashes_down",
+      "title": "Scene 6: The Milk Spills / दृश्य 6: बाल्टी गिरी, दूध बहा",
+      "prompt": "Cinematic 3D animation, dynamic slow-motion capture. The heavy metal milk pail slips off her head, tipping upside down. A huge white splash of rich creamy milk explodes across the grass and dirt, 16:9 widescreen 4k.",
+      "hi": "सिर झटकते ही बाल्टी फिसल गई और ज़मीन पर गिर पड़ी! सारा दूध मिट्टी में बह गया—न अंडे बचे, न चूजे, और न ही हरी पोशाक!",
+      "en": "The instant she jerked her head, the heavy pail slipped! Down it plunged, crashing into the dirt as a great white wave of milk soaked into the thirsty soil—vanishing in an instant."
+    },
+    {
+      "id": "07_tears_of_regret",
+      "title": "Scene 7: Tears of Regret / दृश्य 7: पछतावा और आंसू",
+      "prompt": "Cinematic 3D animation. Patty sits on a grassy bank with her empty dented pail beside her, weeping softly as she looks at the milk puddle soaking into the mud, 16:9 widescreen 4k.",
+      "hi": "पैटी खाली बाल्टी देखकर फूट-फूट कर रोने लगी। उसका सारा खयाली महल पलक झपकते ही धूल में मिल चुका था।",
+      "en": "Patty collapsed onto the grass in tears, staring at the empty, dented pail. All her brilliant schemes, chicks, and silk gowns had dissolved into thin air."
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. Patty walks back with her empty pail, wiping her tears with a mature resolute expression as morning sunlight illuminates the realistic countryside, 16:9 widescreen 4k.",
+      "hi": "सीख: जब तक मुर्गियां अंडों से बाहर न आ जाएं, तब तक उन्हें मत गिनो। वर्तमान की वास्तविकता को छोड़कर भविष्य के हवाई सपनों में नहीं खोना चाहिए।",
+      "en": "Moral: Do not count your chickens before they are hatched. Build your plans upon solid reality, not daydreams."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "the-mice-and-the-elephants",
+  "title_en": "The Mice and the Elephants",
+  "title_hi": "चूहे और हाथी",
+  "sub_hook": "छोटा प्राणी भी बड़े काम आ सकता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "mouse_king": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "elephant_king": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_mouse_city_in_ruins",
+      "title": "Scene 1: The City of Mice / दृश्य 1: चूहों की सुंदर बस्ती",
+      "prompt": "Cinematic 3D animation, Pixar style. A charming ancient ruined palace overgrown with moss and flowers, where thousands of cute stylized mice live happily in miniature stone houses and cozy tunnels, 16:9 widescreen 4k.",
+      "hi": "एक प्राचीन और सुनसान महल के खंडहरों में चूहों का एक बड़ा साम्राज्य बसता था। उनका राजा मूषकराज अपनी प्रजा के साथ सुख और शांति से रहता था।",
+      "en": "Amidst the mossy ruins of an ancient desert palace, a thriving kingdom of tiny mice lived in peaceful harmony, led by their wise and gentle king."
+    },
+    {
+      "id": "02_elephants_march_through",
+      "title": "Scene 2: Elephant Herd Marches / दृश्य 2: हाथियों का विशाल दल",
+      "prompt": "Cinematic 3D animation, grand scale. A massive herd of majestic African/Indian elephants with towering tusks thunders toward a crystal lake, their giant stomping feet accidentally crushing tiny stone mouse burrows, 16:9 widescreen 4k.",
+      "hi": "पास ही की झील में पानी पीने के लिए हाथियों का एक विशाल झुंड उसी खंडहर के रास्ते से गुजरने लगा। हाथियों के भारी पैरों तले चूहों के कई बिल कुचले जाने लगे।",
+      "en": "During a severe drought, a mighty herd of elephants trampled across the ruins on their way to a deep blue lake, their enormous footsteps unknowingly crushing hundreds of mouse burrows."
+    },
+    {
+      "id": "03_mouse_king_pleads",
+      "title": "Scene 3: Mouse King Pleads / दृश्य 3: मूषकराज की विनती",
+      "prompt": "Cinematic 3D animation. The brave little mouse king wearing a tiny acorn crown bows politely before the towering benevolent Elephant King (Gajaraj) who bends his massive trunk down to listen attentively, 16:9 widescreen 4k.",
+      "hi": "मूषकराज ने साहस जुटाया और हाथियों के राजा गजराज के पास जाकर हाथ जोड़कर विनती की, 'महाराज! कृपा कर अपना रास्ता बदल लीजिए, हम आपकी दया के बदले भविष्य में कभी आपके काम आएंगे!'",
+      "en": "The brave Mouse King approached the towering Elephant King with folded paws: 'Great Majesty, if your herd changes its route, our people will be saved. Small as we are, we may one day repay your kindness!'"
+    },
+    {
+      "id": "04_elephant_king_agrees",
+      "title": "Scene 4: Elephant King Agrees / दृश्य 4: गजराज की दया",
+      "prompt": "Cinematic 3D animation. The noble elephant king smiles warmly with deep twinkle in his eyes, gracefully agreeing and leading his giant herd around the mouse colony, 16:9 widescreen 4k.",
+      "hi": "हाथियों का राजा स्वभाव से दयालु था। यद्यपि वह मन ही मन हंसा कि इतने छोटे चूहे उनका क्या भला करेंगे, फिर भी उसने चूहों की रक्षा के लिए अपना रास्ता बदल दिया।",
+      "en": "Moved by the tiny king's courage, the benevolent Elephant King agreed. Though amused by the idea that mice could ever help giants, he generously redirected his entire herd."
+    },
+    {
+      "id": "05_hunters_trap_elephants",
+      "title": "Scene 5: Hunters Trap the Herd / दृश्य 5: शिकारियों का जाल",
+      "prompt": "Cinematic 3D animation, dark dramatic tension. In the jungle, royal hunters trap the mighty elephant herd using thick woven hemp ropes tied securely to giant banyan trees, elephants trumpeting in distress, 16:9 widescreen 4k.",
+      "hi": "कुछ महीनों बाद, राजा के शिकारियों ने जंगल में घेराबंदी कर हाथियों के पूरे झुंड को मोटे-मोटे रस्सों के जाल में बांधकर बंदी बना लिया। हाथी छटपटाने लगे।",
+      "en": "Months later, royal trappers laid heavy ambush nets across the forest. The mighty elephant herd was ensnared, bound tightly to massive banyan trunks with impenetrable hemp ropes."
+    },
+    {
+      "id": "06_elephant_remembers_mice",
+      "title": "Scene 6: Calling for Help / दृश्य 6: चूहों को संदेश",
+      "prompt": "Cinematic 3D animation. An escaped young baby elephant runs swiftly back to the ruined palace, breathlessly begging the mouse king to come rescue the trapped herd, 16:9 widescreen 4k.",
+      "hi": "गजराज ने एक छोटे हाथी को, जो जाल से बच गया था, तुरंत मूषकराज के पास मदद के लिए भेजा।",
+      "en": "Remembering the mouse king's vow, the trapped Elephant King dispatched an escaped young calf to sprint back to the ruined city and summon their tiny allies."
+    },
+    {
+      "id": "07_army_of_mice_gnaws_ropes",
+      "title": "Scene 7: Mice Gnaw the Ropes / दृश्य 7: रस्सियों को कुतरना",
+      "prompt": "Cinematic 3D animation, teamwork spectacle. Thousands of enthusiastic little mice swarm over the heavy ropes, their sharp little teeth chewing through the thick fibers at lightning speed, fibers snapping, 16:9 widescreen 4k.",
+      "hi": "मूषकराज ने बिना पल गंवाए अपनी पूरी सेना को आदेश दिया। हजारों चूहों ने रस्सियों पर धावा बोल दिया और अपने पैने दांतों से कुछ ही मिनटों में सारे रस्से कुतर डाले!",
+      "en": "Without a moment's hesitation, thousands of loyal mice swarmed into the forest. With their razor-sharp teeth, they gnawed tirelessly through the thick ropes, severing every knot."
+    },
+    {
+      "id": "08_eternal_friendship_moral",
+      "title": "Scene 8: Freedom and Eternal Friendship / दृश्य 8: अमर मित्रता",
+      "prompt": "Cinematic 3D animation. Joyous celebration! The liberated giant elephants trumpet happily, while the little mouse king sits triumphantly on the forehead of the elephant king in warm golden sunlight, 16:9 widescreen 4k.",
+      "hi": "सारे हाथी आज़ाद हो गए! गजराज ने नतमस्तक होकर चूहों का आभार माना। सीख: कभी किसी को छोटा या तुच्छ न समझें, संकट में छोटा मित्र भी बड़ा सहारा बन सकता है।",
+      "en": "The majestic elephants were set free! Trumpeting in pure ecstasy, the Elephant King bowed to the tiny mice. Moral: Never judge a friend by their size; loyalty knows no bounds."
+    }
+  ]
+}

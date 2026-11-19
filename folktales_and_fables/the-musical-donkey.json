@@ -1,0 +1,78 @@
+{
+  "slug": "the-musical-donkey",
+  "title_en": "The Musical Donkey",
+  "title_hi": "गाने का शौकीन गधा - पंचतंत्र",
+  "sub_hook": "समय और स्थान समझे बिना कला का प्रदर्शन भारी पड़ता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "donkey": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "jackal": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_donkey_and_jackal_friendship",
+      "title": "Scene 1: Midnight Feast / दृश्य 1: आधी रात की दावत",
+      "prompt": "Cinematic 3D animation, Pixar style. A full glowing harvest moon illuminates a lush green cucumber farm. A friendly grey donkey and a slender cunning golden jackal gorge themselves on fresh juicy cucumbers under the starlit sky, 16:9 widescreen 4k.",
+      "hi": "एक धोबी के गधे और एक चालाक सियार में दोस्ती हो गई। वे दोनों रोज़ आधी रात को चुपके से किसानों के ककड़ी और तरबूज के खेतों में घुसकर भरपेट दावत उड़ाते थे।",
+      "en": "A washerman's donkey and a crafty golden jackal became midnight dining partners. Every night, they crept into farmers' lush cucumber fields, feasting to their hearts' content."
+    },
+    {
+      "id": "02_donkey_feels_musical",
+      "title": "Scene 2: The Donkey's Sudden Urge / दृश्य 2: गाने की इच्छा",
+      "prompt": "Cinematic 3D animation. The donkey pats his fat full belly, looking up at the glowing white moon with dreamy poetic eyes, tilting his head with artistic inspiration, 16:9 widescreen 4k.",
+      "hi": "एक रात स्वादिष्ट ककड़ियां खाकर गधा मस्त हो गया। उसने चांदनी रात को देखकर सियार से कहा, 'मित्र! यह मौसम कितना सुहावना है! मेरा मन कर रहा है कि मैं एक मधुर शास्त्रीय संगीत का राग छेड़ूं!'",
+      "en": "One moonlit night, stuffed full of crisp green cucumbers, the donkey felt overwhelmed by artistic ecstasy. 'Dear friend,' he purred, 'such exquisite moonlight demands a sweet melody! I shall sing!'"
+    },
+    {
+      "id": "03_jackal_warns_him",
+      "title": "Scene 3: Jackal's Wise Warning / दृश्य 3: सियार की चेतावनी",
+      "prompt": "Cinematic 3D animation. The jackal waves his paws frantically with wide nervous eyes, whispering urgently into the donkey's long ear: 'Are you mad? We are thieves here! Your voice will awaken the farmers!', 16:9 widescreen 4k.",
+      "hi": "सियार घबराकर बोला, 'अरे पागल हो गए हो क्या? हम यहाँ चोरी-छिपे चर रहे हैं! तुम्हारा गधा जैसा भोंदू राग सुनकर किसान जाग जाएंगे और डंडों से तुम्हारी खाल उधेड़ देंगे!'",
+      "en": "The terrified jackal whispered frantically: 'Have you lost your senses? We are trespassers! Your loud, grating bray will wake the farmers, and they will beat us black and blue!'"
+    },
+    {
+      "id": "04_donkey_insults_jackal",
+      "title": "Scene 4: Donkey's Artistic Arrogance / दृश्य 4: गधे का झूठा घमंड",
+      "prompt": "Cinematic 3D animation. The donkey scoffs haughtily, raising his nose: 'You wild beasts know nothing of classical ragas and pure aesthetic art! Stand back and witness my genius!', 16:9 widescreen 4k.",
+      "hi": "गधे ने नाराज़ होकर कहा, 'तुम जंगली जानवर संगीत की बारीकियों को क्या समझो! तुम मेरी प्रतिभा से जलते हो! मैं तो आज गाकर ही रहूंगा!'",
+      "en": "The donkey sniffed with haughty disdain: 'You vulgar wild beasts have no ear for refined music! You are simply jealous of my divine baritone voice! I will sing!'"
+    },
+    {
+      "id": "05_jackal_slips_behind_hedge",
+      "title": "Scene 5: Jackal Flees to Safety / दृश्य 5: सियार का बाहर छुपना",
+      "prompt": "Cinematic 3D animation. The wise jackal nods sarcastically, slipping quietly through the hedge boundary to watch from a safe distance outside the farmer's property, 16:9 widescreen 4k.",
+      "hi": "सियार ने समझदारी दिखाई और कहा, 'ठीक है उस्ताद जी! आप अपना राग शुरू कीजिए, मैं बाड़ के बाहर बैठकर आपकी सुरक्षा पर नज़र रखता हूँ।' और वह खेत से बाहर भाग गया।",
+      "en": "'Very well, maestro!' said the jackal dryly. 'Begin your symphony; I shall wait outside the fence to ensure your exit is clear.' And he slipped into the shadows outside."
+    },
+    {
+      "id": "06_donkey_brays_loudly",
+      "title": "Scene 6: The Horrendous Bray / दृश्य 6: कानफाड़ू 'ढेंचू-ढेंचू'",
+      "prompt": "Cinematic 3D animation, hilarious musical parody. The donkey closes his eyes soulfully, throwing back his neck, blasting an ear-shattering, discordant 'HEE-HAW! BRRR-HAW!' echoing for miles across the sleeping village, 16:9 widescreen 4k.",
+      "hi": "गधे ने अपनी गर्दन ऊंची की और आंखें मूंदकर पूरे जोर से 'ढेंचू... ढेंचू... ढेंचू...' की भयानक कर्कश आवाज़ निकालना शुरू कर दिया।",
+      "en": "Closing his eyes with soulful grandeur, the donkey let loose a deafening, discordant bray: 'HEE-HAW! HEE-HAW! HEE-HAW!' that reverberated through the silent countryside."
+    },
+    {
+      "id": "07_farmers_thrash_donkey",
+      "title": "Scene 7: Angry Farmers Arrive / दृश्य 7: किसानों की लाठियों की बरसात",
+      "prompt": "Cinematic 3D animation, chaotic action. Angry farmers with lanterns and thick wooden lathis burst into the field, swarming the singing donkey and giving him a sound beating, tying a heavy mortar stone around his neck, 16:9 widescreen 4k.",
+      "hi": "आवाज़ सुनते ही किसान डंडे और लालटेन लेकर दौड़ पड़े। उन्होंने देखा कि गधा उनकी फसल बर्बाद कर रहा है। उन्होंने गधे की जमकर धुनाई की और उसके गले में एक भारी पत्थर का सिलबट्टा बांध दिया।",
+      "en": "The farmers woke instantly. Swarming into the patch with lanterns and heavy cudgels, they delivered the thrashing of a lifetime, tying a heavy stone mortar around the singer's neck."
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: The Price of Folly / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. The bruised donkey drags himself through the fence with the heavy stone around his neck, while the jackal shakes his head with sympathetic pity under the starlight, 16:9 widescreen 4k.",
+      "hi": "दर्द से कराहता हुआ गधा बाहर निकला तो सियार ने कहा, 'वाह गायक महोदय! किसानों ने आपको क्या शानदार हार पहनाया है!' सीख (पंचतंत्र): सही समय और स्थान का ध्यान रखे बिना किया गया कोई भी काम केवल अपमान और विनाश लाता है।",
+      "en": "Limping out with the stone weighing down his neck, the jackal greeted him: 'Bravo, maestro! What a splendid medal the audience gave you!' Panchatantra Moral: There is a time and place for everything. Disregarding counsel and context invites disaster."
+    }
+  ]
+}

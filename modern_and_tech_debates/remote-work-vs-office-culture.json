@@ -1,0 +1,78 @@
+{
+  "slug": "remote-work-vs-office-culture",
+  "title_en": "Remote Work vs Office Culture",
+  "title_hi": "रिमोट वर्क बनाम ऑफिस कल्चर",
+  "sub_hook": "भविष्य के कार्यस्थल का सबसे बड़ा द्वंद्व!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "alex_remote": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "marcus_office": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_the_split_workplace",
+      "title": "Scene 1: The Modern Dilemma / दृश्य 1: आधुनिक कार्यशैली का द्वंद्व",
+      "prompt": "Cinematic 3D animation, Pixar style. Split-screen composition: On the left, a cozy modern home office with panoramic mountain views and a steaming latte; on the right, a high-tech glass skyscraper open-plan office with sleek whiteboards and team collaboration pods, 16:9 widescreen 4k.",
+      "hi": "तकनीकी क्रांति के बाद दुनिया भर की कंपनियों में एक बड़ी बहस छिड़ गई है: क्या घर से काम करना (रिमोट वर्क) बेहतर है या दफ्तर जाकर आमने-सामने काम करना?",
+      "en": "In the wake of the global tech revolution, companies and knowledge workers stand divided: Does the future of work belong to remote flexibility, or vibrant in-person office culture?"
+    },
+    {
+      "id": "02_alex_commute_free_life",
+      "title": "Scene 2: Freedom from Commuting / दृश्य 2: ट्रैफिक और सफर से आज़ादी",
+      "prompt": "Cinematic 3D animation. Alex, a skilled female software architect, stretches happily at 8:30 AM in comfortable casual attire, walking straight into her ergonomic home workstation with dual monitors, 16:9 widescreen 4k.",
+      "hi": "एलेक्स का तर्क है, 'रिमोट वर्क ने हमें रोज़ के दो घंटे के थकाऊ ट्रैफिक जाम से बचाया है। हम अपने परिवार के करीब हैं और बिना किसी रुकावट के गहरे फोकस के साथ कोडिंग कर सकते हैं।'",
+      "en": "Alex champions remote freedom: 'No more wasting two hours in soul-crushing traffic jams. I gain deep focus, spend quality time with my family, and deliver clean code on my own schedule.'"
+    },
+    {
+      "id": "03_marcus_watercooler_magic",
+      "title": "Scene 3: Watercooler Magic / दृश्य 3: आमने-सामने का तालमेल",
+      "prompt": "Cinematic 3D animation. Marcus, a charismatic product director, sketches breakthrough architectural diagrams on an illuminated glass board while colleagues laugh and brainstorm around an espresso bar, 16:9 widescreen 4k.",
+      "hi": "मार्कस का कहना है, 'लेकिन सबसे बड़े नवाचार और रचनात्मक विचार कॉफी मशीन के पास अनौपचारिक बातचीत से पैदा होते हैं! ज़ूम कॉल्स कभी भी आमने-सामने की ऊर्जा की जगह नहीं ले सकते।'",
+      "en": "Marcus counters with conviction: 'True breakthroughs happen organically at the whiteboard and espresso bar! Spontaneous energy and body language build trust that no video call can replicate.'"
+    },
+    {
+      "id": "04_burnout_vs_isolation",
+      "title": "Scene 4: The Dual Pitfalls / दृश्य 4: दोनों पक्षों की चुनौतियाँ",
+      "prompt": "Cinematic 3D animation. Visual split: Alex looking tired staring at a solitary screen late at night in her living room, alongside Marcus stuck in a rainy gridlocked bumper-to-bumper evening highway traffic jam, 16:9 widescreen 4k.",
+      "hi": "परंतु दोनों पक्षों की अपनी चुनौतियां हैं। घर पर काम करने वालों को अकेलापन और काम-जीवन के बीच धुंधली रेखाओं का सामना करना पड़ता है, जबकि ऑफिस जाने वालों का समय ट्रैफिक और बेवजह की बैठकों में नष्ट होता है।",
+      "en": "Yet both paths carry burdens. Remote workers battle loneliness and the erosion of work-life boundaries, while office workers suffer draining commutes and performative meetings."
+    },
+    {
+      "id": "05_global_talent_reach",
+      "title": "Scene 5: Global Talent Democratization / दृश्य 5: वैश्विक प्रतिभा का अवसर",
+      "prompt": "Cinematic 3D animation, holographic globe visual. Glowing data streams connect brilliant engineers in small villages and bustling global capitals into one seamless cloud workspace, 16:9 widescreen 4k.",
+      "hi": "एलेक्स याद दिलाती है कि रिमोट वर्क ने दुनिया के किसी भी कोने से बेहतरीन प्रतिभाओं को बिना अपना शहर छोड़े वैश्विक कंपनियों में काम करने का अवसर दिया है।",
+      "en": "Alex highlights a monumental shift: 'Remote work democratizes opportunity! A genius engineer in a small mountain town can now build world-class products without leaving their home.'"
+    },
+    {
+      "id": "06_company_culture_and_mentorship",
+      "title": "Scene 6: Mentorship and Onboarding / दृश्य 6: मार्गदर्शन और टीम भावना",
+      "prompt": "Cinematic 3D animation. Marcus sits side-by-side with a wide-eyed junior developer at a dual desk, smiling warmly as he points at code and guides the newcomer's growth, 16:9 widescreen 4k.",
+      "hi": "मार्कस जोड़ते हैं कि नए फ्रेशर्स और जूनियर्स के लिए दफ्तर में बैठकर सीनियर मेंटर्स से सीधे सीखना और कंपनी की संस्कृति को महसूस करना अत्यंत आवश्यक होता है।",
+      "en": "Marcus emphasizes culture: 'How do junior developers grow without senior mentors sitting beside them? In-person culture breathes life, empathy, and belonging into an organization.'"
+    },
+    {
+      "id": "07_the_hybrid_synthesis",
+      "title": "Scene 7: The Hybrid Synthesis / दृश्य 7: हाइब्रिड मॉडल का उदय",
+      "prompt": "Cinematic 3D animation. A bright, airy modern creative campus where Alex and Marcus high-five each other on a sunny Wednesday collaboration day, laptops ready, blending the best of both worlds, 16:9 widescreen 4k.",
+      "hi": "अंततः समाधान चरमपंथ में नहीं बल्कि संतुलन में है। आधुनिक 'हाइब्रिड मॉडल' ने साबित किया कि 2 दिन ऑफिस सहयोग और 3 दिन डीप रिमोट वर्क सबसे उत्तम संतुलन है।",
+      "en": "The ultimate realization emerges: the battle is not binary. The thriving future is 'Hybrid'—focused solo work from home, paired with deliberate, high-impact in-person collaboration days."
+    },
+    {
+      "id": "08_the_balanced_future",
+      "title": "Scene 8: Outcome Over Presence / दृश्य 8: परिणाम ही असली पैमाना",
+      "prompt": "Cinematic 3D animation. Inspiring futuristic cityscape under a clean blue sky, professionals working happily in cafes, parks, and smart hubs. Trust and freedom metrics glowing on transparent digital displays, 16:9 widescreen 4k.",
+      "hi": "सीख: काम कहाँ से किया गया यह महत्वपूर्ण नहीं है, बल्कि परिणाम, आपसी भरोसा और कर्मचारियों की संतुष्टि ही किसी भी संस्था की असली सफलता तय करती है।",
+      "en": "Final takeaway: Success is measured by outcomes and trust, not seat-warming. Flexibility and human connection together build the ultimate workplace."
+    }
+  ]
+}

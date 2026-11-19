@@ -1,0 +1,82 @@
+{
+  "slug": "tenali-raman-and-the-thieves",
+  "title_en": "Tenali Raman and the Well Water Thieves",
+  "title_hi": "तेनालीराम और कुएं के चोर",
+  "sub_hook": "चोरों से ही अपना बगीचा सिंचवा लिया!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "tenali": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "wife": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural"
+    },
+    "thieves": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_thieves_in_the_bushes",
+      "title": "Scene 1: Thieves in the Garden / दृश्य 1: बगीचे में छुपे चोर",
+      "prompt": "Cinematic 3D animation, Pixar style. A dark moonlit night in a traditional South Indian village courtyard. Two masked thieves crouch behind jasmine bushes, watching Tenali Raman's brightly lit tile-roofed house, 16:9 widescreen 4k.",
+      "hi": "एक रात विजयनगर के प्रसिद्ध विदूषक तेनालीराम जब अपने घर लौट रहे थे, तो उन्होंने देखा कि कुछ चोर उनके घर के बगीचे की झाड़ियों में छुपे हुए हैं।",
+      "en": "One warm moonlit night in Vijayanagara, the witty court advisor Tenali Raman spotted two stealthy burglars crouching behind the jasmine bushes in his garden."
+    },
+    {
+      "id": "02_tenali_whispers_to_wife",
+      "title": "Scene 2: The Staged Conversation / दृश्य 2: जानबूझकर ज़ोर से बातचीत",
+      "prompt": "Cinematic 3D animation. Tenali Raman enters his bedroom and speaks loudly to his wife near an open window, while outside the thieves press their ears against the sill with greedy grins, 16:9 widescreen 4k.",
+      "hi": "तेनालीराम समझ गए कि वे चोरी करने आए हैं। वे घर के अंदर गए और जानबूझकर खिड़की के पास ज़ोर से पत्नी से बोले, 'सुनती हो! नगर में बहुत चोर घूम रहे हैं, इसलिए हम अपना सारा सोना और आभूषण लोहे के बड़े संदूक में भरकर कुएं में छुपा देते हैं!'",
+      "en": "Rather than panic, Tenali devised a witty trap. Stepping near the open window, he spoke loudly to his wife: 'Dearest! Thieves are roaming the city; let us lock our gold and jewels in the heavy iron chest and drop it into the well for safety!'"
+    },
+    {
+      "id": "03_filling_trunk_with_stones",
+      "title": "Scene 3: Filling Trunk with Rocks / दृश्य 3: संदूक में भारी पत्थर भरना",
+      "prompt": "Cinematic 3D animation. Tenali and his giggling wife secretly pack a large rustic iron trunk with heavy granite stones, locking it with a giant padlock in the dim candlelight, 16:9 widescreen 4k.",
+      "hi": "चोरों ने यह सुन लिया और खुश हो गए। उधर तेनालीराम और उनकी पत्नी ने सोने की जगह भारी-भारी पत्थर संदूक में भरे और उस पर बड़ा ताला जड़ दिया।",
+      "en": "Hearing this, the thieves grinned in greedy delight. Meanwhile, Tenali and his smiling wife filled a massive iron chest to the brim with heavy granite cobbles and snapped on a padlock."
+    },
+    {
+      "id": "04_dropping_trunk_in_well",
+      "title": "Scene 4: Dropping the Trunk / दृश्य 4: संदूक को कुएं में गिराना",
+      "prompt": "Cinematic 3D animation. Tenali and his wife drag the heavy chest into the garden and dump it with a tremendous resounding 'SPLASH!' into the deep irrigation well, then walk inside and lock their doors, 16:9 widescreen 4k.",
+      "hi": "दोनों ने मिलकर उस भारी संदूक को बगीचे के गहरे कुएं में 'धड़ाम' से गिरा दिया और आराम से सोने चले गए।",
+      "en": "Together, they hauled the trunk out and dumped it into the deep stone well with a tremendous, reverberating 'SPLASH!' Then they locked their front door and went to bed."
+    },
+    {
+      "id": "05_thieves_draw_water_all_night",
+      "title": "Scene 5: Drawing Water All Night / दृश्य 5: रात भर पानी निकालना",
+      "prompt": "Cinematic 3D animation, hilarious frantic toil. The two exhausted thieves frantically pull buckets of water from the deep well, pouring hundreds of gallons into the ditches and vegetable beds, sweating through the night, 16:9 widescreen 4k.",
+      "hi": "चोरों ने सोचा कि संदूक निकालने के लिए कुएं का पानी खाली करना पड़ेगा। उन्होंने बाल्टियां उठाईं और पूरी रात जी-तोड़ मेहनत करके कुएं से पानी निकाल-निकाल कर क्यारियों में बहाते रहे।",
+      "en": "To reach the submerged chest, the thieves realized they had to drain the well. Grabbing buckets and ropes, they hauled hundreds of heavy pails of water all night long, pouring it into the parched trenches."
+    },
+    {
+      "id": "06_garden_completely_irrigated",
+      "title": "Scene 6: The Entire Garden Irrigated / दृश्य 6: लहलहाता बगीचा",
+      "prompt": "Cinematic 3D animation. Dawn breaks. Tenali's mango trees, jasmine beds, and vegetable patches are thoroughly soaked and lush with fresh cool water under pink morning skies, 16:9 widescreen 4k.",
+      "hi": "देखते ही देखते तेनालीराम के सूखे बगीचे की हर क्यारी, आम के पेड़ और फूलों के पौधे पानी से लबालब भर गए।",
+      "en": "By sunrise, Tenali's entire dried-up garden—every mango sapling, jasmine bed, and vegetable row—was thoroughly soaked and flourishing with fresh water."
+    },
+    {
+      "id": "07_tenali_greets_exhausted_thieves",
+      "title": "Scene 7: Tenali's Morning Greeting / दृश्य 7: तेनाली का धन्यवाद",
+      "prompt": "Cinematic 3D animation. At sunrise, Tenali strolls out in a silk dhoti with folded hands, smiling sweetly at the panting, blistered thieves who are finally dragging out the rock-filled chest, 16:9 widescreen 4k.",
+      "hi": "सुबह जब चोर हांफते हुए संदूक बाहर खींच रहे थे, तभी तेनालीराम मुस्कुराते हुए बाहर आए और हाथ जोड़कर बोले, 'धन्यवाद भाइयों! मेरे पूरे बगीचे को मुफ्त में सींचने के लिए आपका बहुत-बहुत आभार!'",
+      "en": "As the panting, blistered thieves finally dragged the dripping trunk to the surface, Tenali strolled out with folded hands: 'A thousand thanks, dear friends! My garden has never been so thoroughly watered!'"
+    },
+    {
+      "id": "08_thieves_flee_moral",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. The mortified thieves drop the box of rocks and flee for their lives, while Tenali laughs joyfully in his thriving emerald garden under the golden morning sun, 16:9 widescreen 4k.",
+      "hi": "चोरों ने संदूक खोला तो उसमें पत्थर निकले! वे अपनी जान बचाकर वहां से भाग खड़े हुए। सीख: तीक्ष्ण बुद्धि और हास्यबोध से बड़ी से बड़ी विपत्ति को भी अपने लाभ में बदला जा सकता है।",
+      "en": "Opening the box to find only stones, the humiliated thieves dropped everything and bolted! Moral: Presence of mind and quick wit can disarm danger and turn adversaries into unwitting helpers."
+    }
+  ]
+}

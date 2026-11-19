@@ -1,0 +1,78 @@
+{
+  "slug": "the-crows-and-the-black-snake",
+  "title_en": "The Crows and the Black Snake",
+  "title_hi": "कौआ और काला नाग - पंचतंत्र",
+  "sub_hook": "बुद्धि के बल से शक्तिशाली शत्रु का अंत!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "crow": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "fox_friend": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_crows_nest_on_banyan",
+      "title": "Scene 1: Nest on the Ancient Banyan / दृश्य 1: वटवृक्ष पर घोंसला",
+      "prompt": "Cinematic 3D animation, Pixar style. A majestic sprawling ancient Indian banyan tree with hanging aerial roots. On an upper bough, a loving crow couple guards their cozy nest filled with speckled blue eggs in dappled forest sunlight, 16:9 widescreen 4k.",
+      "hi": "एक विशाल वटवृक्ष पर कौवे का एक सुखी जोड़ा अपना घोंसला बनाकर रहता था। वे दोनों अपने नन्हें अंडों की बड़ी ममता से देखभाल करते थे।",
+      "en": "High upon a sprawling ancient banyan tree, a devoted crow couple built a safe woven nest, tenderly protecting their precious clutch of speckled eggs."
+    },
+    {
+      "id": "02_black_cobra_hollow",
+      "title": "Scene 2: The Menacing Cobra / दृश्य 2: पेड़ के खोखल में काला नाग",
+      "prompt": "Cinematic 3D animation, ominous mood. At the base of the banyan tree, inside a dark sinister tree hollow, a massive venomous black king cobra with shimmering scales and cold slit eyes slowly coils, 16:9 widescreen 4k.",
+      "hi": "परंतु उसी वटवृक्ष की जड़ के खोखल में एक विशाल और क्रूर काला नाग आकर रहने लगा। जब भी कौवा दाना चुगने बाहर जाता, वह नाग चुपके से चढ़कर उनके अंडों को खा जाता।",
+      "en": "Tragically, a giant black cobra took up residence in a hollow at the tree's base. Whenever the crows flew out to forage, the sinister serpent slithered up and devoured their newborn chicks."
+    },
+    {
+      "id": "03_grief_and_friend_fox",
+      "title": "Scene 3: Seeking Fox's Advice / दृश्य 3: चतुर लोमड़ी से सलाह",
+      "prompt": "Cinematic 3D animation. The weeping crows consult their wise, loyal red fox friend who sits thoughtfully beside a forest pond, listening with a keen sympathetic gleam in his eye, 16:9 widescreen 4k.",
+      "hi": "अपने बच्चों के वियोग में रोते हुए कौवे अपने सच्चे मित्र चतुर लोमड़ी के पास गए। लोमड़ी ने कहा, 'शारीरिक बल में तुम नाग से नहीं जीत सकते, पर बुद्धि के बल से उसे खत्म किया जा सकता है!'",
+      "en": "Heartbroken by their repeated loss, the grieving crows sought the counsel of their friend, a wise red fox. 'You cannot overpower him with brute force,' the fox whispered, 'but intelligence can destroy even the deadliest foe.'"
+    },
+    {
+      "id": "04_queen_bathing_at_river",
+      "title": "Scene 4: The Royal Bath / दृश्य 4: रानी का शाही स्नान",
+      "prompt": "Cinematic 3D animation. The royal queen accompanied by her handmaidens and armed royal guards bathes in a pristine royal marble lotus lake, having left her sparkling diamond and gold pearl necklace on a velvet tray on the bank, 16:9 widescreen 4k.",
+      "hi": "लोमड़ी की योजना के अनुसार, कौआ उड़कर उस नदी किनारे पहुंचा जहां राज्य की रानी अपनी दासियों के साथ स्नान कर रही थीं। किनारे पर रानी का अनमोल हीरों और मोतियों का हार रखा हुआ था।",
+      "en": "Following the fox's ingenious plan, the crow flew to the royal riverbank, where the Queen was bathing amidst lotus blossoms, having laid her priceless gold pearl necklace upon a velvet tray."
+    },
+    {
+      "id": "05_crow_steals_necklace",
+      "title": "Scene 5: Stealing the Royal Necklace / दृश्य 5: हार लेकर उड़ना",
+      "prompt": "Cinematic 3D animation, dynamic aerial heist. The crow swoops down like an arrow, snatches the glittering pearl necklace in his beak, and flies away low enough for the shouting royal guards to see and pursue him, 16:9 widescreen 4k.",
+      "hi": "कौवे ने झपट्टा मारा और उस चमकते हुए हार को अपनी चोंच में दबाकर उड़ गया। रानी के रक्षक लाठी और तलवारें लेकर कौवे के पीछे-पीछे दौड़ पड़े।",
+      "en": "Swooping down like a dart, the crow seized the sparkling necklace in his beak. He flew deliberately low and slow, ensuring the shouting royal guards gave chase with spears and swords."
+    },
+    {
+      "id": "06_dropping_necklace_in_hollow",
+      "title": "Scene 6: Dropping into Cobra's Den / दृश्य 6: नाग के बिल में हार गिराना",
+      "prompt": "Cinematic 3D animation. The crow arrives at the banyan tree and drops the heavy shimmering pearl necklace directly into the dark entrance of the black cobra's hollow, flying up to safety, 16:9 widescreen 4k.",
+      "hi": "कौवा सीधा अपने वटवृक्ष पर पहुंचा और उसने वह अनमोल हार उस काले नाग के बिल के ठीक भीतर गिरा दिया और खुद ऊपर की सुरक्षित डाल पर बैठ गया।",
+      "en": "Reaching the banyan tree, the crow dropped the glittering necklace straight into the dark hollow of the black snake's lair, then perched safely above to watch."
+    },
+    {
+      "id": "07_guards_slay_the_snake",
+      "title": "Scene 7: Guards Slay the Cobra / दृश्य 7: सैनिकों द्वारा नाग का अंत",
+      "prompt": "Cinematic 3D animation, action resolution. The royal soldiers reach the tree, see the glittering necklace in the hollow, and as the angry cobra slithers out hissing with flared hood, they strike it down with spears to retrieve the royal jewels, 16:9 widescreen 4k.",
+      "hi": "सैनिक हार ढूंढते हुए वहां पहुंचे। जैसे ही उन्होंने बिल में डंडा डाला, काला नाग फुफकारता हुआ बाहर निकला। सैनिकों ने अपनी सुरक्षा में तलवारों से उस दुष्ट नाग को मार डाला और हार ले गए।",
+      "en": "The royal guards arrived at the tree and saw the jewels gleaming in the hollow. As the furious cobra reared out with a vicious hiss, the soldiers speared the serpent, securing the Queen's necklace."
+    },
+    {
+      "id": "08_peace_and_moral",
+      "title": "Scene 8: Peace Restored / दृश्य 8: शांति और सीख",
+      "prompt": "Cinematic 3D animation. The crow family joyfully chirps in their safe banyan nest alongside newly hatched chicks, golden sunlight bathing the lush forest, 16:9 widescreen 4k.",
+      "hi": "नाग का अंत हो गया और कौवों का परिवार हमेशा के लिए भयमुक्त हो गया। सीख (पंचतंत्र): जो काम बाहुबल से संभव न हो, वह तीक्ष्ण बुद्धि और रणनीति से आसानी से सिद्ध हो जाता है।",
+      "en": "With the dreaded serpent gone, the crows raised their chicks in lasting peace. Panchatantra Moral: Where brute strength fails, tactical wit and wisdom always conquer."
+    }
+  ]
+}

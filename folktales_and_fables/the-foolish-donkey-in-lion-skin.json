@@ -1,0 +1,78 @@
+{
+  "slug": "the-foolish-donkey-in-lion-skin",
+  "title_en": "The Donkey in the Lion's Skin",
+  "title_hi": "शेर की खाल में गधा",
+  "sub_hook": "नकली रूप ज्यादा देर नहीं छुपता!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "donkey": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "villagers": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_donkey_finds_lionskin",
+      "title": "Scene 1: Finding the Lion's Skin / दृश्य 1: शेर की खाल मिलना",
+      "prompt": "Cinematic 3D animation, Pixar style. A weary grey donkey with floppy ears wanders past a hunter's tent in a sun-dappled glade, discovering a complete dried golden lion pelt draped over a wooden rack, 16:9 widescreen 4k.",
+      "hi": "एक बार एक थके हुए गधे को जंगल के किनारे शिकारियों द्वारा छोड़ी गई एक असली शेर की खाल मिल गई।",
+      "en": "One quiet afternoon, a humble grey donkey stumbled upon an abandoned hunter's camp, where a magnificent, intact lion skin lay drying in the sun."
+    },
+    {
+      "id": "02_wearing_the_skin",
+      "title": "Scene 2: Disguising as a Lion / दृश्य 2: शेर का चोला पहनना",
+      "prompt": "Cinematic 3D animation. The grey donkey pulls the heavy lion mane over its head and straps the golden pelt around its body, admiring its ferocious appearance in a tranquil forest stream, 16:9 widescreen 4k.",
+      "hi": "गधे ने वह खाल अपने शरीर पर लपेट ली और उसका मुखौटा अपने सिर पर चढ़ा लिया। पानी में अपना अक्स देखकर वह खुद को सचमुच जंगल का राजा शेर समझने लगा।",
+      "en": "The donkey pulled the thick golden mane over his long ears and draped the pelt across his back. Looking into the mirrored stream, he gasped with glee, convinced he looked like the undisputed King of the Jungle."
+    },
+    {
+      "id": "03_scaring_the_animals",
+      "title": "Scene 3: Animals Flee in Terror / दृश्य 3: जानवरों में भगदड़",
+      "prompt": "Cinematic 3D animation, comedy and action. The disguised donkey stomps into a sunny pasture; cute sheep, rabbits, and cows scatter in comical panic, tumbling over fences to escape the supposed predator, 16:9 widescreen 4k.",
+      "hi": "वह शान से गांव और खेतों की ओर निकला। उसे देखते ही बकरियां, गायें और ग्रामीण डर के मारे चीखते हुए इधर-उधर भागने लगे। गधे का घमंड सातवें आसमान पर पहुंच गया।",
+      "en": "He trotted boldly toward the village pastures. At the sight of a prowling lion, sheep, cows, and farmers shrieked in horror, stampeding in wild comical chaos to escape with their lives."
+    },
+    {
+      "id": "04_village_fears_him",
+      "title": "Scene 4: Feared by All / दृश्य 4: पूरे गांव में खौफ",
+      "prompt": "Cinematic 3D animation. The donkey lounges leisurely in a lush farmer's cabbage garden, chewing fresh vegetables undisturbed while terrified villagers watch from locked rooftops, 16:9 widescreen 4k.",
+      "hi": "अब गधा बेखौफ होकर किसानों के हरे-भरे खेतों में घुसकर स्वादिष्ट फसलें चरने लगा। किसी की हिम्मत उसके पास आने की नहीं थी।",
+      "en": "Basking in unchallenged dominance, the donkey feasted upon the sweetest cabbages and crisp carrots in the village gardens, with not a soul brave enough to step forward."
+    },
+    {
+      "id": "05_pride_causes_braying",
+      "title": "Scene 5: The Fatal Bray / दृश्य 5: ढेंचू-ढेंचू की आवाज़",
+      "prompt": "Cinematic 3D animation, hilarious expression. The donkey, overjoyed with his own brilliance, throws back his head to unleash a mighty roar, but only a loud, ridiculous 'Hee-Haw! Bray!' echoes out across the valley, 16:9 widescreen 4k.",
+      "hi": "अपनी इस सफलता पर गधा खुशी से बावला हो गया। उसने सोचा कि अब उसे शेर की तरह जोर से दहाड़ना चाहिए। पर जैसे ही उसने मुंह खोला, दहाड़ की जगह ज़ोरदार 'ढेंचू-ढेंचू' की आवाज़ गूंज उठी!",
+      "en": "Drunk on vanity, the donkey decided to crown his triumph with a bloodcurdling lion's roar. He threw back his head, but instead of a roar, out burst a piercing, unmistakable 'Hee-Haw! Hee-Haw!'"
+    },
+    {
+      "id": "06_farmers_realize_truth",
+      "title": "Scene 6: Farmers Catch On / दृश्य 6: ग्रामीणों की समझदारी",
+      "prompt": "Cinematic 3D animation. Villagers on roofs and behind haystacks freeze, their terrified expressions instantly morphing into smirks, laughter, and boiling fury as they pick up wooden sticks and brooms, 16:9 widescreen 4k.",
+      "hi": "उसकी आवाज़ सुनते ही लोगों की समझ में आ गया कि यह कोई शेर नहीं, बल्कि शेर की खाल ओढ़ा हुआ वही पुराना निकम्मा गधा है!",
+      "en": "The instant the ridiculous bray rang out, the villagers froze. Their sheer terror vanished, replaced by roaring bursts of laughter that quickly turned into righteous anger."
+    },
+    {
+      "id": "07_beating_and_chase",
+      "title": "Scene 7: The Chasing and Lesson / दृश्य 7: डंडों की मार और भगदड़",
+      "prompt": "Cinematic 3D animation, energetic slapstick. The angry farmers chase the braying donkey with brooms and sticks, the torn lion pelt flying off in the breeze as the donkey gallops away with comical panic, 16:9 widescreen 4k.",
+      "hi": "ग्रामीण डंडे लेकर उस पर टूट पड़े और उसकी जमकर पिटाई की। शेर की खाल फटकर उड़ गई और गधा अपनी जान बचाकर वहां से दुम दबाकर भागा।",
+      "en": "Armed with broomsticks and pitchforks, the villagers swarmed the imposter, giving him the soundest thrashing of his life as the lion skin flew off in shreds."
+    },
+    {
+      "id": "08_moral_conclusion",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. The donkey sits under an apple tree rubbing his bruised flanks, looking thoughtful and wiser, while the village rests peacefully in warm afternoon light, 16:9 widescreen 4k.",
+      "hi": "सीख: चाहे आप कितना भी बड़ा भेष बना लें, आपकी बातें और हरकतें आपकी असली पहचान उजागर कर ही देती हैं।",
+      "en": "Bruised but enlightened, the donkey learned the hard truth: Fine clothes and grand disguises may deceive the foolish for a moment, but words and deeds soon expose the fool."
+    }
+  ]
+}

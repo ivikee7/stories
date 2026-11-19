@@ -1,0 +1,82 @@
+{
+  "slug": "the-three-fishes",
+  "title_en": "The Three Fishes: Wisdom, Wit, and Fate",
+  "title_hi": "तीन मछलियाँ: अनागतविधाता, प्रत्युत्पन्नमति और यद्भविष्य",
+  "sub_hook": "भाग्य के भरोसे बैठने वाला सदा नष्ट होता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "wise_fish": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "witty_fish": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "fatalist_fish": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_three_fish_friends",
+      "title": "Scene 1: The Three Fish / दृश्य 1: तीन भिन्न स्वभाव की मछलियाँ",
+      "prompt": "Cinematic 3D animation, Pixar style. A sparkling blue freshwater lake teeming with water lilies. Three colorful stylized fish swim together: a thoughtful golden fish, an energetic silver fish, and a lazy fat red fish, 16:9 widescreen 4k.",
+      "hi": "एक गहरे और सुंदर सरोवर में तीन मछलियाँ रहती थीं—अनागतविधाता (दूरदर्शी), प्रत्युत्पन्नमति (हाज़िरजवाब/चतुर), और यद्भविष्य (भाग्यवादी)।",
+      "en": "In a crystal-clear mountain lake lived three distinct fish: Forethought (who planned ahead), Ready-Wit (who acted fast in emergencies), and Fatalist (who believed only in destiny)."
+    },
+    {
+      "id": "02_fishermen_arrive_with_nets",
+      "title": "Scene 2: Fishermen Plan an Ambush / दृश्य 2: मछुआरों की बातचीत",
+      "prompt": "Cinematic 3D animation. On the grassy lake shore, two weather-beaten fishermen carry heavy woven fishing nets, pointing at the lake and saying they will cast nets tomorrow morning at dawn, 16:9 widescreen 4k.",
+      "hi": "एक शाम कुछ मछुआरे झील के पास से गुजरे। उन्होंने देखा कि झील मछलियों से भरी है। उन्होंने आपस में कहा, 'कल सुबह आकर हम इस झील में जाल डालेंगे!'",
+      "en": "One evening, two fishermen walked along the bank. Seeing the abundant fish, they said, 'This lake is full of treasure! Tomorrow morning at dawn, we shall cast our great nets here!'"
+    },
+    {
+      "id": "03_first_fish_escapes_early",
+      "title": "Scene 3: Forethought Departs / दृश्य 3: दूरदर्शी का पलायन",
+      "prompt": "Cinematic 3D animation. The golden wise fish warns his two friends, then swims determinedly through a narrow underwater canal connecting to another deep river under moonlight, 16:9 widescreen 4k.",
+      "hi": "यह सुनते ही पहली दूरदर्शी मछली ने कहा, 'खतरा सामने है, हमें आज रात ही नहर के रास्ते दूसरी बड़ी नदी में चले जाना चाहिए!' और वह उसी रात सुरक्षित स्थान पर चली गई।",
+      "en": "Hearing this, Forethought warned his companions: 'Danger is certain. We must depart through the canal tonight!' Without delay, he swam off to the safety of a neighboring river."
+    },
+    {
+      "id": "04_fatalist_relies_on_luck",
+      "title": "Scene 4: Fatalist Refuses to Move / दृश्य 4: भाग्यवादी का आलस्य",
+      "prompt": "Cinematic 3D animation. The lazy fat red fish yawns dismissively in the algae: 'Whatever is written in destiny will happen, why leave our birthplace?', 16:9 widescreen 4k.",
+      "hi": "तीसरी मछली (यद्भविष्य) ने हंसकर कहा, 'जो भाग्य में लिखा है वह होकर रहेगा! अगर मरना ही है तो भागने से क्या लाभ?' वह वहीं आराम से तैरती रही।",
+      "en": "The lazy Fatalist scoffed: 'Whatever is fated must happen! If death is written in the stars, running away cannot save me. I shall stay right here.'"
+    },
+    {
+      "id": "05_nets_cast_at_dawn",
+      "title": "Scene 5: Nets Cast at Dawn / दृश्य 5: भोर में जाल फेंकना",
+      "prompt": "Cinematic 3D animation, dramatic underwater tension. Golden sunrise rays pierce through the water as a massive weighted fishing net descends like a web, trapping hundreds of panic-stricken fish, 16:9 widescreen 4k.",
+      "hi": "अगली सुबह मछुआरे आए और उन्होंने विशाल जाल फेंक दिया। दूसरी और तीसरी दोनों मछलियाँ जाल के फंदे में बुरी तरह फंस गईं।",
+      "en": "At daybreak, the fishermen cast their wide nets. Both Ready-Wit and Fatalist found themselves trapped inside the tightening mesh with dozens of thrashing fish."
+    },
+    {
+      "id": "06_second_fish_plays_dead",
+      "title": "Scene 6: Ready-Wit Plays Dead / दृश्य 6: चतुर मछली का नाटक",
+      "prompt": "Cinematic 3D animation. As the net is pulled onto the boat, the clever silver fish floats belly-up, completely limp with unblinking eyes, perfectly feigning death, 16:9 widescreen 4k.",
+      "hi": "दूसरी मछली (प्रत्युत्पन्नमति) ने तुरंत अपनी बुद्धि का इस्तेमाल किया। वह सांस रोककर पेट ऊपर करके ऐसे लेट गई जैसे मर चुकी हो।",
+      "en": "Ready-Wit immediately applied his quick mind. Rolling onto his back with glazed eyes and limp fins, he floated motionless, playing dead with supreme convincing skill."
+    },
+    {
+      "id": "07_fisherman_throws_dead_fish",
+      "title": "Scene 7: Thrown Back and Survival / दृश्य 7: पानी में छलांग",
+      "prompt": "Cinematic 3D animation, swift escape. The fisherman picks up the supposedly dead silver fish in disgust and tosses it back into the lake; the silver fish instantly darts deep into the water to safety, 16:9 widescreen 4k.",
+      "hi": "मछुआरों ने उसे सड़ी-गली मृत मछली समझकर वापस झील में फेंक दिया। पानी छूते ही वह तेज़ी से तैरकर गहरे पानी में सुरक्षित भाग निकली!",
+      "en": "Disgusted by a lifeless catch, the fisherman picked up the limp silver fish and tossed it overboard. The moment it hit the water, Ready-Wit darted into the deep to safety!"
+    },
+    {
+      "id": "08_fatalist_meets_fate_moral",
+      "title": "Scene 8: The Fatalist's End and Moral / दृश्य 8: भाग्यवादी का अंत और सीख",
+      "prompt": "Cinematic 3D animation. The helpless red fish thrashes fruitlessly in the fisherman's wicker basket as the boat sails away. A peaceful underwater sanctuary where the two smart fishes swim, 16:9 widescreen 4k.",
+      "hi": "परंतु तीसरी मछली केवल छटपटाती रही और बास्केट में दम तोड़ दिया। सीख (पंचतंत्र): पहले से तैयारी करने वाला और तुरंत बुद्धिमता से कदम उठाने वाला हमेशा बचता है, जबकि केवल भाग्य के भरोसे बैठने वाले का विनाश निश्चित है।",
+      "en": "Panchatantra Moral: Forethought survives by planning ahead; Ready-Wit survives by quick thinking. But those who rely solely on fatalism and luck are doomed to destruction."
+    }
+  ]
+}

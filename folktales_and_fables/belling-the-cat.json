@@ -1,0 +1,78 @@
+{
+  "slug": "belling-the-cat",
+  "title_en": "Belling the Cat",
+  "title_hi": "बिल्ली के गले में घंटी",
+  "sub_hook": "सलाह देना आसान है, उसे निभाना कठिन!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "young_mouse": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "old_mouse": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_mice_terrorized_by_cat",
+      "title": "Scene 1: Terror in the Pantry / दृश्य 1: बिल्ली का आतंक",
+      "prompt": "Cinematic 3D animation, Pixar style. A dark rustic farmhouse pantry cellar. A sleek predatory calico cat with sharp emerald glowing eyes stalks silently across a wooden shelf, while trembling little mice peek out from behind flour sacks, 16:9 widescreen 4k.",
+      "hi": "एक बड़े किराने के गोदाम में चूहों का भारी आतंक था, परंतु उनकी शांति छीनने के लिए वहां एक चालाक और फुर्तीली बिल्ली आ गई थी।",
+      "en": "In the cozy pantry of a grand manor, a large colony of mice lived in perpetual fear of a stealthy, sharp-clawed calico cat who hunted them day and night."
+    },
+    {
+      "id": "02_mice_council_meeting",
+      "title": "Scene 2: Council of Mice / दृश्य 2: चूहों की महापंचायत",
+      "prompt": "Cinematic 3D animation. Dozens of cute stylized mice sit in a circle around an overturned tin can inside a candlelit wall cavity, whispering anxiously with furrowed brows, 16:9 widescreen 4k.",
+      "hi": "बिल्ली के पंजों से अपनी जान बचाने के लिए चूहों ने एक आपातकालीन महापंचायत बुलाई। सभी इस बात पर विचार करने लगे कि बिल्ली से कैसे बचा जाए।",
+      "en": "Desperate to preserve their lives, the mice summoned a grand council in the hollow between the floorboards, seeking a viable plan to evade the feline predator."
+    },
+    {
+      "id": "03_young_mouse_proud_proposal",
+      "title": "Scene 3: The Young Mouse's Idea / दृश्य 3: युवा चूहे की तरकीब",
+      "prompt": "Cinematic 3D animation. A dapper young mouse with bright whiskers leaps onto the tin can pedestal, holding up a shiny golden brass bell tied to a pink ribbon, smiling triumphantly, 16:9 widescreen 4k.",
+      "hi": "एक नौजवान और चतुर दिखने वाले चूहे ने गर्व से सीना फुलाकर कहा, 'मेरे पास एक बेजोड़ तरकीब है! क्यों न हम बिल्ली की गर्दन में एक छोटी सी घंटी बांध दें?'",
+      "en": "A sprightly young mouse bounded onto the pedestal, holding up a gleaming brass jingle bell: 'I have a stroke of sheer genius! Why not fasten a bell around the cat's neck?'"
+    },
+    {
+      "id": "04_applause_and_cheering",
+      "title": "Scene 4: Joyous Applause / दृश्य 4: चूहों की तालियां",
+      "prompt": "Cinematic 3D animation. The gathered mice cheer wildly, clapping their tiny paws, hugging each other in ecstatic relief, imagining their troubles are over, 16:9 widescreen 4k.",
+      "hi": "'जब भी बिल्ली आएगी, घंटी बज उठेगी और हम तुरंत भागकर छुप जाएंगे!' यह सुनते ही पूरी सभा खुशी से झूम उठी और तालियां बजाने लगी।",
+      "en": "'Whenever the cat approaches, the bell will tinkle, warning us in plenty of time to scurry to safety!' The assembly erupted in wild applause, hailing him as a hero."
+    },
+    {
+      "id": "05_wise_old_mouse_speaks",
+      "title": "Scene 5: The Wise Elder Speaks / दृश्य 5: वृद्ध चूहे का प्रश्न",
+      "prompt": "Cinematic 3D animation. An elderly mouse with wire spectacles, a long silver beard, and a walking stick made of a toothpick stands up slowly, raising a calm hand to quiet the crowd, 16:9 widescreen 4k.",
+      "hi": "तभी कोने से एक अनुभवी और बुजुर्ग चूहा धीरे-धीरे अपनी लाठी टेकते हुए आगे आया। उसने सबको शांत कराया और गंभीर स्वर में बोला।",
+      "en": "Amidst the celebration, a venerable grey-bearded elder mouse adjusted his tiny spectacles, raised his walking stick, and cleared his throat with dignified gravity."
+    },
+    {
+      "id": "06_the_crucial_question",
+      "title": "Scene 6: The Unanswered Question / दृश्य 6: घंटी कौन बांधेगा?",
+      "prompt": "Cinematic 3D animation, dramatic pin-drop silence. The old mouse points his toothpick cane directly at the young mouse: 'Your plan is indeed brilliant... but WHO will bell the cat?' The young mouse freezes with jaw dropped, 16:9 widescreen 4k.",
+      "hi": "बुजुर्ग चूहे ने कहा, 'योजना तो निःसंदेह अद्भुत है, लेकिन क्या सभा में कोई ऐसा वीर है जो बिल्ली के गले में जाकर यह घंटी बांध सके?'",
+      "en": "'Your plan is magnificent beyond question, young fellow,' the elder rasped calmly. 'Yet tell me: Which one among us is brave enough to actually tie the bell upon the cat?'"
+    },
+    {
+      "id": "07_awkward_silence_and_shame",
+      "title": "Scene 7: Awkward Silence / दृश्य 7: सन्नाटा और खामोशी",
+      "prompt": "Cinematic 3D animation. Comical guilty glances. The mice look sideways at one another, shuffling their paws, slowly whistling and sneaking backward into the shadows one by one, 16:9 widescreen 4k.",
+      "hi": "यह सुनते ही सारी खुशियां काफूर हो गईं। सभा में सन्नाटा पसर गया। किसी चूहे की इतनी हिम्मत नहीं थी कि वह बिल्ली के पंजों के करीब भी जा सके।",
+      "en": "A chilling, pin-drop silence fell across the chamber. The triumphant grins vanished instantly. Not a single mouse, young or old, dared step forward to accept the lethal task."
+    },
+    {
+      "id": "08_moral_takeaway",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. The little bell lies abandoned on the floorboards as the wise elder sighs gently in warm amber light, gazing out thoughtfully, 16:9 widescreen 4k.",
+      "hi": "सीख: हवा में बातें बनाना और सलाह देना बहुत आसान है, परंतु उस पर अमल करना ही असली परीक्षा है। असंभव विचारों का कोई मोल नहीं होता।",
+      "en": "Moral: It is easy to propose impossible solutions, but practical courage is what truly counts. Feasibility is the soul of any true plan."
+    }
+  ]
+}

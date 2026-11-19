@@ -4,45 +4,79 @@
   "title_hi": "बंदर और मगरमच्छ की कहानी",
   "sub_hook": "संकट में तुरंत बुद्धि काम आती है!",
   "characters": {
-    "momo": {
-      "voice": "hi-IN-MadhurNeural",
-      "display_name": "रक्तमुख बंदर (Monkey)",
-      "pitch": "+3Hz"
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
     },
-    "ali": {
-      "voice": "hi-IN-MadhurNeural",
-      "display_name": "करालमुख मगरमच्छ (Crocodile)",
-      "pitch": "-4Hz"
+    "monkey": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "crocodile": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    },
+    "crocodile_wife": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural"
     }
   },
   "scenes": [
     {
-      "id": "01_jamun_tree",
-      "title": "The Jamun Tree / जामुन का मीठा पेड़",
-      "prompt": "Cinematic 3D animation, lush tropical riverbank, huge ancient Jamun tree with dark glossy purple berries hanging in clusters, playful brown monkey perched on branch dropping fruits to friendly crocodile floating in river",
-      "hi": "एक विशाल नदी के किनारे जामुन का एक बड़ा पेड़ था, जिस पर एक चतुर बंदर रहता था। नदी में एक मगरमच्छ भी रहता था।",
-      "en": "On the banks of a sparkling river stood a grand Indian blackberry tree, home to a friendly, clever monkey who shared sweet fruits with a crocodile."
+      "id": "01_jamun_tree_riverbank",
+      "title": "Scene 1: The Jamun Tree / दृश्य 1: जामुन का मीठा पेड़",
+      "prompt": "Cinematic 3D animation, Pixar style. A grand ancient Indian blackberry (Jamun) tree overflowing with clusters of ripe, glossy purple-black berries on a sunlit tropical riverbank. A joyful, agile brown monkey perches on an overhanging branch overlooking crystal-clear sparkling water, 16:9 widescreen 4k.",
+      "hi": "एक विशाल और पवित्र नदी के किनारे जामुन का एक बहुत बड़ा पेड़ था। उस पर हमेशा मीठे और रसीले जामुन लदे रहते थे। पेड़ पर रक्तमुख नाम का एक चतुर और दयालु बंदर रहता था।",
+      "en": "On the lush banks of a shimmering river stood a magnificent, ancient rose-apple tree overflowing with clusters of sweet, purple berries. There lived a clever and generous monkey."
     },
     {
-      "id": "02_cunning_request",
-      "title": "The Selfish Request / पत्नी की इच्छा",
-      "prompt": "Close-up 3D shot, crocodile swimming across shimmering river looking troubled and reluctant",
-      "hi": "मगरमच्छ की पत्नी ने कहा: 'जो बंदर ऐसे मीठे फल खाता है, उसका कलेजा कितना मीठा होगा! मुझे उसका कलेजा चाहिए।'",
-      "en": "The crocodile's greedy wife insisted: 'One who eats such divine berries daily must possess the sweetest heart! Bring me his heart.'"
+      "id": "02_unlikely_friendship",
+      "title": "Scene 2: An Unlikely Friendship / दृश्य 2: अनोखी मित्रता",
+      "prompt": "Cinematic 3D animation. The cheerful monkey gently drops bunches of dark purple jamuns from the tree branch into the open smiling jaws of a large, friendly textured green crocodile floating peacefully in the water below, 16:9 widescreen 4k.",
+      "hi": "नदी में करालमुख नाम का एक मगरमच्छ रहता था। बंदर रोज़ उसे पेड़ से मीठे-मीठे जामुन तोड़कर खिलाता था। धीरे-धीरे दोनों में गहरी और अटूट मित्रता हो गई।",
+      "en": "In the river lived a friendly green crocodile. Every day, the monkey plucked the ripest, sweetest berries and tossed them down. Soon, an enduring and tender friendship blossomed between them."
     },
     {
-      "id": "03_river_crossing",
-      "title": "Journey on the Water / नदी के बीच सच",
-      "prompt": "Cinematic shot, monkey riding high on the crocodile's back across deep blue swirling river water",
-      "hi": "मगरमच्छ बंदर को अपनी पीठ पर बिठाकर नदी के बीच ले गया और बीच धार में सच बता दिया।",
-      "en": "Carrying the monkey on his scaly back into the deep waters, the guilty crocodile confessed the fatal truth."
+      "id": "03_jealous_crocodile_wife",
+      "title": "Scene 3: Greedy Wife's Demand / दृश्य 3: पत्नी का लालच",
+      "prompt": "Cinematic 3D animation, emotional storytelling. On a muddy sandbar across the river, a fierce and envious female crocodile devours juicy purple berries, then turns with narrow greedy yellow eyes to whisper demands into her husband's ear, 16:9 widescreen 4k.",
+      "hi": "मगरमच्छ कुछ जामुन अपनी पत्नी के लिए भी ले गया। फल खाकर उसकी पत्नी लालची होकर बोली, 'जो बंदर रोज़ ऐसे अमृत जैसे मीठे फल खाता है, उसका कलेजा कितना मीठा होगा! मुझे उसका कलेजा खाना है!'",
+      "en": "One evening, the crocodile carried berries home to his wife. Savoring their nectar, she hissed greedily: 'If that monkey feasts on such divine fruit every day, how sweet his heart must be! Fetch me his heart, or I shall starve!'"
     },
     {
-      "id": "04_monkey_wit",
-      "title": "The Clever Trick / पेड़ पर रखा कलेजा",
-      "prompt": "Dynamic 3D Pixar animation, monkey leaping safely back up onto the tall leafy branch laughing with relief, pointing down at embarrassed crocodile",
-      "hi": "बंदर ने बिना घबराए कहा: 'अरे मित्र! मेरा कलेजा तो पेड़ के कोटर में रखा है! चलो वापस चलकर ले आते हैं!' और किनारे पहुँचते ही वह पेड़ पर चढ़ गया।",
-      "en": "Unfazed, the monkey laughed: 'Dear friend, I left my heart safely in the hollow of the jamun tree! Take me back!' Reaching the shore, he swiftly leaped to safety."
+      "id": "04_reluctant_invitation",
+      "title": "Scene 4: The False Invitation / दृश्य 4: दावत का झूठा न्योता",
+      "prompt": "Cinematic 3D animation. The troubled crocodile swims back to the tree, putting on a guilty forced smile, gesturing with his webbed claw as the eager monkey prepares to hop down, warm sunset hues on the water, 16:9 widescreen 4k.",
+      "hi": "मगरमच्छ दुखी था, पर पत्नी की ज़िद के आगे विवश हो गया। उसने बंदर से कहा, 'मित्र! मेरी पत्नी तुम्हारे दिए फलों से बहुत खुश है और उसने तुम्हें अपने घर स्वादिष्ट भोजन के लिए आमंत्रित किया है!'",
+      "en": "Torn between marital duty and loyal friendship, the reluctant crocodile swam back to the tree: 'Dear friend, my wife was overjoyed with the fruit and invites you to our home across the river for a royal feast!'"
+    },
+    {
+      "id": "05_crossing_and_confession",
+      "title": "Scene 5: Confession in Mid-River / दृश्य 5: बीच नदी में सच का खुलासा",
+      "prompt": "Cinematic 3D animation, dramatic water ripples. Mid-river in deep swirling blue rapids. The trusting monkey sits on the crocodile's broad scaly back. The crocodile lowers his snout sadly, speaking the harsh truth, 16:9 widescreen 4k.",
+      "hi": "बंदर खुशी-खुशी मगरमच्छ की पीठ पर बैठ गया। जब वे नदी के बीचों-बीच गहरे पानी में पहुंचे, तो मगरमच्छ ने पछताते हुए सच बता दिया, 'मित्र, मुझे क्षमा करना! मेरी पत्नी तुम्हारा कलेजा खाना चाहती है!'",
+      "en": "Trusting his friend, the monkey climbed aboard the crocodile's scaly back. But out in the deep, swirling waters, the guilty crocodile confessed: 'Forgive me, brother! My wife does not want to feed you; she demands your sweet heart!'"
+    },
+    {
+      "id": "06_monkeys_quick_wit",
+      "title": "Scene 6: The Clever Lie / दृश्य 6: पेड़ पर रखा कलेजा",
+      "prompt": "Cinematic 3D animation, suspense and character expression. Close-up of the monkey on the crocodile's back, concealing sheer panic behind a calm, bright, cheerful laughter, gesturing backward toward the shoreline tree, 16:9 widescreen 4k.",
+      "hi": "बंदर अंदर से कांप उठा, पर उसने हिम्मत नहीं हारी। वह हंसते हुए बोला, 'अरे भाई! यह बात पहले क्यों नहीं बताई? हम बंदर तो अपना कलेजा पेड़ के खोखल में सुरक्षित रखकर आते हैं! चलो वापस चलकर ले आते हैं!'",
+      "en": "A shiver of terror pierced the monkey's spine, but he stayed ice-cool. Laughing warmly, he replied: 'Brother, why didn't you mention it sooner? We monkeys keep our delicate hearts safe inside the hollow of the tree! Let us turn back and fetch it!'"
+    },
+    {
+      "id": "07_swimming_back_to_shore",
+      "title": "Scene 7: Rushing Back to Shore / दृश्य 7: किनारे की ओर वापस लौटना",
+      "prompt": "Cinematic 3D animation, fast water physics. The foolish crocodile vigorously paddles his powerful tail, turning around in the foamy current and swimming swiftly back toward the sun-dappled jamun tree on the riverbank, 16:9 widescreen 4k.",
+      "hi": "मूर्ख मगरमच्छ बंदर की बातों में आ गया। वह तुरंत मुड़ा और कलेजा लाने के लिए तेज़ी से जामुन के पेड़ वाले किनारे की ओर तैरने लगा।",
+      "en": "The gullible crocodile believed every word. Turning immediately in the water, he paddled with all his might back toward the sheltering branches of the riverbank."
+    },
+    {
+      "id": "08_leap_to_safety_moral",
+      "title": "Scene 8: Leap to Safety and Moral / दृश्य 8: सुरक्षा की छलांग और सीख",
+      "prompt": "Cinematic 3D animation. The agile monkey leaps from the water onto the high leafy branch with a triumphant grin, laughing and throwing down a sour twig at the abashed crocodile. Beautiful golden sunset river landscape, 16:9 widescreen 4k.",
+      "hi": "किनारा आते ही बंदर ने एक लंबी छलांग लगाई और पेड़ की सबसे ऊंची डाल पर जा बैठा। उसने कहा, 'मूर्ख मगरमच्छ! क्या कभी कोई शरीर से कलेजा अलग रख सकता है? तुमने विश्वासघात किया!' सीख (पंचतंत्र): संकट के समय कभी धैर्य नहीं खोना चाहिए। तुरंत बुद्धि और सूझबूझ से मृत्यु के मुंह से भी बचा जा सकता है।",
+      "en": "The second they touched shore, the monkey made a spectacular leap high onto the branches! Chuckling, he called down: 'Foolish crocodile! Can anyone live with their heart detached on a tree? You betrayed my trust!' Panchatantra Moral: Presence of mind and composure in crisis can rescue you from the jaws of death."
     }
   ]
 }

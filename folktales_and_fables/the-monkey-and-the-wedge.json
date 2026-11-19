@@ -1,0 +1,78 @@
+{
+  "slug": "the-monkey-and-the-wedge",
+  "title_en": "The Monkey and the Wedge",
+  "title_hi": "बंदर और लकड़ी की कील",
+  "sub_hook": "बिना बुलाए दूसरों के काम में दखल न दें!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "monkey": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "carpenter": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_carpenters_workplace",
+      "title": "Scene 1: The Temple Construction / दृश्य 1: मंदिर निर्माण स्थल",
+      "prompt": "Cinematic 3D animation, Pixar style. A bustling temple construction site on the outskirts of a green forest. Skilled carpenters in traditional dhotis saw a massive half-split teak log with large wooden saws and iron tools, 16:9 widescreen 4k.",
+      "hi": "एक बार एक नगर के किनारे एक भव्य मंदिर का निर्माण हो रहा था। बढ़ई जंगल से लाई गई मोटी-मोटी लकड़ियों को चीरने का काम कर रहे थे।",
+      "en": "On the outskirts of a tranquil forest, artisans and carpenters were constructing a grand temple, busily sawing massive teak logs with heavy two-man saws."
+    },
+    {
+      "id": "02_wedge_inserted_log",
+      "title": "Scene 2: Inserting the Wedge / दृश्य 2: लकड़ी की कील ठोकना",
+      "prompt": "Cinematic 3D animation. A carpenter hammers a thick triangular wooden wedge into the deep split of a gigantic half-sawn log to keep the gap open, then sets his tools down for lunch, 16:9 widescreen 4k.",
+      "hi": "दोपहर के भोजन का समय हुआ। एक बढ़ई ने आधे चीरे हुए लट्ठे के बीच एक मोटी लकड़ी की कील (फांच) ठोक दी ताकि लट्ठा आपस में जुड़ न जाए, और सभी कारीगर खाना खाने चले गए।",
+      "en": "When noon arrived, the workers paused for lunch. To keep a half-sawn log from snapping shut, a carpenter hammered a sturdy wooden wedge into the split, leaving it firmly secured."
+    },
+    {
+      "id": "03_curious_monkeys_arrive",
+      "title": "Scene 3: Curious Monkeys Arrive / दृश्य 3: चंचल बंदरों का झुंड",
+      "prompt": "Cinematic 3D animation. A mischievous troop of langur monkeys with expressive faces and long tails descends from the banyan trees, jumping onto scaffolding and inspecting the carpenters' tools, 16:9 widescreen 4k.",
+      "hi": "कारीगरों के जाते ही पेड़ों से बंदरों का एक झुंड वहां आ धमका। वे औजारों और बल्लियों पर उछल-कूद करने लगे।",
+      "en": "As soon as the artisans departed, a band of playful, inquisitive monkeys swung down from the trees, rummaging through abandoned tools and leaping across the timber."
+    },
+    {
+      "id": "04_foolish_monkey_inspects_wedge",
+      "title": "Scene 4: Inspecting the Wedge / दृश्य 4: कील के साथ छेड़छाड़",
+      "prompt": "Cinematic 3D animation. One especially curious monkey sits right atop the half-split log, straddling the crack with his tail dangling down inside the split, staring intently at the wooden wedge, 16:9 widescreen 4k.",
+      "hi": "उनमें से एक बेहद चंचल और उपद्रवी बंदर उस चीरे हुए लट्ठे के ऊपर जाकर बैठ गया। नासमझी में उसकी पूंछ लट्ठे की खुली दरार के बीच झूल रही थी।",
+      "en": "One particularly restless monkey sat right on top of the divided log. In his sheer thoughtlessness, his long furry tail dangled directly down into the open fissure."
+    },
+    {
+      "id": "05_pulling_the_wedge",
+      "title": "Scene 5: Tugging the Wedge / दृश्य 5: कील को खींचना",
+      "prompt": "Cinematic 3D animation, tension. The monkey grasps the wooden wedge with both hands and teeth, rocking it back and forth with all his strength to yank it free from the log, 16:9 widescreen 4k.",
+      "hi": "बंदर ने सोचा, 'यह लकड़ी का टुकड़ा यहाँ क्यों फंसाया गया है? इसे बाहर निकाल कर देखता हूँ!' वह दोनों हाथों से उस कील को ज़ोर-ज़ोर से हिलाने लगा।",
+      "en": "Fixating on the wooden wedge, the foolish monkey wondered, 'Why is this piece of wood stuck here?' He gripped it with both hands and teeth, wrestling with all his might to wrench it free."
+    },
+    {
+      "id": "06_wedge_pops_out_snap",
+      "title": "Scene 6: The Snap / दृश्य 6: लट्ठे का बंद होना",
+      "prompt": "Cinematic 3D animation, dramatic impact. The wedge suddenly pops out with a loud 'CLACK!' and the massive halves of the spring-loaded log violently snap shut together, trapping the monkey's tail tightly, 16:9 widescreen 4k.",
+      "hi": "जैसे ही उसने ज़ोर लगाकर कील को बाहर खींचा, लट्ठे के दोनों भारी हिस्से भयानक आवाज़ के साथ आपस में जुड़ गए और बंदर की पूंछ उसमें बुरी तरह फंस गई!",
+      "en": "With a sudden yank, the wedge popped out! Instantly, the immense tension of the split log released, snapping shut with a brutal 'CLAP!' and trapping the monkey's tail."
+    },
+    {
+      "id": "07_monkey_screams_for_help",
+      "title": "Scene 7: Screaming in Pain / दृश्य 7: दर्द से तड़पना",
+      "prompt": "Cinematic 3D animation. The trapped monkey jumps in agonizing pain and screeches, other monkeys scattering away in fear, unable to pry open the heavy teak trunk, 16:9 widescreen 4k.",
+      "hi": "बंदर दर्द से बुरी तरह चीखने-चिल्लाने लगा। बाकी बंदर डर कर भाग गए और वह उस लट्ठे में जकड़ा तड़पता रहा जब तक कि बढ़ई वापस नहीं आ गए।",
+      "en": "The monkey shrieked in excruciating pain. His companions panicked and fled into the trees, leaving him firmly pinned by his own meddlesome curiosity."
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. The carpenters return with pity and free the crying monkey, who scampers away nursing his sore bruised tail, golden afternoon illumination, 16:9 widescreen 4k.",
+      "hi": "सीख (पंचतंत्र): जिस काम से आपका कोई लेना-देना न हो, उसमें कभी बेवजह दखल नहीं देना चाहिए। बेगानी शादी में अब्दुल्ला दीवाना बनने पर संकट ही हाथ लगता है।",
+      "en": "Panchatantra Moral: Never interfere in matters that do not concern you. Unnecessary meddling brings inevitable ruin."
+    }
+  ]
+}

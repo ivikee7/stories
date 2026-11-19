@@ -1,0 +1,78 @@
+{
+  "slug": "the-bear-and-the-two-friends",
+  "title_en": "The Bear and the Two Travellers",
+  "title_hi": "भालू और दो मित्र",
+  "sub_hook": "मुसीबत में साथ छोड़ने वाला सच्चा मित्र नहीं!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "friend_one": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "friend_two": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_forest_journey",
+      "title": "Scene 1: Journey in the Forest / दृश्य 1: जंगल की यात्रा",
+      "prompt": "Cinematic 3D animation, Pixar style. Two cheerful young male travelers with backpacks walk arm-in-arm along a mossy trail through an ancient dense forest with towering pine trees and sunlight rays, 16:9 widescreen 4k.",
+      "hi": "दो गहरे दोस्त एक घने जंगल से होकर किसी दूर के शहर जा रहे थे। दोनों ने एक-दूसरे से वादा किया कि किसी भी विपत्ति में वे एक-दूसरे का साथ कभी नहीं छोड़ेंगे।",
+      "en": "Two inseparable companions were traveling together through a wild, uncharted forest. They swore a solemn oath to stand shoulder-to-shoulder against whatever dangers might cross their path."
+    },
+    {
+      "id": "02_ferocious_bear_appears",
+      "title": "Scene 2: Giant Bear Appears / दृश्य 2: विशाल भालू का आगमन",
+      "prompt": "Cinematic 3D animation. A massive, realistic yet stylized brown grizzly bear emerges from behind the thick fern bushes, rearing up on its hind legs with a booming roar and sharp claws, 16:9 widescreen 4k.",
+      "hi": "अचानक झाड़ियों की ओट से एक विशाल और खूंखार भालू गुर्राता हुआ उनके सामने आ खड़ा हुआ। उसकी लाल आंखें और नुकीले पंजे देखकर दोनों के होश उड़ गए।",
+      "en": "Suddenly, a tremendous grizzly bear crashed through the tangled ferns, rising onto its hind legs with a thunderous roar, blocking their path with terrifying ferocity."
+    },
+    {
+      "id": "03_first_friend_flees",
+      "title": "Scene 3: First Friend Flees Up a Tree / दृश्य 3: पेड़ पर चढ़ना",
+      "prompt": "Cinematic 3D animation. One selfish agile friend scrambles frantically up the trunk of a tall pine tree, pulling himself onto a high safe branch without looking back down at his friend, 16:9 widescreen 4k.",
+      "hi": "पहला दोस्त बहुत फुर्तीला था। वह अपने वादे को भूलकर तुरंत दौड़ पड़ा और बिना सोचे-समझे एक ऊंचे पेड़ पर चढ़कर सुरक्षित बैठ गया।",
+      "en": "In blind panic, one friend completely abandoned his oath. Nimble and terrified, he bolted toward a nearby tree, scurried up the branches, and hid high out of danger without once looking back."
+    },
+    {
+      "id": "04_second_friend_feigns_death",
+      "title": "Scene 4: Playing Dead / दृश्य 4: ज़मीन पर लेट जाना",
+      "prompt": "Cinematic 3D animation. The second friend, left alone and unable to climb, drops flat on the mossy forest ground, holding his breath motionless like a corpse with eyes tightly shut, 16:9 widescreen 4k.",
+      "hi": "दूसरा दोस्त पेड़ पर चढ़ना नहीं जानता था। उसने सुना था कि भालू मरे हुए प्राणियों को नहीं छूते। उसने तुरंत अपनी बुद्धि लगाई और सांस रोककर ज़मीन पर मुर्दा बनकर लेट गया।",
+      "en": "Unable to climb and abandoned on the path, the second friend remembered that bears never disturb lifeless bodies. In a flash of quick wit, he threw himself flat upon the ground, closing his eyes and holding his breath completely still."
+    },
+    {
+      "id": "05_bear_sniffs_ear",
+      "title": "Scene 5: Bear Sniffs the Ear / दृश्य 5: भालू का सूंघना",
+      "prompt": "Cinematic 3D animation, suspenseful tension. Extreme close-up. The massive wet black snout of the giant bear sniffs gently around the motionless young man's ear and neck. The young man remains entirely frozen, 16:9 widescreen 4k.",
+      "hi": "भालू भारी कदमों से उसके पास आया। उसने लड़के के सिर, कान और नाक के पास बार-बार सूंघा। लड़का अपनी सांस रोके पत्थर की तरह निश्चल पड़ा रहा।",
+      "en": "The giant beast padded heavily over. Lowering its massive snout, it nudged the traveler's ear and neck, sniffing deeply for any sign of breath. The boy stayed utterly rigid, his heart racing in silence."
+    },
+    {
+      "id": "06_bear_walks_away",
+      "title": "Scene 6: Bear Leaves Peaceful / दृश्य 6: भालू का चले जाना",
+      "prompt": "Cinematic 3D animation. The brown bear, convinced the body is lifeless, turns around calmly and lumbers away into the misty shadowed depths of the forest. The boy opens one cautious eye, 16:9 widescreen 4k.",
+      "hi": "भालू को लगा कि यह आदमी मर चुका है। वह अपना सिर हिलाते हुए शांति से वापस घने जंगल की ओर चला गया।",
+      "en": "Satisfied that the human was devoid of life, the great bear turned away without causing him the slightest scratch, plodding off into the tranquil depths of the woods."
+    },
+    {
+      "id": "07_selfish_friend_descends",
+      "title": "Scene 7: Selfish Friend Climbs Down / दृश्य 7: पेड़ से उतरना",
+      "prompt": "Cinematic 3D animation. The first friend cautiously slides down the tree trunk with an awkward guilty smirk, walking over to brush dust off his friend who is now standing up, 16:9 widescreen 4k.",
+      "hi": "खतरा टलने के बाद पेड़ पर चढ़ा दोस्त नीचे उतरा और हंसते हुए पूछने लगा, 'अरे भाई! भालू तुम्हारे कान में क्या फुसफुसा कर कह रहा था?'",
+      "en": "Once the coast was clear, the runaway friend slid sheepishly down the trunk. Chuckling nervously, he asked, 'Well, brother! What great secret was that beast whispering into your ear?'"
+    },
+    {
+      "id": "08_moral_truth",
+      "title": "Scene 8: The Moral Truth / दृश्य 8: सच्ची सीख",
+      "prompt": "Cinematic 3D animation. The second friend looks steadfastly into his companion's eyes with calm dignified maturity, picking up his travel staff and walking ahead alone into the sunlit path, 16:9 widescreen 4k.",
+      "hi": "दूसरे दोस्त ने शांत भाव से कहा, 'भालू ने मुझसे कहा कि जो मुसीबत के समय अपने दोस्त को अकेला छोड़कर भाग जाए, उस पर कभी दोबारा विश्वास मत करना!'",
+      "en": "Looking him straight in the eyes with quiet dignity, the second traveler replied, 'The bear gave me one golden rule: Never trust a companion who abandons you the moment trouble strikes.' And he walked on ahead alone."
+    }
+  ]
+}

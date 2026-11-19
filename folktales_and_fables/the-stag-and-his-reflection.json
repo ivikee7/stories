@@ -1,0 +1,74 @@
+{
+  "slug": "the-stag-and-his-reflection",
+  "title_en": "The Stag and His Reflection",
+  "title_hi": "बारहसिंगा और उसके सींग",
+  "sub_hook": "दिखावटी सुंदरता से काम की उपयोगिता बेहतर!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "stag": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_stag_drinks_at_pool",
+      "title": "Scene 1: Admiring the Antlers / दृश्य 1: पानी में सुंदर सींग",
+      "prompt": "Cinematic 3D animation, Pixar style. A majestic forest stag with glistening auburn coat and magnificent sprawling branching antlers gazes admiringly at his crystal-clear reflection in a tranquil forest spring, 16:9 widescreen 4k.",
+      "hi": "एक बारहसिंगा एक शांत सरोवर के किनारे पानी पी रहा था। पानी की सतह पर जब उसने अपने शानदार और शाखामय सींगों का अक्स देखा, तो वह गर्व से झूम उठा।",
+      "en": "A noble forest stag paused to drink from a mirror-like spring. Gazing into the still water, he marveled at his magnificent, branching antlers with boundless pride."
+    },
+    {
+      "id": "02_despising_slender_legs",
+      "title": "Scene 2: Despising Slender Legs / दृश्य 2: पतले पैरों से नफरत",
+      "prompt": "Cinematic 3D animation. The stag looks down at his thin, spindly legs reflected in the water, his handsome face twisting with disgust and dissatisfaction, 16:9 widescreen 4k.",
+      "hi": "परंतु जैसे ही उसकी नज़र अपने पतले और कमज़ोर दिखने वाले पैरों पर पड़ी, उसका मन खट्टा हो गया। वह दुखी होकर बोला, 'ईश्वर ने मुझे इतने सुंदर सींग दिए, पर ये पैर कितने भद्दे और दुर्बल बनाए हैं!'",
+      "en": "Yet glancing down at his slender, spindly legs, his expression soured. 'Alas,' he grumbled bitterly, 'why did nature crown me with such glorious antlers, only to curse me with such frail, spindly shanks?'"
+    },
+    {
+      "id": "03_hunting_dogs_bark",
+      "title": "Scene 3: The Hunters Approach / दृश्य 3: शिकारी कुत्तों का हमला",
+      "prompt": "Cinematic 3D animation, dynamic tension. Through the shadowed pine trees, a pack of ferocious hunting hounds bursts into view, barking loudly, followed by hunters on horseback, 16:9 widescreen 4k.",
+      "hi": "तभी अचानक जंगल में शिकारी कुत्तों के भौंकने की भयानक आवाज़ें गूंज उठीं। शिकारियों का एक दल तेज़ी से उसी की तरफ आ रहा था।",
+      "en": "Suddenly, the baying of ferocious hunting hounds shattered the forest calm. A pack of swift hunting dogs charged toward the pool, hot on the stag's scent."
+    },
+    {
+      "id": "04_swift_legs_save_him",
+      "title": "Scene 4: Slender Legs Sprint Swiftly / दृश्य 4: तेज़ दौड़ते पैर",
+      "prompt": "Cinematic 3D animation, high-speed kinetic motion. The stag leaps through the open meadows with breathtaking speed, his despised slender legs carrying him like the wind, leaving the hounds far behind, 16:9 widescreen 4k.",
+      "hi": "बारहसिंगा अपनी जान बचाने के लिए हवा की गति से दौड़ा। जिन पैरों को वह कमज़ोर समझता था, वे ही उसे फुर्ती से खुले मैदान में बहुत दूर ले आए और शिकारी पीछे छूट गए।",
+      "en": "The stag bolted in terror. Those very slender legs he had so bitterly despised carried him across the open plains with effortless grace, leaving the hounds trailing far behind in the dust."
+    },
+    {
+      "id": "05_antlers_caught_in_thicket",
+      "title": "Scene 5: Antlers Trapped in Branches / दृश्य 5: सींगों का झाड़ी में उलझना",
+      "prompt": "Cinematic 3D animation, claustrophobic suspense. The stag darts through a dense grove of tangled thorn bushes; his sprawling grand antlers become tightly wedged in thick low-hanging oak branches, immobilizing him, 16:9 widescreen 4k.",
+      "hi": "लेकिन जैसे ही वह घने जंगल में घुसा, उसके विशाल और सुंदर सींग पेड़ों की नीची डालियों और घनी झाड़ियों में बुरी तरह उलझ गए!",
+      "en": "Rushing into a dense thicket to seek shelter, his sprawling antlers caught in the tangled overhanging branches. The harder he tugged, the more tightly they locked him in place."
+    },
+    {
+      "id": "06_hounds_close_in",
+      "title": "Scene 6: Hounds Close In / दृश्य 6: शिकारी कुत्तों का घेराव",
+      "prompt": "Cinematic 3D animation. The stag pulls frantically with grunting breath and sweating brow, but the branches hold firm as snarling hunting dogs burst through the ferns, 16:9 widescreen 4k.",
+      "hi": "उसने सींग छुड़ाने की लाख कोशिश की, पर वे और उलझते गए। इतने में पीछे से शिकारी कुत्ते पास आ पहुंचे और उन्होंने उसे घेर लिया।",
+      "en": "He wrestled frantically, but the branches held fast. The ferocious hunting dogs closed the gap, surrounding him with bared fangs."
+    },
+    {
+      "id": "07_dying_realization",
+      "title": "Scene 7: Bitter Realization / दृश्य 7: पछतावे का एहसास",
+      "prompt": "Cinematic 3D animation, poignant tragic close-up. The trapped stag looks into the distance with sorrowful wise eyes, shedding a tear of deep remorse in the dappled forest shadow, 16:9 widescreen 4k.",
+      "hi": "संकट में फंसे बारहसिंगे ने अंतिम सांस लेते हुए पछतावे से कहा, 'हाय रे मेरा दुर्भाग्य! जिन पैरों से मैं नफरत करता था, वे मुझे बचा रहे थे, और जिन सींगों पर मुझे गर्व था, वे ही मेरी मौत का कारण बन गए!'",
+      "en": "In that final sorrowful moment, the stag wept: 'Woe is me! The slender legs I so despised would have saved my life, while the ornate antlers I so vainly prized have proved my undoing!'"
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. Sunset light filtering through the peaceful ancient woodland canopy, casting deep shadows across the tranquil glade, 16:9 widescreen 4k.",
+      "hi": "सीख: हम अक्सर दिखावे और बाहरी चमक-दमक को महत्व देते हैं और असली उपयोगी गुणों की उपेक्षा करते हैं। सच्चा मूल्य उपयोगिता और सामर्थ्य में है, केवल सुंदरता में नहीं।",
+      "en": "Moral: We often value ornamental beauty over practical utility, yet in trials of life, real function and endurance are worth far more than vanity."
+    }
+  ]
+}

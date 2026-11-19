@@ -1,0 +1,78 @@
+{
+  "slug": "the-fox-and-the-goat",
+  "title_en": "The Fox and the Goat in the Well",
+  "title_hi": "लोमड़ी और बकरा - कुएं की चाल",
+  "sub_hook": "छलांग लगाने से पहले सोचना जरूरी है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "fox": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    },
+    "goat": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_fox_falls_in_well",
+      "title": "Scene 1: Fox Falls Into Deep Well / दृश्य 1: लोमड़ी का कुएं में गिरना",
+      "prompt": "Cinematic 3D animation, Pixar style. Inside a deep, ancient stone well overgrown with damp moss. A red fox splashes in knee-deep water at the bottom, looking up in despair at the high circular rim against the sky, 16:9 widescreen 4k.",
+      "hi": "अंधेरी रात में असावधानी के कारण एक चालाक लोमड़ी एक गहरे और पुराने कुएं में गिर गई। कुआं बहुत गहरा था और वह लाख कोशिशों के बाद भी बाहर नहीं निकल पा रही थी।",
+      "en": "Prowling through the fields at dusk, a cunning fox accidentally slipped and tumbled into an ancient, deep stone well. The walls were sheer and slippery, leaving him hopelessly trapped."
+    },
+    {
+      "id": "02_thirsty_goat_peers_down",
+      "title": "Scene 2: Thirsty Goat Peers Down / दृश्य 2: प्यासा बकरा झांकता है",
+      "prompt": "Cinematic 3D animation. Next morning, a goofy long-horned brown goat with a shaggy beard and wide naive eyes peeks over the well rim, looking down curiously, 16:9 widescreen 4k.",
+      "hi": "अगली सुबह एक प्यासा बकरा पानी की तलाश में वहां पहुंचा। उसने कुएं में झांका तो उसे नीचे लोमड़ी दिखाई दी।",
+      "en": "The following morning, a thirsty goat wandered past. Peering over the stone lip in search of water, he spotted the fox standing down below."
+    },
+    {
+      "id": "03_fox_spins_sweet_lie",
+      "title": "Scene 3: The Cunning Deception / दृश्य 3: लोमड़ी का मीठा झूठ",
+      "prompt": "Cinematic 3D animation. The sly fox puts on an ecstatic, blissful smile, splashing cool water playfully with his paws and drinking deeply to appear in paradise, 16:9 widescreen 4k.",
+      "hi": "लोमड़ी ने तुरंत अपनी धूर्त बुद्धि का इस्तेमाल किया। वह मुस्कुराकर बोली, 'अरे बकरे भाई! यह पानी इतना मीठा और अमृत समान है कि मैं यहां से बाहर ही नहीं निकलना चाहती! तुम भी नीचे आ जाओ!'",
+      "en": "The crafty fox concealed his predicament instantly. Licking his chops with mock delight, he shouted up: 'Ah, friend! This water is sweeter than nectar! Jump in and drink your fill!'"
+    },
+    {
+      "id": "04_foolish_goat_leaps_in",
+      "title": "Scene 4: The Foolish Leap / दृश्य 4: नासमझी में छलांग",
+      "prompt": "Cinematic 3D animation, dramatic motion. Without thinking for a second, the foolish goat leaps enthusiastically over the stone rim, plunging down with a huge splash at the bottom of the well, 16:9 widescreen 4k.",
+      "hi": "बिना यह सोचे कि वह बाहर कैसे निकलेगा, प्यासे बकरे ने तुरंत कुएं में छलांग लगा दी और छप-छप कर पानी पीने लगा।",
+      "en": "Blind with thirst, the foolish goat gave no thought to how he might ever escape. With a joyous bleat, he leaped headlong over the ledge, splashing down to the bottom."
+    },
+    {
+      "id": "05_goat_realizes_trap",
+      "title": "Scene 5: Trapped Together / दृश्य 5: कुएं में फंसा बकरा",
+      "prompt": "Cinematic 3D animation. After drinking, the goat looks up at the towering circular walls and bleats in sudden panic, realizing there is no path back up, 16:9 widescreen 4k.",
+      "hi": "अपनी प्यास बुझाने के बाद जब बकरे ने ऊपर देखा, तो उसके होश उड़ गए। उसने लोमड़ी से पूछा, 'अब हम दोनों यहाँ से बाहर कैसे निकलेंगे?'",
+      "en": "Once his thirst was slaked, the goat gazed up at the towering stone cylinder in mounting dread. 'How on earth do we get out of here?' he stammered."
+    },
+    {
+      "id": "06_fox_steps_on_horns",
+      "title": "Scene 6: Fox Climbs the Horns / दृश्य 6: सींगों पर पैर रखकर चढ़ना",
+      "prompt": "Cinematic 3D animation, fluid action. The fox climbs onto the goat's sturdy back, leaps onto his long curved horns, and springs effortlessly off his head up onto the well's stone rim, 16:9 widescreen 4k.",
+      "hi": "लोमड़ी बोली, 'तुम अपनी अगली टांगें दीवार पर टिकाओ और सींग सीधे रखो, मैं तुम्हारी पीठ और सींगों पर चढ़कर बाहर निकलती हूँ, फिर तुम्हें खींच लूँगी!' बकरा मान गया और लोमड़ी फुर्ती से बाहर कूद गई।",
+      "en": "'Stand tall against the wall,' the fox directed smoothly, 'and I shall step upon your horns to reach the top, then pull you up!' The naive goat complied, and the agile fox leaped to freedom."
+    },
+    {
+      "id": "07_fox_mocks_from_above",
+      "title": "Scene 7: Mockery from Above / दृश्य 7: लोमड़ी का उपहास",
+      "prompt": "Cinematic 3D animation. The fox sits casually on the sunny rim of the well, chuckling down at the trapped goat with a wink and a shake of his bushy tail, 16:9 widescreen 4k.",
+      "hi": "बाहर निकलते ही लोमड़ी ने भागने की तैयारी की। बकरे ने चिल्ला कर कहा, 'अरे, मुझे बाहर तो निकालो!' लोमड़ी ने मुस्कुरा कर कहा, 'अगर तुम्हारी दाढ़ी जितनी बुद्धि तुम्हारे दिमाग में होती, तो तुम कूदने से पहले बाहर निकलने का रास्ता ज़रूर देखते!'",
+      "en": "Perched safely in the morning sunshine, the fox smirked down: 'If you had as much brain as beard, silly goat, you never would have jumped in without knowing how to climb back out!'"
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. The fox trots away into the green meadow, leaving the wiser goat waiting for human farmers to arrive, golden morning atmosphere, 16:9 widescreen 4k.",
+      "hi": "सीख: 'छलांग लगाने से पहले सोचें।' किसी भी कार्य में कदम रखने से पहले उसके परिणाम और वापसी के रास्ते का विचार अवश्य कर लेना चाहिए।",
+      "en": "Moral: Look before you leap. Never enter into any scheme or enterprise without first calculating how to exit safely."
+    }
+  ]
+}

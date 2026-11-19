@@ -1,0 +1,78 @@
+{
+  "slug": "the-crow-and-the-peacock",
+  "title_en": "The Crow in Borrowed Feathers",
+  "title_hi": "उधार के पंखों वाला कौआ",
+  "sub_hook": "अपनी असलियत छुपाने का हश्र!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "crow": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "peacock": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-AriaNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_envious_crow",
+      "title": "Scene 1: An Envious Crow / दृश्य 1: ईर्ष्यालु कौआ",
+      "prompt": "Cinematic 3D animation, Pixar style. A small plain black crow sits gloomily by a river puddle, admiring the reflection of magnificent royal peacocks strutting by in the background with shimmering iridescent blue and emerald tails, 16:9 widescreen 4k.",
+      "hi": "एक कौआ अपने काले और साधारण पंखों से बहुत दुखी था। वह हमेशा मोर के सुंदर, चमकीले और रंग-बिरंगे पंखों को देखकर ईर्ष्या करता था।",
+      "en": "A discontented crow despised his plain, coal-black plumage. He spent his days brooding by the brook, enviously gazing at the glorious royal peacocks displaying their breathtaking iridescent feathers."
+    },
+    {
+      "id": "02_finding_peacock_feathers",
+      "title": "Scene 2: Finding Molted Feathers / दृश्य 2: गिरे हुए मोरपंख",
+      "prompt": "Cinematic 3D animation. The crow finds a patch of lush grass strewn with discarded glowing iridescent peacock feathers, eyes wide with mischievous delight as sparkles reflect in his dark pupils, 16:9 widescreen 4k.",
+      "hi": "एक दिन उसे जंगल में मोरों के झड़े हुए कई चमकीले पंख मिल गए। कौवे की आंखें चमक उठीं और उसके दिमाग में एक मूर्खतापूर्ण विचार आया।",
+      "en": "One morning, he stumbled across a grassy glade strewn with molted peacock plumes. Mesmerized by the glistening turquoise and gold eyespots, a foolish ambition seized his heart."
+    },
+    {
+      "id": "03_wearing_borrowed_feathers",
+      "title": "Scene 3: Wearing Borrowed Feathers / दृश्य 3: पंख चिपकाना",
+      "prompt": "Cinematic 3D animation. The comical black crow meticulously tucks the long colorful peacock feathers into his own short tail, strutting around clumsily with exaggerated pride, 16:9 widescreen 4k.",
+      "hi": "उसने सारे मोरपंख अपनी पूंछ में खोंस लिए और खुद को मोर समझकर अकड़-अकड़ कर चलने लगा। उसने अपने कौवा साथियों से बात करना भी बंद कर दिया।",
+      "en": "He eagerly stuck the resplendent plumes into his own tail and wings. Strutting with ludicrous vanity, he turned his back on his crow brethren, convinced he had transcended his common heritage."
+    },
+    {
+      "id": "04_visiting_peacocks",
+      "title": "Scene 4: Entering Peacock Flock / दृश्य 4: मोरों के झुंड में प्रवेश",
+      "prompt": "Cinematic 3D animation. The crow with awkward mismatched feathers tries to sashay boldly into an elegant gathering of graceful, towering peacocks in a royal blooming botanical garden, 16:9 widescreen 4k.",
+      "hi": "घमंड में चूर कौआ मोरों की मंडली में जा घुसा और उनके साथ शाही अंदाज़ में नाचने की कोशिश करने लगा।",
+      "en": "Swelling with unearned prestige, the disguised crow marched right into the court of regal peacocks, attempting to mimic their majestic dance among blossoming exotic orchids."
+    },
+    {
+      "id": "05_peacocks_expose_him",
+      "title": "Scene 5: Peacocks Expose Imposter / दृश्य 5: भंडाफोड़ और पिटाई",
+      "prompt": "Cinematic 3D animation, dramatic action. Elegant peacocks gather around angrily, pecking off the fake taped-on feathers, pulling them out with sharp beaks while the crow squawks in terror and shame, 16:9 widescreen 4k.",
+      "hi": "मोरों ने तुरंत पहचान लिया कि यह कोई मोर नहीं बल्कि एक ढोंगी कौआ है! उन्होंने गुस्से में अपनी चोंच से उसके सारे नकली पंख नोच डाले और उसे वहां से खदेड़ दिया।",
+      "en": "The perceptive peacocks instantly saw through the clumsy fraud. Outraged by his insolence, they converged upon him, furiously plucking away the stolen plumes and driving him out in disgrace."
+    },
+    {
+      "id": "06_crows_reject_him",
+      "title": "Scene 6: Crows Reject Him / दृश्य 6: कौवों का तिरस्कार",
+      "prompt": "Cinematic 3D animation. Bruised and bedraggled, the featherless black crow slinks back to his old flock of crows on the oak branch, but the elder crows turn their backs in stern disapproval, 16:9 widescreen 4k.",
+      "hi": "अपमानित और घायल होकर वह रोता हुआ अपने पुराने कौवे भाइयों के पास लौटा। लेकिन कौवों ने कहा, 'जब तुमने हमारा अपमान किया था, तो अब हमारे पास क्यों आए हो?'",
+      "en": "Bruised and stripped bare, the humbled crow slunk back to his former flock. But the elder crows crossed their wings, stating, 'You looked down on your own kin; there is no place for imposters here.'"
+    },
+    {
+      "id": "07_lonely_realization",
+      "title": "Scene 7: Bitter Regret / दृश्य 7: अकेलापन और पछतावा",
+      "prompt": "Cinematic 3D animation. The solitary crow sits on a weathered wooden fence under a soft drizzling twilight sky, shedding a quiet tear of deep self-reflection, 16:9 widescreen 4k.",
+      "hi": "अब कौआ न मोर रहा और न कौवे उसे स्वीकार करने को तैयार थे। वह अकेला बैठकर अपनी नासमझी पर फूट-फूट कर रोया।",
+      "en": "Cast out by both worlds, the foolish bird perched alone upon a rain-swept fence, weeping bitter tears of regret over his shallow and deceitful pretensions."
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: Embrace True Identity / दृश्य 8: स्वाभिमान की सीख",
+      "prompt": "Cinematic 3D animation. Morning dawn breaks with inspiring golden light. The crow cleans his natural black feathers, standing with genuine self-respect and humble dignity, 16:9 widescreen 4k.",
+      "hi": "उसे सीख मिली कि उधार के रूप-रंग से कोई महान नहीं बनता। ईश्वर ने हमें जैसा बनाया है, उसी में स्वाभिमान से जीना चाहिए।",
+      "en": "He finally understood the eternal truth: Borrowed glory brings only sorrow and ridicule. True dignity lies in honoring and perfecting who you genuinely are."
+    }
+  ]
+}

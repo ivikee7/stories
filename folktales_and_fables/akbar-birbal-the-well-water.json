@@ -1,0 +1,86 @@
+{
+  "slug": "akbar-birbal-the-well-water",
+  "title_en": "Akbar and Birbal: The Well Water",
+  "title_hi": "अकबर-बीरबल: कुएं का पानी और चतुर न्याय",
+  "sub_hook": "धोखेबाज की चालाकी उसी पर भारी!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "akbar": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    },
+    "birbal": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "farmer": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "greedy_neighbor": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_farmer_buys_well",
+      "title": "Scene 1: Purchasing the Well / दृश्य 1: कुआं खरीदना",
+      "prompt": "Cinematic 3D animation, Pixar style. A sincere poor farmer in a faded turban hands over a pouch of hard-earned silver coins to a wealthy, smirking neighbor in front of a stone water well on farmland, 16:9 widescreen 4k.",
+      "hi": "एक गरीब किसान ने अपने खेतों की सिंचाई के लिए अपने अमीर पड़ोसी से उसकी पूरी जमा-पूंजी देकर उसका पुराना पत्थर का कुआं खरीद लिया।",
+      "en": "A hardworking, honest farmer spent his life savings to purchase a stone irrigation well from his wealthy, cunning neighbor to water his parched crops."
+    },
+    {
+      "id": "02_neighbor_denies_water",
+      "title": "Scene 2: Water Access Denied / दृश्य 2: पानी लेने से इनकार",
+      "prompt": "Cinematic 3D animation. The next morning, the poor farmer lowers a copper bucket into the well, but the neighbor grabs the rope aggressively, pointing a finger and shouting arrogantly, 16:9 widescreen 4k.",
+      "hi": "अगले दिन जब किसान पानी निकालने पहुंचा, तो पड़ोसी ने उसे रोक दिया और कहा, 'मैंने तुम्हें केवल कुआं बेचा है, उसका पानी नहीं! यदि पानी चाहिए तो उसके अलग से पैसे देने होंगे!'",
+      "en": "The next morning, as the farmer lowered his bucket, the neighbor seized the rope: 'Stop! I sold you the well, but not the water inside it! If you want water, you must pay me a separate fee!'"
+    },
+    {
+      "id": "03_farmer_pleads_in_court",
+      "title": "Scene 3: Pleading in Akbar's Court / दृश्य 3: अकबर के दरबार में गुहार",
+      "prompt": "Cinematic 3D animation. The devastated poor farmer weeps with folded hands before Emperor Akbar on his ornate Mughal throne, explaining the cruel deception while the smug neighbor smiles arrogantly, 16:9 widescreen 4k.",
+      "hi": "दुखी किसान रोता हुआ सम्राट अकबर के दरबार में पहुंचा और न्याय की भीख मांगी। पड़ोसी ने बड़ी ढिठाई से कहा, 'जहांपनाह! कानून के मुताबिक मैंने सिर्फ कुआं बेचा है, पानी मेरा है!'",
+      "en": "Weeping in despair, the farmer brought his grievance before Emperor Akbar's imperial court. The haughty neighbor smirked: 'Your Majesty, the contract specified the stone well alone! The water remains my private property!'"
+    },
+    {
+      "id": "04_birbal_listens_keenly",
+      "title": "Scene 4: Birbal Listens Intently / दृश्य 4: बीरबल की पैनी नज़र",
+      "prompt": "Cinematic 3D animation. Minister Birbal strokes his chin with a brilliant sparkling twinkle in his eye, smiling calmly at the neighbor's supposed legal loophole, 16:9 widescreen 4k.",
+      "hi": "अकबर ने उलझकर बीरबल की ओर देखा। बीरबल मुस्कुराए और बोले, 'तुम्हारी दलील बहुत दिलचस्प है। तो तुम्हारा कहना है कि कुआं किसान का है, और पानी तुम्हारा?' पड़ोसी ने कहा, 'जी हुज़ूर, बिल्कुल!'",
+      "en": "Akbar turned to Birbal. With a quiet, penetrating smile, Birbal leaned forward: 'A fascinating argument. So you confirm under oath that the well belongs to the farmer, and the water belongs to you?' 'Precisely, Minister!' boasted the neighbor."
+    },
+    {
+      "id": "05_birbal_delivers_counterstroke",
+      "title": "Scene 5: Birbal's Masterstroke / दृश्य 5: बीरबल का पलटवार",
+      "prompt": "Cinematic 3D animation, dramatic revelation. Birbal stands up tall and gestures authoritatively toward the neighbor with an incisive commanding look, the court watching in rapt anticipation, 16:9 widescreen 4k.",
+      "hi": "बीरबल ने गंभीर होकर कहा, 'फिर तो मामला बहुत सरल है! जब कुआं किसान का है, तो तुम्हें अपना पानी उसके कुएं में रखने का कोई अधिकार नहीं है! तुम तुरंत अपना सारा पानी बाहर निकालो!'",
+      "en": "Birbal's voice rang through the hall: 'Then the matter is crystal clear! Since the well belongs entirely to the farmer, you have no right to store your water in his well! Remove your water immediately!'"
+    },
+    {
+      "id": "06_birbal_demands_rent",
+      "title": "Scene 6: Demanding Rent / दृश्य 6: किराया भरने का फरमान",
+      "prompt": "Cinematic 3D animation. The greedy neighbor's face turns pale white in sheer panic, sweating buckets, as Birbal steps closer with a sharp smile, 16:9 widescreen 4k.",
+      "hi": "'और यदि तुम अपना पानी किसान के कुएं में एक दिन भी और रखोगे, तो तुम्हें किसान को प्रतिदिन सौ सोने की मोहरें किराया देना होगा!'",
+      "en": "'Furthermore,' Birbal added firmly, 'for every single day your water has occupied the farmer's property, you must pay him one hundred gold mohurs in storage rent!'"
+    },
+    {
+      "id": "07_greedy_neighbor_begs_pardon",
+      "title": "Scene 7: Neighbor Begs for Mercy / दृश्य 7: पड़ोसी की माफ़ी",
+      "prompt": "Cinematic 3D animation. The terrified neighbor drops to his knees, trembling, prostrating before the emperor and farmer, begging for forgiveness and relinquishing all fraudulent claims, 16:9 widescreen 4k.",
+      "hi": "यह सुनकर पड़ोसी के पैरों तले ज़मीन खिसक गई! वह थर-थर कांपते हुए किसान और अकबर के पैरों में गिर पड़ा और हाथ जोड़कर माफ़ी मांगने लगा।",
+      "en": "The greedy cheat turned white as chalk. Collapsing to his knees in panic, he surrendered all deceitful claims, pleading for mercy and renouncing his fraudulent scheme."
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: Justice Triumphs / दृश्य 8: न्याय और सीख",
+      "prompt": "Cinematic 3D animation. The grateful farmer fills his bucket with sparkling pure well water under the bright sunshine, smiling with profound relief while Emperor Akbar rewards Birbal, 16:9 widescreen 4k.",
+      "hi": "अकबर ने पड़ोसी पर भारी जुर्माना लगाया और बीरबल को पुरस्कृत किया। सीख: दूसरों को ठगने के लिए गढ़ा गया जाल अंततः खुद के ही गले का फंदा बन जाता है।",
+      "en": "Emperor Akbar heavily fined the swindler and rewarded Birbal's genius. Moral: Those who dig pits of deceit for others will inevitably tumble into them themselves."
+    }
+  ]
+}

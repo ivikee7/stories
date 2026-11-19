@@ -1,0 +1,78 @@
+{
+  "slug": "the-fox-and-the-crow",
+  "title_en": "The Fox and the Crow",
+  "title_hi": "लोमड़ी और कौआ",
+  "sub_hook": "झूठी तारीफ के धोखे से बचें!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "crow": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "fox": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_crow_finds_cheese",
+      "title": "Scene 1: Crow Finds Cheese / दृश्य 1: पनीर का टुकड़ा",
+      "prompt": "Cinematic 3D animation, Pixar style. A sleek glossy black crow with bright curious eyes proudly perches on a high oak branch, holding a golden yellow triangular cheese block in its beak. Warm dappled forest sunlight filters through lush emerald leaves, 16:9 widescreen 4k.",
+      "hi": "एक काले कौवे को कहीं से स्वादिष्ट और ताज़ा पनीर का एक बड़ा टुकड़ा मिल गया। वह खुशी से झूम उठा और उसे अपनी चोंच में दबाकर एक ऊंचे पेड़ की डाल पर जा बैठा।",
+      "en": "A shiny black crow found a delicious, rich wedge of yellow cheese. Filled with pride and joy, he flew up to a tall oak tree branch to savor his treasure in peace."
+    },
+    {
+      "id": "02_hungry_fox_arrives",
+      "title": "Scene 2: Hungry Fox Arrives / दृश्य 2: भूखी लोमड़ी का आगमन",
+      "prompt": "Cinematic 3D animation, Disney Pixar aesthetic. An elegant russet fox with a bushy white-tipped tail and gleaming clever amber eyes glides gracefully through the vibrant forest underbrush, looking upwards with an amused, cunning expression, 16:9 widescreen 4k.",
+      "hi": "तभी नीचे से एक भूखी लोमड़ी गुजरी। जैसे ही उसकी नज़र कौवे की चोंच में दबे पीले पनीर पर पड़ी, उसके मुंह में पानी भर आया। उसने चालाकी से उसे हासिल करने की योजना बनाई।",
+      "en": "Just then, a sly and hungry fox strolled beneath the tree. The sight and tempting aroma of the golden cheese instantly caught her attention, and her clever mind hatched a cunning plan."
+    },
+    {
+      "id": "03_fox_flattery_begins",
+      "title": "Scene 3: Flattery Begins / दृश्य 3: झूठी तारीफ की शुरुआत",
+      "prompt": "Cinematic 3D animation. The fox sits politely below the oak tree, looking up admiringly with wide innocent eyes and an exaggerated polite smile, gesturing gently towards the crow with soft golden morning light accentuating the scene, 16:9 widescreen 4k.",
+      "hi": "लोमड़ी पेड़ के नीचे बैठ गई और मीठी आवाज़ में बोली, 'अरे सुंदर कौवे भाई! आज तो आप अत्यंत तेजस्वी दिख रहे हैं! आपके पंख तो रेशम जैसे काले और चमकदार हैं!'",
+      "en": "Sitting gracefully under the branch, the fox looked up with feigned reverence. 'Good day, magnificent crow!' she called sweetly. 'How wonderfully glossy your feathers shine in the morning sun!'"
+    },
+    {
+      "id": "04_crow_swells_with_pride",
+      "title": "Scene 4: Crow Swells with Pride / दृश्य 4: कौवे का घमंड",
+      "prompt": "Cinematic 3D animation. Close-up of the black crow puffing its feathered chest out, eyes sparkling with vanity and self-satisfaction, tilting its head proudly while still firmly holding the cheese, 16:9 widescreen 4k.",
+      "hi": "कौवे ने ऐसी मीठी तारीफ पहले कभी नहीं सुनी थी। वह अपने पंखों को फुलाकर गर्व से इतराने लगा और मन ही मन अपनी सुंदरता पर बहुत खुश हुआ।",
+      "en": "The crow had never received such dazzling compliments. Puffed up with sudden vanity, he spread his wings slightly and stood tall, basking in the flattering words."
+    },
+    {
+      "id": "05_fox_requests_song",
+      "title": "Scene 5: Fox Requests a Song / दृश्य 5: गाने की फरमाइश",
+      "prompt": "Cinematic 3D animation, emotional storytelling. The fox clasps her paws together in mock admiration, looking up as if yearning for a heavenly melody, theatrical expressive poses, fairy tale forest depth of field, 16:9 widescreen 4k.",
+      "hi": "लोमड़ी ने आगे कहा, 'जब आपका रूप इतना मनमोहक है, तो आपकी आवाज़ कितनी मधुर होगी! क्या पक्षियों का यह राजा आज मुझे एक छोटा सा गीत सुनाएगा?'",
+      "en": "'Surely,' the crafty fox continued, 'a bird so breathtaking must possess a voice sweeter than the nightingale! Won't the undisputed king of birds grace me with a single song?'"
+    },
+    {
+      "id": "06_crow_opens_beak",
+      "title": "Scene 6: Crow Sings, Cheese Falls / दृश्य 6: चोंच खुली, पनीर गिरा",
+      "prompt": "Cinematic 3D animation, dynamic motion freeze. The crow opens its beak wide with shut eyes to sing a loud 'Caw!', while the bright yellow cheese block slips and tumbles downward in slow motion through sunlit air, 16:9 widescreen 4k.",
+      "hi": "प्रशंसा सुनकर कौवा अपना आपा खो बैठा। उसने अपनी सुरीली आवाज़ साबित करने के लिए जैसे ही 'काँव-काँव' करने हेतु चोंच खोली, पनीर का टुकड़ा नीचे गिर पड़ा!",
+      "en": "Blinded by foolish pride, the crow could not resist. He threw his head back and opened his beak wide to unleash a loud 'Caw!' The instant he opened his beak, the cheese slipped free and plummeted toward the earth."
+    },
+    {
+      "id": "07_fox_catches_cheese",
+      "title": "Scene 7: Fox Catches Cheese / दृश्य 7: लोमड़ी की जीत",
+      "prompt": "Cinematic 3D animation, fluid action. The agile fox leaps into the air with a gleeful triumphant grin, snapping up the falling cheese smoothly in her jaws, landing gracefully on the mossy grass, 16:9 widescreen 4k.",
+      "hi": "लोमड़ी तो इसी पल के इंतजार में थी! उसने फुर्ती से हवा में छलांग लगाई और गिरते हुए पनीर को लपक लिया।",
+      "en": "Anticipating this exact moment, the fox sprang gracefully into the air and snapped the tasty prize right out of mid-air, landing lightly with a delighted grin."
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. The fox trots away into the golden woods with a wink, while the sad, embarrassed crow sits on the branch with drooping head and wide apologetic eyes. Sunset golden hour glow, 16:9 widescreen 4k.",
+      "hi": "लोमड़ी ने मुस्कुराते हुए कहा, 'गाना तो अच्छा नहीं था, पर पनीर बहुत लाजवाब है!' कौवे को समझ आ गया कि झूठी चापलूसी करने वालों पर कभी भरोसा नहीं करना चाहिए।",
+      "en": "Trotting away, the fox chuckled, 'Your song was harsh, but your cheese is superb! Never trust a flatterer.' The sorrowful crow learned never to let vanity cloud his common sense."
+    }
+  ]
+}

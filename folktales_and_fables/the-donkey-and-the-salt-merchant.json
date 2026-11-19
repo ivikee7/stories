@@ -1,0 +1,78 @@
+{
+  "slug": "the-donkey-and-the-salt-merchant",
+  "title_en": "The Donkey and the Salt Merchant",
+  "title_hi": "नमक का व्यापारी और कामचोर गधा",
+  "sub_hook": "चालाकी हर बार काम नहीं आती!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "merchant": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "donkey": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_heavy_salt_sacks",
+      "title": "Scene 1: Heavy Sacks of Salt / दृश्य 1: नमक की भारी बोरियां",
+      "prompt": "Cinematic 3D animation, Pixar style. A hardworking salt merchant loads heavy woven burlap sacks of white coarse rock salt onto the back of a grey stubborn donkey in a dusty village, 16:9 widescreen 4k.",
+      "hi": "एक नमक का व्यापारी हर रोज़ अपने गधे की पीठ पर नमक से भरी भारी बोरियां लादकर बाज़ार ले जाया करता था।",
+      "en": "Every morning, a hardworking merchant loaded heavy sacks of coarse rock salt onto the back of his stubborn donkey, setting off to the town market."
+    },
+    {
+      "id": "02_crossing_the_stream",
+      "title": "Scene 2: Crossing the Stream / दृश्य 2: नदी पार करते फिसलना",
+      "prompt": "Cinematic 3D animation. The donkey wades through a shallow rocky river. He slips on a smooth river stone and accidentally tumbles into the clear water, sacks submerged, 16:9 widescreen 4k.",
+      "hi": "रास्ते में एक उथली नदी बहती थी। एक दिन नदी पार करते समय अचानक गधे का पैर फिसला और वह पानी में छपाक से गिर पड़ा।",
+      "en": "On their daily journey lay a shallow, bubbling stream. One morning, the clumsy donkey slipped on a slick river rock and took an unexpected bath in the water."
+    },
+    {
+      "id": "03_salt_dissolves_load_lightens",
+      "title": "Scene 3: Salt Melts Away / दृश्य 3: नमक का घुलना",
+      "prompt": "Cinematic 3D animation. The donkey struggles back to his feet; cloudy white dissolved salt swirls into the river current. The donkey's eyes light up as he feels his load suddenly light as a feather, 16:9 widescreen 4k.",
+      "hi": "जब वह उठकर खड़ा हुआ, तो पानी में सारा नमक घुल चुका था और बोरियां बिल्कुल हल्की हो गई थीं! गधा खुशी से नाचने लगा।",
+      "en": "When he scrambled back to his hooves, the dissolved salt had washed away into the stream. His burdens felt light as a feather, and the donkey trotted on in blissful triumph."
+    },
+    {
+      "id": "04_donkey_repeats_trick",
+      "title": "Scene 4: Purposeful Splash / दृश्य 4: जानबूझकर पानी में बैठना",
+      "prompt": "Cinematic 3D animation. The next day at the exact same spot in the stream, the donkey intentionally flops down into the water with a smug, mischievous grin, 16:9 widescreen 4k.",
+      "hi": "अगले दिन जब व्यापारी ने फिर नमक लादा, तो गधे ने जानबूझकर उसी नदी में डुबकी लगा दी। फिर से नमक घुल गया और गधे को मेहनत नहीं करनी पड़ी।",
+      "en": "The very next morning, the deceitful beast intentionally plopped down in the stream. Once again the salt dissolved, saving him from carrying the heavy load."
+    },
+    {
+      "id": "05_merchant_uncovers_scheme",
+      "title": "Scene 5: Merchant Figures It Out / दृश्य 5: व्यापारी की समझदारी",
+      "prompt": "Cinematic 3D animation. The wise merchant strokes his beard with a knowing, cunning smirk, inspecting the empty wet sacks, understanding his donkey's lazy ploy, 16:9 widescreen 4k.",
+      "hi": "व्यापारी को भारी नुकसान हुआ, परंतु वह गधे की चालाकी समझ गया। उसने गधे को एक ऐसा सबक सिखाने की ठानी जो वह जीवन भर याद रखे।",
+      "en": "Having lost two days of profits, the shrewd merchant saw right through the trick. With a knowing smile, he concocted a brilliant plan to teach his lazy animal an unforgettable lesson."
+    },
+    {
+      "id": "06_loading_with_sponges",
+      "title": "Scene 6: Loading with Sponges / दृश्य 6: रुई और स्पंज लादना",
+      "prompt": "Cinematic 3D animation. The merchant loads the donkey's pack saddles with giant sacks stuffed with porous dry sea sponges and raw cotton, feeling light as air, 16:9 widescreen 4k.",
+      "hi": "तीसरे दिन, व्यापारी ने नमक की जगह बोरियों में सूखी रुई और सोख्ता स्पंज भर दिए। गधे ने सोचा, 'आज तो पहले से ही हल्का है, पानी में गिरकर और मज़ा आएगा!'",
+      "en": "The following dawn, the merchant packed the sacks with dry absorbent sponges and raw wool. The donkey grinned, thinking another easy day awaited him."
+    },
+    {
+      "id": "07_sponges_absorb_water_crushing",
+      "title": "Scene 7: Sponges Soak Up Water / दृश्य 7: पानी सोखकर भारी होना",
+      "prompt": "Cinematic 3D animation, hilarious consequence. The donkey proudly flops into the stream, but the sponges instantly absorb gallons of heavy water, swelling massive. The donkey strains and groans under immense weight, 16:9 widescreen 4k.",
+      "hi": "जैसे ही नदी आई, गधा फिर से पानी में लेट गया। लेकिन इस बार चमत्कार उल्टा हुआ! रुई और स्पंज ने खूब सारा पानी सोख लिया और बोरियों का वज़न दस गुना भारी हो गया!",
+      "en": "At the stream, the donkey gleefully plunged into the water. But instead of dissolving, the porous sponges drank up gallons of river water, swelling into crushing, waterlogged boulders!"
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: The Heavy Lesson / दृश्य 8: भारी सीख",
+      "prompt": "Cinematic 3D animation. The groaning donkey drags himself up the hill sweating profusely under the gigantic soaking sacks, while the merchant smiles serenely alongside him, 16:9 widescreen 4k.",
+      "hi": "गधा भारी बोझ तले कराहता हुआ बमुश्किल बाहर निकला। सीख: बेईमानी और धूर्तता हर बार काम नहीं आती। जो काम से बचने के लिए बहाने बनाता है, उसे अंततः दोगुना दुख भोगना पड़ता है।",
+      "en": "Groaning under the unbearable weight, the exhausted donkey dragged himself up the hill. Moral: Treachery and deceit will not work twice; laziness ultimately brings double the misery."
+    }
+  ]
+}

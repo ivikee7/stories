@@ -1,0 +1,86 @@
+{
+  "slug": "akbar-birbal-the-real-mother",
+  "title_en": "Akbar and Birbal: The Real Mother",
+  "title_hi": "अकबर-बीरबल: असली माँ की पहचान",
+  "sub_hook": "सच्चे प्रेम की कभी नकल नहीं हो सकती!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "akbar": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-EricNeural"
+    },
+    "birbal": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "woman_one": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural"
+    },
+    "woman_two": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_royal_court_dispute",
+      "title": "Scene 1: Dispute in the Darbar / दृश्य 1: शाही दरबार में विवाद",
+      "prompt": "Cinematic 3D animation, Pixar style. Emperor Akbar's opulent Mughal court with marble pillars, ornate carpets, and golden throne. Two crying village women stand before the emperor, both clutching and claiming the same sweet crying baby boy, 16:9 widescreen 4k.",
+      "hi": "शहंशाह अकबर के दरबार में दो औरतें एक छोटे और प्यारे बच्चे को लेकर आईं। दोनों रो-रोकर दावा कर रही थीं कि यह बच्चा उन्हीं का है।",
+      "en": "In the grand marble court of Emperor Akbar, two weeping women stood before the golden throne, each vehemently claiming to be the true mother of an innocent, crying baby."
+    },
+    {
+      "id": "02_akbar_in_dilemma",
+      "title": "Scene 2: Akbar's Dilemma / दृश्य 2: अकबर का धर्मसंकट",
+      "prompt": "Cinematic 3D animation. Emperor Akbar in royal turban and jewels furrows his brow in deep bewilderment, looking at the weeping witnesses, unable to decide who is telling the truth, 16:9 widescreen 4k.",
+      "hi": "अकबर ने कई गवाहों से पूछताछ की, पर कोई ठोस सुराग नहीं मिला। दोनों औरतें एक जैसा रो रही थीं और बच्चे को छोड़ने को तैयार नहीं थीं। अकबर उलझन में पड़ गए।",
+      "en": "Akbar questioned court witnesses and townspeople, but found no conclusive evidence. Both women shed desperate tears, leaving the emperor completely baffled."
+    },
+    {
+      "id": "03_birbal_takes_charge",
+      "title": "Scene 3: Birbal Steps Forward / दृश्य 3: बीरबल की चतुराई",
+      "prompt": "Cinematic 3D animation. The wise minister Birbal with a sharp, thoughtful smile steps forward calmly, bowing respectfully to Akbar, radiating calm intellectual confidence, 16:9 widescreen 4k.",
+      "hi": "अकबर ने अपने सबसे बुद्धिमान मंत्री बीरबल की ओर देखा। बीरबल मुस्कुराते हुए आगे आए और बोले, 'जहांपनाह, मुझे कुछ क्षण दीजिए, दूध का दूध और पानी का पानी हो जाएगा।'",
+      "en": "Turning to his sharpest advisor, Akbar tasked Birbal with solving the mystery. With a calm, reassuring bow, Birbal stepped forward: 'Your Majesty, the truth shall reveal itself in moments.'"
+    },
+    {
+      "id": "04_birbal_sword_decree",
+      "title": "Scene 4: The Shocking Decree / दृश्य 4: चौंकाने वाला फैसला",
+      "prompt": "Cinematic 3D animation, dramatic lighting. Birbal calls an imposing royal guard with a glittering curved talwar sword, commanding him to cut the baby into two equal halves so each woman gets one, 16:9 widescreen 4k.",
+      "hi": "बीरबल ने जल्लाद को तलवार के साथ बुलाया और घोषणा की, 'चूंकि दोनों में से कोई पीछे नहीं हट रहा, इसलिए इस बच्चे को तलवार से दो बराबर हिस्सों में काट दिया जाए और आधा-आधा दोनों को दे दिया जाए!'",
+      "en": "Summoning a royal guard with a gleaming scimitar, Birbal announced sternly: 'Since both claim the child equally, divide the baby in half with one stroke, giving each woman an equal share!'"
+    },
+    {
+      "id": "05_reactions_of_two_women",
+      "title": "Scene 5: The Contrast of Reactions / दृश्य 5: दो भिन्न प्रतिक्रियाएं",
+      "prompt": "Cinematic 3D animation, powerful emotional contrast. The first woman stands cold and vindictive saying 'Yes, cut it!', while the second woman collapses to her knees in pure agony, weeping uncontrollably, 16:9 widescreen 4k.",
+      "hi": "यह सुनते ही पहली औरत बोली, 'हाँ ठीक है! न मेरा होगा न इसका, इसे आधा-आधा काट दो!' परंतु दूसरी औरत तड़प उठी और रोते हुए बीरबल के पैरों में गिर पड़ी।",
+      "en": "The first woman nodded coldly: 'Fair enough! Let neither of us have him!' But the second woman shrieked in mortal anguish, throwing herself at Birbal's feet in desperate tears."
+    },
+    {
+      "id": "06_real_mother_surrenders_child",
+      "title": "Scene 6: Plea of True Love / दृश्य 6: ममता की पुकार",
+      "prompt": "Cinematic 3D animation, heart-wrenching emotional close-up. The weeping woman clasps her hands together towards Akbar, begging for the baby's life to be spared even if it means giving him to the rival, 16:9 widescreen 4k.",
+      "hi": "वह हाथ जोड़कर चिल्लाई, 'हुज़ूर, बच्चे को मत मारिए! भले ही इसे उस दूसरी औरत को दे दीजिए, कम से कम मेरा लाल ज़िंदा तो रहेगा!'",
+      "en": "'Mercy, my Lord!' she sobbed, trembling. 'Do not harm my child! Give him entirely to this other woman—let her raise him, so long as my precious boy lives!'"
+    },
+    {
+      "id": "07_birbal_delivers_justice",
+      "title": "Scene 7: Truth Revealed / दृश्य 7: न्याय की घोषणा",
+      "prompt": "Cinematic 3D animation. Birbal points authoritatively at the weeping kneeling woman, smiling warmly, while court guards seize the deceitful jealous imposter, 16:9 widescreen 4k.",
+      "hi": "बीरबल ने तुरंत सैनिक को तलवार रोकने का इशारा किया और मुस्कुराते हुए कहा, 'यही असली माँ है! एक असली माँ अपने बच्चे को किसी और की गोद में देख सकती है, पर कटते हुए कभी नहीं!'",
+      "en": "Birbal immediately halted the sword. 'Hand the child to this weeping woman!' he declared. 'A true mother would sacrifice her own happiness rather than see her baby harmed!'"
+    },
+    {
+      "id": "08_justice_triumphs",
+      "title": "Scene 8: Justice and Praise / दृश्य 8: न्याय की जय-जयकार",
+      "prompt": "Cinematic 3D animation. The joyful mother hugs her smiling baby close to her chest, tears of gratitude streaming down her face, while Akbar and the entire royal court applaud Birbal's unmatched wisdom, 16:9 widescreen 4k.",
+      "hi": "अकबर ने झूठी औरत को जेल भेजने का आदेश दिया और बीरबल की बुद्धिमानी की भूरि-भूरि प्रशंसा की। माँ को उसका बच्चा सकुशल मिल गया।",
+      "en": "The deceitful imposter was thrown into prison while the weeping mother clutched her baby with boundless joy. Emperor Akbar and the court rejoiced in Birbal's incomparable brilliance."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "the-farmer-and-the-snake",
+  "title_en": "The Farmer and the Frozen Snake",
+  "title_hi": "किसान और जहरीला सांप",
+  "sub_hook": "दुष्ट पर दया करना अपने पैरों पर कुल्हाड़ी मारना है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "farmer": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural"
+    },
+    "snake": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-EricNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_frozen_winter_morning",
+      "title": "Scene 1: Frozen Morning / दृश्य 1: कड़कड़ाती ठंड",
+      "prompt": "Cinematic 3D animation, Pixar style. A gentle elderly farmer with a knitted wool scarf and kind crinkled eyes trudges through thick glittering white snow along a farm path lined with frost-covered fences, 16:9 widescreen 4k.",
+      "hi": "सर्दियों की एक ठिठुरती सुबह, एक दयालु किसान अपने खेत की ओर जा रहा था। चारों तरफ बर्फ की मोटी चादर बिछी हुई थी और कड़ाके की ठंड पड़ रही थी।",
+      "en": "On a biting winter morning, a gentle-hearted farmer trudged along a frosty path. The countryside was buried beneath deep, shimmering snow, and the air was razor-sharp with frost."
+    },
+    {
+      "id": "02_discovering_frozen_snake",
+      "title": "Scene 2: Finding Frozen Snake / दृश्य 2: जमा हुआ सांप",
+      "prompt": "Cinematic 3D animation. In the white snow lies a dark patterned venomous viper, stiff as a stone stick, covered with delicate frost crystals. The farmer kneels down with deep concern, 16:9 widescreen 4k.",
+      "hi": "रास्ते में उसने बर्फ पर एक जहरीले सांप को देखा, जो ठंड के मारे पत्थर की तरह अकड़ चुका था और मरने की कगार पर था।",
+      "en": "By the roadside lay a venomous snake, frozen stiff as an icicle. It was paralyzed and clinging to the final embers of life, motionless in the snow."
+    },
+    {
+      "id": "03_farmer_shows_pity",
+      "title": "Scene 3: Pity in the Heart / दृश्य 3: किसान की करुणा",
+      "prompt": "Cinematic 3D animation. The farmer tenderly picks up the cold, rigid serpent with his gloved hands, cradling it gently against his warm woollen jacket, glowing with genuine benevolence, 16:9 widescreen 4k.",
+      "hi": "किसान के दिल में दया आ गई। उसने सोचा, 'यदि इसे गरमी नहीं मिली तो यह मर जाएगा।' उसने बिना अपनी सुरक्षा की परवाह किए उस सांप को अपनी छाती से लगा लिया।",
+      "en": "Pity stirred within the old farmer's generous heart. 'Poor creature,' he murmured, 'you will perish without warmth.' He tenderly scooped the serpent up and tucked it beneath his warm coat."
+    },
+    {
+      "id": "04_snake_revives",
+      "title": "Scene 4: Snake Revives / दृश्य 4: सांप में जान लौटना",
+      "prompt": "Cinematic 3D animation. Inside the warm farmhouse by a crackling fireplace, the serpent begins to thaw; its amber slit eyes snap open, scales regaining glossy dark luster as it slithers softly, 16:9 widescreen 4k.",
+      "hi": "किसान के शरीर की गरमी पाते ही सांप का शरीर पिघलने लगा। धीरे-धीरे उसमें जान आ गई और उसने अपनी चमकती आंखें खोल लीं।",
+      "en": "Nourished by the gentle body heat of the farmer, the frozen serpent thawed. Vitality surged back through its veins, its glassy eyes blinked awake with cold malice."
+    },
+    {
+      "id": "05_snake_strikes_back",
+      "title": "Scene 5: The Ungrateful Strike / दृश्य 5: कृतघ्न वार",
+      "prompt": "Cinematic 3D animation, dramatic tension. The viper coils suddenly, flaring its hood with fangs dripping venom, striking aggressively towards the startled farmer who recoils in shock, 16:9 widescreen 4k.",
+      "hi": "होश में आते ही सांप ने अपनी जहरीली फितरत दिखाई। अपनी जान बचाने वाले दयालु किसान के प्रति आभार व्यक्त करने के बजाय, उसने डसने के लिए अपना फन उठा लिया!",
+      "en": "The moment its deadly strength returned, the snake coiled in striking posture, hissing with venomous spite at the very man who had saved its life."
+    },
+    {
+      "id": "06_farmer_defends_himself",
+      "title": "Scene 6: Farmer Neutralizes Threat / दृश्य 6: किसान का बचाव",
+      "prompt": "Cinematic 3D animation. Fast defensive action. The farmer swiftly grabs a nearby fireplace poker, batting the striking viper away into the hearth before it can sink its fangs, 16:9 widescreen 4k.",
+      "hi": "सौभाग्य से किसान सतर्क हो गया। उसने तुरंत पास रखे चिमटे से सांप को दूर धकेल दिया और अपनी रक्षा की।",
+      "en": "Fortunately, the farmer's quick instincts flared. Seizing a sturdy iron poker, he struck down the viper before its lethal fangs could pierce his skin."
+    },
+    {
+      "id": "07_farmer_speech",
+      "title": "Scene 7: Words of Wisdom / दृश्य 7: किसान का उद्गार",
+      "prompt": "Cinematic 3D animation. The farmer catches his breath, standing tall beside the cozy crackling hearth, looking down solemnly at the defeated viper with sorrowful wisdom, 16:9 widescreen 4k.",
+      "hi": "किसान ने लंबी सांस लेते हुए कहा, 'मैंने तुम्हें जीवनदान दिया, और तुमने मुझे ही मौत देनी चाही! दुष्ट की मूल प्रकृति कभी नहीं बदलती।'",
+      "en": "Catching his breath, the farmer shook his head sorrowfully: 'I gave you warmth and life, yet you repaid me with a deadly strike. A venomous nature never changes.'"
+    },
+    {
+      "id": "08_moral_conclusion",
+      "title": "Scene 8: The Moral / दृश्य 8: सीख",
+      "prompt": "Cinematic 3D animation. Warm glow of the firelight reflecting on the farmer's thoughtful face as winter snowflakes gently fall outside the window pane. Atmospheric, thoughtful ending, 16:9 widescreen 4k.",
+      "hi": "सीख: जो जन्मजात दुष्ट और जहरीले स्वभाव के होते हैं, उन पर दया करना स्वयं के विनाश को निमंत्रण देना है। दया हमेशा सुपात्र पर ही करनी चाहिए।",
+      "en": "Moral: Kindness shown to the naturally vicious and treacherous will only be repaid with venom. Bestow compassion wisely."
+    }
+  ]
+}

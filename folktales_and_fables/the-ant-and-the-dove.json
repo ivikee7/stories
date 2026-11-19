@@ -1,0 +1,78 @@
+{
+  "slug": "the-ant-and-the-dove",
+  "title_en": "The Ant and the Dove",
+  "title_hi": "चींटी और सफेद कबूतर",
+  "sub_hook": "भलाई का बदला भलाई से मिलता है!",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "dove": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-AriaNeural"
+    },
+    "ant": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_thirsty_ant_slips",
+      "title": "Scene 1: Thirsty Ant at the Brook / दृश्य 1: नदी किनारे प्यासी चींटी",
+      "prompt": "Cinematic 3D animation, Pixar style. A tiny, cute reddish-brown ant leans over a dewy mossy river pebble to drink crystal clear water from a babbling brook. The current sweeps over her and she tumbles into the swirling rapids, 16:9 widescreen 4k.",
+      "hi": "एक बार एक नन्ही चींटी को बहुत ज़ोरों की प्यास लगी थी। वह पानी पीने के लिए एक साफ नदी के किनारे गई, परंतु पैर फिसलने से वह तेज़ धार में बह गई।",
+      "en": "On a warm afternoon, a tiny thirsty ant walked to the edge of a bubbling brook to drink. Overreaching upon a slippery pebble, she lost her footing and tumbled into the swirling current."
+    },
+    {
+      "id": "02_ant_struggles_in_water",
+      "title": "Scene 2: Drowning in the Waves / दृश्य 2: डूबने का संकट",
+      "prompt": "Cinematic 3D animation. The little ant flails her tiny legs helplessly amidst sparkling splashing water droplets, gasping for air as the current carries her toward deep water, 16:9 widescreen 4k.",
+      "hi": "चींटी डूबने लगी और अपनी जान बचाने के लिए हाथ-पैर मारने लगी। उसे लगा कि आज उसकी मृत्यु निश्चित है।",
+      "en": "Swept downstream by the relentless current, the poor ant struggled desperately for survival, her tiny legs paddling frantically against the engulfing waves."
+    },
+    {
+      "id": "03_dove_drops_leaf",
+      "title": "Scene 3: Dove's Mercy / दृश्य 3: कबूतर की दया",
+      "prompt": "Cinematic 3D animation. High in a weeping willow tree, an elegant pure snow-white dove with soft pink beak plucks a broad green leaf, swooping down gracefully to drop it right next to the struggling ant, 16:9 widescreen 4k.",
+      "hi": "पेड़ की डाल पर बैठा एक दयालु सफेद कबूतर यह सब देख रहा था। उसने तुरंत अपनी चोंच से एक बड़ा हरा पत्ता तोड़ा और नदी में चींटी के सामने गिरा दिया।",
+      "en": "Perched upon a willow branch overhead, a gentle white dove witnessed her plight. Moved by pity, the dove plucked a broad green leaf with her beak and dropped it right into the water beside the drowning ant."
+    },
+    {
+      "id": "04_ant_saved_on_leaf",
+      "title": "Scene 4: Floating to Safety / दृश्य 4: किनारे पर सुरक्षित पहुंचना",
+      "prompt": "Cinematic 3D animation. The wet little ant climbs safely onto the floating dry green leaf, steering it like a boat until it gently bumps against the sandy riverbank, 16:9 widescreen 4k.",
+      "hi": "चींटी ने हिम्मत की और तैरकर पत्ते पर चढ़ गई। पत्ता बहता हुआ किनारे की सूखी रेत से टकराया और चींटी की जान बच गई। उसने दिल से कबूतर का धन्यवाद किया।",
+      "en": "Scrambling aboard the leaf, the shivering ant caught her breath. The leaf drifted gently downstream until it ran aground on dry sandy shores, delivering her safely back to life."
+    },
+    {
+      "id": "05_hunter_aims_at_dove",
+      "title": "Scene 5: The Hunter's Trap / दृश्य 5: शिकारी का निशाना",
+      "prompt": "Cinematic 3D animation, dramatic suspense. A stealthy hunter in camouflage tunic creeps behind bushes, aiming a loaded bird net and bow straight at the unsuspecting white dove resting peacefully on the willow branch, 16:9 widescreen 4k.",
+      "hi": "कुछ दिनों बाद, एक क्रूर शिकारी जंगल में आया। उसने पेड़ पर बैठी उसी निर्दोष कबूतर को देखा और उस पर अपना जाल और तीर तान दिया।",
+      "en": "A few days later, a bird-catcher crept through the undergrowth. Spotting the graceful dove resting unaware upon the willow bough, he leveled his net and arrow with deadly precision."
+    },
+    {
+      "id": "06_ant_bites_hunter_foot",
+      "title": "Scene 6: Ant Bites the Heel / दृश्य 6: शिकारी के पैर में काटना",
+      "prompt": "Cinematic 3D animation, dynamic micro action. Extreme close-up. The little ant races up the hunter's leather sandal and sinks her sharp mandibles fiercely into the hunter's bare ankle, 16:9 widescreen 4k.",
+      "hi": "वही चींटी पास से गुजर रही थी। उसने देखा कि उसकी प्राणदाता कबूतर खतरे में है! बिना एक पल गंवाए, चींटी तेज़ी से शिकारी के पैर पर चढ़ी और उसकी एड़ी में ज़ोर से काट लिया!",
+      "en": "Passing through the grass, the grateful ant noticed the imminent peril threatening her savior. Without hesitation, she sprinted up the hunter's leather strap and bit his bare heel with all her might!"
+    },
+    {
+      "id": "07_hunter_screams_dove_flies",
+      "title": "Scene 7: The Scream and Escape / दृश्य 7: चीख और कबूतर की उड़ान",
+      "prompt": "Cinematic 3D animation, swift action. The hunter drops his net with a loud yelp of agony 'OUCH!', while the startled white dove takes flight with powerful white wings beating gracefully toward the blue sky, 16:9 widescreen 4k.",
+      "hi": "शिकारी दर्द से 'हाय!' करके चिल्ला उठा और उसका निशाना चूक गया। आवाज़ सुनते ही कबूतर फड़फड़ा कर नीले आकाश में सुरक्षित उड़ गई।",
+      "en": "The hunter yelped in piercing agony, dropping his net. Alerted by the commotion, the dove snapped her pristine wings and soared effortlessly high into the safety of the heavens."
+    },
+    {
+      "id": "08_moral_lesson",
+      "title": "Scene 8: Mutual Gratitude / दृश्य 8: कृतज्ञता और सीख",
+      "prompt": "Cinematic 3D animation. The soaring dove dips low to nod tenderly at the tiny brave ant standing on a flower petal in the sun-drenched meadow, 16:9 widescreen 4k.",
+      "hi": "चींटी ने कबूतर के उपकार का बदला चुका दिया था। सीख: किया गया नेकी का कार्य कभी व्यर्थ नहीं जाता। दूसरों की भलाई करने पर ईश्वर संकट में आपकी रक्षा स्वयं करता है।",
+      "en": "Looking down, the grateful dove cooed in thankfulness to her tiny rescuer. Moral: One good turn deserves another; kindness planted always bears fruit."
+    }
+  ]
+}

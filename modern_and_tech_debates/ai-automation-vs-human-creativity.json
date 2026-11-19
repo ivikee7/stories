@@ -1,0 +1,78 @@
+{
+  "slug": "ai-automation-vs-human-creativity",
+  "title_en": "AI Automation vs Human Creativity",
+  "title_hi": "एआई ऑटोमेशन बनाम मानवीय रचनात्मकता",
+  "sub_hook": "मशीनी गणना या मानवीय आत्मा: असली सृजन किसका?",
+  "characters": {
+    "narrator": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-ChristopherNeural"
+    },
+    "maya_artist": {
+      "voice_hi": "hi-IN-SwaraNeural",
+      "voice_en": "en-US-JennyNeural"
+    },
+    "dev_engineer": {
+      "voice_hi": "hi-IN-MadhurNeural",
+      "voice_en": "en-US-GuyNeural"
+    }
+  },
+  "scenes": [
+    {
+      "id": "01_the_creative_crossroads",
+      "title": "Scene 1: The Creative Crossroads / दृश्य 1: सृजन का नया मोड़",
+      "prompt": "Cinematic 3D animation, Pixar style. A futuristic studio setting where glowing holographic neural network ribbons weave harmoniously with classical oil painting easels, musical instruments, and manuscripts, 16:9 widescreen 4k.",
+      "hi": "आर्टिफिशियल इंटेलिजेंस (AI) के अभूतपूर्व विकास ने आज मानवता के सामने एक गहरा सवाल खड़ा कर दिया है: क्या मशीनें इंसानी कल्पना और रचनात्मकता को पीछे छोड़ देंगी?",
+      "en": "The dawn of advanced artificial intelligence confronts humanity with an existential question: Will autonomous neural models supplant the sacred fire of human imagination?"
+    },
+    {
+      "id": "02_dev_champions_speed_and_scale",
+      "title": "Scene 2: Speed, Scale, and Precision / दृश्य 2: गति और असीम संभावनाएं",
+      "prompt": "Cinematic 3D animation. Dev, an enthusiastic young AI research engineer, gestures toward swirling holographic screens generating intricate architectural blueprints and 3D worlds in seconds, 16:9 widescreen 4k.",
+      "hi": "देव का मानना है, 'एआई ने रचनात्मकता का लोकतंत्रीकरण किया है! जो काम हफ्तों में होता था, वह अब सेकंडों में हो रहा है। हर व्यक्ति बिना तकनीकी बाधा के अपने विचारों को साकार कर सकता है।'",
+      "en": "Dev champions the transformation: 'AI democratizes artistic expression! Tasks that once took weeks now materialize in seconds. Anyone can manifest their inner visions without technical bottlenecks.'"
+    },
+    {
+      "id": "03_maya_defends_soulful_art",
+      "title": "Scene 3: The Soul in Imperfection / दृश्य 3: कला में मानवीय आत्मा",
+      "prompt": "Cinematic 3D animation. Maya, a passionate painter, tenderly mixes vibrant cobalt and cadmium oil paints on a wooden palette, showing brushstrokes born from personal lived pain and joy, 16:9 widescreen 4k.",
+      "hi": "माया विरोध करते हुए कहती हैं, 'सच्ची कला केवल पिक्सल्स का संयोजन नहीं है! कला का जन्म जीवन के सुख-दुख, प्रेम और अनुभूतियों से होता है। मशीन के पास डेटा तो है, परंतु धड़कता हुआ दिल नहीं!'",
+      "en": "Maya counters with fierce conviction: 'True art is not merely statistical pattern matching! Great creations emerge from suffering, ecstasy, and mortal vulnerability. An algorithm has data, but no beating soul!'"
+    },
+    {
+      "id": "04_the_crisis_of_homogenization",
+      "title": "Scene 4: The Threat of Homogenization / दृश्य 4: एकरूपता का खतरा",
+      "prompt": "Cinematic 3D animation. A conveyor belt producing identical slick polished generic digital images, while Maya looks alarmed at the loss of quirky originality and deep personal storytelling, 16:9 widescreen 4k.",
+      "hi": "यदि सब कुछ एल्गोरिदम तय करेंगे, तो दुनिया में कला का स्तर एकरस और मशीनी हो जाएगा। जब तक कला में मानवीय संघर्ष की सुगंध न हो, वह केवल एक खाली प्रतिध्वनि बन कर रह जाती है।",
+      "en": "Without the raw friction of lived experience, automated culture risks degenerating into an endless hall of sterile mirrors—glossy, technically immaculate, yet spiritually hollow."
+    },
+    {
+      "id": "05_ai_as_the_ultimate_brush",
+      "title": "Scene 5: AI as the Modern Brush / दृश्य 5: एआई आधुनिक तूलिका",
+      "prompt": "Cinematic 3D animation. Maya uses an interactive light stylus, guiding an AI generator to explore variations of an ancient temple, directing each brushstroke with her own artistic vision, 16:9 widescreen 4k.",
+      "hi": "देव याद दिलाते हैं कि जब कैमरा आया था, तब भी चित्रकला के खत्म होने का डर था; पर कैमरे ने फोटोग्राफी की नई कला को जन्म दिया! एआई कलाकार की जगह नहीं लेगा, बल्कि उसकी शक्ति को सौ गुना बढ़ा देगा।",
+      "en": "Dev highlights historical precedent: 'When photography was born, critics warned painting was dead! Instead, it liberated artists to invent Impressionism. AI is not the creator; it is the ultimate creative brush.'"
+    },
+    {
+      "id": "06_human_curation_is_key",
+      "title": "Scene 6: Curation and Intent / दृश्य 6: उद्देश्य और मानवीय चुनाव",
+      "prompt": "Cinematic 3D animation. Split view of a human director selecting the one emotionally resonant storyboard out of thousands of generated sketches, infusing it with moral weight, 16:9 widescreen 4k.",
+      "hi": "मशीन एक सेकंड में दस हज़ार चित्र बना सकती है, पर उनमें से कौन सा चित्र इंसान के दिल को छू लेगा—यह तय करने की क्षमता हमेशा इंसान के पास ही रहेगी।",
+      "en": "An AI can generate ten thousand musical scores in an afternoon, but only the discerning human heart knows which solitary chord will move an audience to tears."
+    },
+    {
+      "id": "07_the_symbiotic_future",
+      "title": "Scene 7: Symbiosis of Mind and Machine / दृश्य 7: सह-अस्तित्व और संगम",
+      "prompt": "Cinematic 3D animation. Maya and Dev collaborating in a sunlit futuristic pavilion, combining biological empathy with algorithmic processing to sculpt breathtaking cinematic worlds, 16:9 widescreen 4k.",
+      "hi": "सच्चा भविष्य दोनों के सामंजस्य में है। जब मशीन की असीम गणना शक्ति और इंसान की गहरी संवेदनशीलता एक साथ मिलती है, तब कला के ऐसे नए शिखर छूए जा सकते हैं जिनकी कल्पना पहले संभव नहीं थी।",
+      "en": "The ultimate triumph lies in profound symbiosis: marrying the computational power of algorithms with the unyielding moral empathy of the human spirit to open uncharted realms of wonder."
+    },
+    {
+      "id": "08_moral_conclusion",
+      "title": "Scene 8: Human Heart Remains Sovereign / दृश्य 8: हृदय की संप्रभुता",
+      "prompt": "Cinematic 3D animation. Warm golden dawn rising over a vibrant human city where technology and culture thrive side-by-side in harmony, glowing with optimism, 16:9 widescreen 4k.",
+      "hi": "सीख: उपकरण चाहे कितने भी उन्नत हो जाएं, सृजन का स्रोत सदा मानवीय चेतना ही रहेगी। तकनीक माध्यम है, पर संदेश और संवेदना सदैव इंसान की ही रहेगी।",
+      "en": "Final Truth: However sophisticated our tools become, the compass of human intention, empathy, and love will forever remain the sovereign spark of creation."
+    }
+  ]
+}
